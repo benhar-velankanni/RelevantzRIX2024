@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator and Slides</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .calculator, .slideshow {
+            margin-bottom: 30px;
+        }
+        .slideshow img {
+            width: 300px;
+            height: 200px;
+            display: none;
+        }
+        .slideshow img.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator">
+        <h2>Calculator</h2>
+        <input type="text" id="result" readonly>
+        <br>
+        <button onclick="clearResult()">C</button>
+        <button onclick="appendValue('1')">1</button>
+        <button onclick="appendValue('2')">2</button>
+        <button onclick="appendValue('3')">3</button>
+        <button onclick="appendValue('+')">+</button>
+        <br>
+        <button onclick="appendValue('4')">4</button>
+        <button onclick="appendValue('5')">5</button>
+        <button onclick="appendValue('6')">6</button>
+        <button onclick="appendValue('-')">-</button>
+        <br>
+        <button onclick="appendValue('7')">7</button>
+        <button onclick="appendValue('8')">8</button>
+        <button onclick="appendValue('9')">9</button>
+        <button onclick="appendValue('*')">*</button>
+        <br>
+        <button onclick="appendValue('0')">0</button>
+        <button onclick="appendValue('.')">.</button>
+        <button onclick="calculate()">=</button>
+        <button onclick="appendValue('/')">/</button>
+    </div>
+ 
+    <div class="slideshow">
+        <h2>Slideshow</h2>
+        <img src="https://via.placeholder.com/300x200?text=Slide+1" class="active" alt="Slide 1">
+        <img src="https://via.placeholder.com/300x200?text=Slide+2" alt="Slide 2">
+        <img src="https://via.placeholder.com/300x200?text=Slide+3" alt="Slide 3">
+        <br>
+        <button onclick="prevSlide()">Previous</button>
+        <button onclick="nextSlide()">Next</button>
+    </div>
+ 
+    <script>
+        // Calculator Logic
+        function appendValue(value) {
+            document.getElementById('result').value += value;
+        }
+ 
+        function clearResult() {
+            document.getElementById('result').value = '';
+        }
+ 
+        function calculate() {
+            try {
+                document.getElementById('result').value = eval(document.getElementById('result').value);
+            } catch (e) {
+                alert('Invalid Expression');
+            }
+        }
+ 
+        // Slideshow Logic
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slideshow img');
+ 
+        function showSlide(index) {
+            slides.forEach((slide, i) => {
+                slide.classList.toggle('active', i === index);
+            });
+        }
+ 
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % slides.length;
+            showSlide(currentSlide);
+        }
+ 
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+            showSlide(currentSlide);
+        }
+    </script>
+</body>
+</html></html>

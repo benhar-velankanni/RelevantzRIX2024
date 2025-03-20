@@ -1,0 +1,49 @@
+body {
+    background-color: tomato;
+}
+
+h1 {
+    color: rgb(102, 255, 0);
+}
+
+VV {
+    color: yellowgreen;
+}
+
+.apple h1 {
+    color: aqua;
+}
+
+.ap {
+    background-color: rgb(250, 5, 29);
+    width: 100px;
+    height: 110px;
+    border-radius: 100px;
+}
+
+.ap1 {
+    background-color: rgb(240, 43, 43);
+    width: 100px;
+    height: 110px;
+    border-radius: 100px;
+    margin-top: -110px;
+    margin-left: 30px;
+}
+
+.st {
+    background-color: chartreuse;
+    height: 35px;
+    width: 10px;
+    margin-top: -125px;
+    margin-left: 60px;
+}
+
+.st1 {
+    background-color: chartreuse;
+    height: 30px;
+    width: 50px;
+    margin-top: -35px;
+    margin-left: 70px;
+    border-radius: 200px;
+    opacity: 80%;
+}

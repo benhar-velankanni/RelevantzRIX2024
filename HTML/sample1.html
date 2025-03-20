@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="calculator using js">
+        <input type="text" id="userInput" placeholder="Type here" />
+        <button type="submit">1</button>
+        <button type="submit">2</button>
+        <button type="submit">3</button>
+        <button type="submit">+</button>
+        <button type="submit">=</button>
+    </form>
+    
+</body>
+</html>
+<script>
+    const buttons = document.querySelectorAll("button");
+    const userInput = document.getElementById("userInput");
+    let firstNumber = 0;
+    let secondNumber = 0;
+    let operator = "";
+    let result = 0;
+
+    buttons.forEach((button) => {
+        button.addEventListener("click", (event) => {
+            event.preventDefault();
+            const value = event.target.innerText;
+            if (value === "+" || value === "=") {
+                if (operator === "+") {
+                    result = firstNumber + secondNumber;
+                }
+                if (value === "+") {
+                    operator = "+";
+                }
+                if (value === "=") {
+                    userInput.value = result;
+                    firstNumber = result;
+                    secondNumber = 0;
+                    operator = "";
+                    result = 0;
+                }
+            } else {
+                if (operator === "") {
+                    firstNumber = firstNumber * 10 + parseInt(value);
+                    userInput.value = firstNumber;
+                } else {
+                    secondNumber = secondNumber * 10 + parseInt(value);
+                    userInput.value = secondNumber;
+                }
+            }
+        });
+    });
+</script>

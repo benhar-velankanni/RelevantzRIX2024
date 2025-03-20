@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script>
+
+    function displayInput() {
+        // Get the value from the input field
+        const userInput = document.getElementById("userInput").value;
+        // Display the value in the output div
+        document.getElementById("output").innerText = "You entered: " + userInput;
+    }
+</script>
+<body>
+    <form onsubmit="event.preventDefault(); displayInput();">
+        <label for="userInput">Enter something:</label>
+        <input type="text" id="userInput" placeholder="Type here" />
+        <button type="submit">Submit</button>
+    </form>
+    <div id="output" style="margin-top: 20px;"></div>
+</body>
+</html>
