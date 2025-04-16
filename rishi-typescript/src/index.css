@@ -1,0 +1,121 @@
+.Product-container, .Book-container, .Car-container, .Employee-container, .Course-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 600px;
+  border: 1px solid #0e0000;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 25px;
+  /* background: linear-gradient(135deg, #e0e0e0, #f5f5f5); */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Product-container form, .Book-container form, .Car-container form, .Employee-container form, .Course-container form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.Product-container form input, .Book-container form input, .Car-container form input, .Employee-container form input, .Course-container form input {
+  width: 90%;
+  padding: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  transition: border-color 0.3s ease;
+  height: 50px;
+}
+
+.Product-container form input:focus, .Book-container form input:focus, .Car-container form input:focus, .Employee-container form input:focus, .Course-container form input:focus {
+  border-color: #646cff;
+  outline: none;
+}
+
+.Product-container form button, .Book-container form button, .Car-container form button, .Employee-container form button, .Course-container form button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.Product-container form button:hover, .Book-container form button:hover, .Car-container form button:hover, .Employee-container form button:hover, .Course-container form button:hover {
+  background-color: #3e8e41;
+  transform: translateY(-2px);
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 5px 3px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.2s ease;
+}
+
+button:hover {
+  background-color: #344b35;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.Main-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #e01515;
+  padding: 25px;
+  box-shadow: 0 4px 8px rgba(254, 4, 4, 0.2);
+  border-radius: 8px;
+}
+
+#productform, #bookform, #carform, #employeeform, #courseform {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 600px;
+  border: 1px solid #0e0000;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 25px;
+  background-color: #e0f7fa;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Main-container h1 {
+  text-align: center;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+body {
+  background: linear-gradient(135deg, #0edbf2, #9c0303);
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #e01515;
+  color: white;
+}
+
+
+

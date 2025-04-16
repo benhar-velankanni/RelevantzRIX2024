@@ -1,0 +1,50 @@
+<!-- //create form handler for product form with name, price, inStock -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div className="container">
+        <form id="productform" onSubmit="handleFormSubmit(event)">
+            <!-- //create form handler for product form with name, price, inStock -->
+            <table>
+                <tr>
+                    <td>
+                        <label htmlFor="name">Name:</label>
+                    </td>
+                    <td>
+                        <input type="text" id="name" name="name" placeholder="Enter your name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label htmlFor="price">Price:</label>
+                    </td>
+                    <td>
+                        <input type="number" id="price" name="price" placeholder="Enter your price" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label htmlFor="inStock">In Stock:</label>
+                    </td>
+                    <td>
+                        <input type="checkbox" id="inStock" name="inStock" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <button type="submit">Submit</button>
+                    </td>
+                </tr>
+            </table>
+
+           
+        </form>
+
+    </div>
+</body>
+</html>
