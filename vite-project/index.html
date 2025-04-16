@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + TS</title>
+    <style>
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #e0e0e0;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+      form {
+        width: 320px;
+        background-color: #fff;
+        padding: 25px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        margin-bottom: 20px;
+      }
+      label {
+        display: block;
+        margin-bottom: 8px;
+        font-weight: bold;
+      }
+      input[type="text"],
+      input[type="password"],
+      input[type="number"],
+      select {
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+      }
+      button[type="submit"] {
+        background-color: #007bff;
+        color: #fff;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+      }
+      button[type="submit"]:hover {
+        background-color: #0056b3;
+      }
+      #formContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+      }
+      select{
+        width: calc(100% - 20px);
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="select">
+      <label for="formSelect">Choose a form to display:</label>
+      <select id="formSelect" onchange="toggleForms()">
+        <option value="exampleform">Example Form</option>
+        <option value="products">Product Form</option>
+        <option value="Book">Book Form</option>
+        <option value="Car">Car Form</option>
+        <option value="Employee">Employee Form</option>
+        <option value="Course">Course Form</option>
+      </select>
+    </div>
+
+    <div id="formContainer">
+      <form id="exampleform" style="display: none;">
+        <label for="textInput">Name:</label>
+        <input type="text" id="textInput">
+        <label for="pass">Password:</label>
+        <input type="password" id="pass">
+        <label for="checkboxInput">Terms and Condition</label>
+        <input type="checkbox" id="checkboxInput"><br><br>
+        <button type="submit">Submit</button>
+      </form>
+
+      <form id="products" style="display: none;">
+        <label>Name of the Product:</label>
+        <input type="text" id="pname">
+        <label>Price:</label>
+        <input type="text" id="pprice">
+        <label for="pcheckbox">Product Availability</label>
+        <input type="checkbox" id="pcheckbox"><br><br>
+        <button type="submit">Submit</button>
+      </form>
+
+      <form id="Book" style="display: none;">
+        <label>Title:</label>
+        <input type="text" id="btitle">
+        <label>Author:</label>
+        <input type="text" id="bauthor">
+        <label>Pages:</label>
+        <input type="number" id="bpage">
+        <label for="bcheckbox">Book Instock:</label>
+        <input type="checkbox" id="bcheckbox"><br><br>
+        <button type="submit">Submit</button>
+      </form>
+
+      <form id="Car" style="display: none;">
+        <label>Make:</label>
+        <input type="text" id="make">
+        <label>Model:</label>
+        <input type="text" id="model">
+        <label>Year:</label>
+        <input type="number" id="year">
+        <label for="ccheckbox">Is Car Running:</label>
+        <input type="checkbox" id="ccheckbox"><br><br>
+        <button type="submit">Submit</button>
+      </form>
+
+      <form id="Employee" style="display: none;">
+        <label>Name:</label>
+        <input type="text" id="ename">
+        <label>Position:</label>
+        <input type="text" id="eposition">
+        <label>Salary:</label>
+        <input type="number" id="esalary">
+        <label for="echeckbox">Is Full_Time:</label>
+        <input type="checkbox" id="echeckbox"><br><br>
+        <button type="submit">Submit</button>
+      </form>
+
+      <form id="Course" style="display: none;">
+        <label>Title:</label>
+        <input type="text" id="cotitle">
+        <label>Instructor:</label>
+        <input type="text" id="coinstructor">
+        <label>Duration:</label>
+        <input type="number" id="coduration">
+        <label for="cocheckbox">Is Online:</label>
+        <input type="checkbox" id="cocheckbox"><br><br>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <script>
+      function toggleForms() {
+        const selectedForm = document.getElementById('formSelect').value;
+        document.getElementById('exampleform').style.display = selectedForm === 'exampleform' ? 'block' : 'none';
+        document.getElementById('products').style.display = selectedForm === 'products' ? 'block' : 'none';
+        document.getElementById('Book').style.display = selectedForm === 'Book' ? 'block' : 'none';
+        document.getElementById('Car').style.display = selectedForm === 'Car' ? 'block' : 'none';
+        document.getElementById('Employee').style.display = selectedForm === 'Employee' ? 'block' : 'none';
+        document.getElementById('Course').style.display = selectedForm === 'Course' ? 'block' : 'none';
+      }
+    </script>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
+
