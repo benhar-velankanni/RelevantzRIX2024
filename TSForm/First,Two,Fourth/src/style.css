@@ -1,0 +1,53 @@
+.box1 {
+  width: 300px;
+  margin: 40px auto;
+  padding: 5px;
+  background-color: #41aadb;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.box1 h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.box1 form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box1 label {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.box1 input[type="text"], .box1 input[type="number"] {
+  width: 60%;
+  height: 20px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.box1 input[type="checkbox"] {
+  margin-bottom: 20px;
+}
+
+.box1 button[type="submit"] {
+  width: 60%;
+  height: 40px;
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.box1 button[type="submit"]:hover {
+  background-color: #3e8e41;
+}

@@ -1,0 +1,16 @@
+.container
+{
+    background-color: aqua;
+    width: 300px;
+    margin-left:520px;
+    padding:20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px black;
+
+
+}
+input
+{
+    border-color: black;
+    
+}

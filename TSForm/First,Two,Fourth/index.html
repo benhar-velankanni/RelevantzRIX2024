@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + TS</title>
+    <link rel="stylesheet" href="./src/style.css">
+    <link rel="stylesheet" href="./src/style1.css">
+  </head>
+  <body>
+    <div id="app"></div>
+    <div class="box">
+    <form id="form1">
+      <label for="name">Product Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="price">Product Price:</label>
+      <input type="number" id="price" name="price" required>  
+      <label for="check" id="stock" name="stock">Product Stock:</label>
+      <input type="checkbox" id="stock" name="stock" required>
+
+      <button type="submit" id="submit">Submit</button>
+
+    </form>
+    </div>
+    <div class="box1">
+      <form id="form2">
+        <h1>Book Details</h1>
+        <label for="name">Book Name:</label>
+        <input type="text" id="title" name="name" required>
+
+        <label for="author">Author:</label>
+        <input type ="text" id="author" name="author" required>
+        <label for ="price" > Price</label> 
+        <input type="number" id="price" name="price" required>
+
+        <label for ="pages" id="page">Pages:</label>
+        <input type="number" id="pages" name="pages" required>
+        <label for ="available"> Availability</label>
+        <input type="checkbox" id="book" name="stock" >
+        <button type="submit" id="submit">Submit</button>
+      </form>
+        </div>
+        
+      
+    </div>
+    <div>
+      <form action="" class="container">
+        <table>
+          <tr>
+            <td><label for="">Title:</label></td>
+            <td><input type="text" id="ctitle"></td>
+          </tr>
+          <tr>
+            <td><label for="">Instructor</label></td>
+            <td><input type="text" id="cinstructor"></td>
+          </tr>
+          <tr>
+            <td><label for="">Duration</label></td>
+            <td><input type="number" id="cduration"></td>
+          </tr>
+          <tr>
+            <td><label for="">Online Mode</label></td>
+            <td><input type="checkbox" name="" id="cmode"></td>
+          </tr>
+          <tr>
+            <td><button id="bt5">Click For Course!</button></td>
+          </tr>
+        </table>
+      </form>
+    </div>
+ 
+
+
+    <script type="module" src="/src/productdetails.ts"></script>
+    <script type="module" src="/src/main.ts"></script>
+    <script type="module" src="/src/bookdetails.ts"></script>
+  </body>
+</html>
