@@ -1,6 +1,85 @@
-table {
+.Product-container, .Book-container, .Car-container, .Employee-container, .Course-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+
+}
+button{
+  background-color: #373d37;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: #ddd;
+}
+button:hover{
+  background-color: #344b35;
+}
+table{
   border-collapse: collapse;
   border: 1px solid #ccc;
   margin: 0 auto;
   width: 600px;
+  columns: 2;
+  padding: 10px;
+
+} th, td{
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+h1{
+  text-align: center;
+  margin-bottom: 20px;
+  text-decoration: underline;
+  text-justify: auto;
+  color: rgb(17, 15, 36);
+}
+input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+label{
+  display: inline-block;
+  width: 150px;
+  margin-right: 10px;
+  text-align: left;
+  font-weight: bold;
+  color: rgb(250, 243, 243);
+}
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #1f1b3f;
+}
+#productform, #bookform, #carform, #employeeform, #courseform{
+  display:none
+}
+body{
+background-color: #d4d3d8;
 }
