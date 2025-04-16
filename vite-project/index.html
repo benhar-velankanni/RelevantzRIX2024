@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + TS + React</title>
+  </head>
+  <body style="background-color: blueviolet;margin-left: 500px;margin-top: 100px;">
+    <div className="Main-container">
+      <div className="Product-container">
+        <form id="productform">
+          <table>
+            <tr>
+              <td>
+                <label htmlFor="name">Name:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  placeholder="Enter your name"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="price">Price:</label>
+              </td>
+              <td>
+                <input
+                  type="number"
+                  id="price"
+                  name="price"
+                  placeholder="Enter your price"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="inStock">In Stock:</label>
+              </td>
+              <td>
+                <input type="checkbox" id="inStock" name="inStock" />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <button type="submit">Submit</button>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+      <!-- gap for form-->
+      <div className="Book-container">
+        <form id="bookform">
+          <table>
+            <tr>
+              <td>
+                <label htmlFor="title">Title:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="title"
+                  name="title"
+                  placeholder="Enter your title"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="author">Author:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="author"
+                  name="author"
+                  placeholder="Enter your author"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="pages">Pages:</label>
+              </td>
+              <td>
+                <input
+                  type="number"
+                  id="pages"
+                  name="pages"
+                  placeholder="Enter your pages"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="isAvailable">Is Available:</label>
+              </td>
+              <td>
+                <input type="checkbox" id="isAvailable" name="isAvailable" />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <button type="submit">Submit</button>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+      <!-- gap for form -->
+      <div className="Car-container">
+        <form id="carform">
+          <table>
+            <tr>
+              <td>
+                <label htmlFor="make">Make:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="make"
+                  name="make"
+                  placeholder="Enter your make"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="model">Model:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="model"
+                  name="model"
+                  placeholder="Enter your model"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="year">Year:</label>
+              </td>
+              <td>
+                <input
+                  type="number"
+                  id="year"
+                  name="year"
+                  placeholder="Enter your year"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="isRunning">Is Running:</label>
+              </td>
+              <td>
+                <input type="checkbox" id="isRunning" name="isRunning" />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <button type="submit">Submit</button>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+      <!-- gap for form -->
+      <div className="Employee-container">
+        <form id="employeeform">
+          <table>
+            <tr>
+              <td>
+                <label htmlFor="name">Name:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  placeholder="Enter your name"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="position">Position:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="position"
+                  name="position"
+                  placeholder="Enter your position"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="salary">Salary:</label>
+              </td>
+              <td>
+                <input
+                  type="number"
+                  id="salary"
+                  name="salary"
+                  placeholder="Enter your salary"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <button type="submit">Submit</button>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+      <!-- gap for form -->
+      <div className="Course-container">
+        <form id="courseform">
+          <table>
+            <tr>
+              <td>
+                <label htmlFor="title">Title:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="title"
+                  name="title"
+                  placeholder="Enter your title"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="instructor">Instructor:</label>
+              </td>
+              <td>
+                <input
+                  type="text"
+                  id="instructor"
+                  name="instructor"
+                  placeholder="Enter your instructor"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="duration">Duration:</label>
+              </td>
+              <td>
+                <input
+                  type="number"
+                  id="duration"
+                  name="duration"
+                  placeholder="Enter your duration"
+                />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <label htmlFor="isOnline">Is Online:</label>
+              </td>
+              <td>
+                <input type="checkbox" id="isOnline" name="isOnline" />
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <button type="submit">Submit</button>
+              </td>
+            </tr>
+          </table>
+        </form>
+      </div>
+    </div>
+    <script type="module">
+      import { handleSubmit } from '/src/main.ts';
+ 
+      document.getElementById("productform").onsubmit = handleSubmit;
+      document.getElementById("bookform").onsubmit = handleSubmit;
+      document.getElementById("carform").onsubmit = handleSubmit;
+      document.getElementById("employeeform").onsubmit = handleSubmit;
+      document.getElementById("courseform").onsubmit = handleSubmit;
+    </script>
+  </body>
+</html>
+ m 
