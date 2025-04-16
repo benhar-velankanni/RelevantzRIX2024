@@ -1,0 +1,41 @@
+.Main-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: lightgreen;
+
+}
+
+.Product-container {    
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}    
+
+.Book-container {   
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.Car-container {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.Employee-container {    
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.Course-container {    
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+body {
+    background-color: lightblue;
+}
