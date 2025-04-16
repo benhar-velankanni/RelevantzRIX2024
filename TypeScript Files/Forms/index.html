@@ -94,7 +94,7 @@
           <input type="checkbox" id="isRunning" name="isRunning" />
           <button type="submit">Submit</button>
         </form>
-        <form id="employeeForm" onsubmit="handleFormSubmit(event)" novalidate>
+        <form id="employeeForm" novalidate>
           <h3 style="display: flex; justify-content: center">Employee Form</h3>
           <label for="employeeName">Name:</label>
           <input type="text" id="employeeName" name="name" />
@@ -120,14 +120,11 @@
         </form>
       </main>
     </div>
+    
     <script type="module">
-      import { handleFormSubmit } from "./src/main.ts";
-
+      import {handleFormSubmit} from "./src/main.js";
       document.getElementById("productForm").onsubmit = handleFormSubmit;
-      document.getElementById("bookForm").onsubmit = handleFormSubmit;
-      document.getElementById("carForm").onsubmit = handleFormSubmit;
-      document.getElementById("employeeForm").onsubmit = handleFormSubmit;
-      document.getElementById("courseForm").onsubmit = handleFormSubmit;
     </script>
   </body>
 </html>
+

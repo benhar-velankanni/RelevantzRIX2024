@@ -222,3 +222,46 @@ queue.push(2);
 queue.push(3);
 console.log("Generic Class: " + queue.pop());
 
+//Class Working
+class PersonExample {
+  firstName: string;
+  lastName: string;
+  age: number;
+  constructor(firstName: string, lastName: string, age: number) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age;
+  }
+
+  getFullName(): string {
+    return this.constructor.name === "EmployeeExample"
+      ? "The name of the employee is " +
+          this.firstName +
+          " " +
+          this.lastName +
+          "."
+      : "The name of the person is " +
+          this.firstName +
+          " " +
+          this.lastName +
+          ".";
+  }
+}
+
+class EmployeeExample extends PersonExample {
+  employeeId: number;
+  constructor(
+    firstName: string,
+    lastName: string,
+    age: number,
+    employeeId: number
+  ) {
+    super(firstName, lastName, age);
+    this.employeeId = employeeId;
+  }
+}
+
+let personValue = new PersonExample("John", "Doe", 30);
+let employeeValue = new EmployeeExample("Jane", "Doe", 25, 123);
+console.log(personValue.getFullName());
+console.log(employeeValue.getFullName());
