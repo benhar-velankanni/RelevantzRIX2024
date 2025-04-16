@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Title</title>
+        <!-- Required meta tags -->
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+        />
+
+        <!-- Bootstrap CSS v5.2.1 -->
+        <link
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+            crossorigin="anonymous"
+        />
+    </head>
+
+    <body>
+        <header>
+            <!-- place navbar here -->
+        </header>
+        <main>
+            <div class="hello">
+               
+           </div>
+           <a
+           name=""
+           id=""
+           class="btn btn-primary"
+           href="#"
+           role="button"
+           onclick = "greet('John')"
+           >Button</a
+           
+       >
+       
+            <div id="name"></div>
+            <form>
+                Num1 : <input type="text" id="num1"><br>
+                <br>
+                Num2 : <input type="text" id="num2"><br>
+                <button type="button" onclick="add()">Add</button>
+            </form>
+            <div id="result"></div>
+            <br>
+            <br>
+            <div class="checkType">
+                <h3>Type Guard Demo</h3>
+                Type a string : <input type="text" id="check">
+                <input type="button" onclick="TypeStrGuard()" value="Check">
+                Type a number : <input type="number" id="num-check">
+                <input type="button" onclick="TypeNumGuard()" value="Check">
+                
+               
+                <div id="checkResult"></div> 
+                <br>
+                <br>
+            </div>
+            <div class="age">
+                Type your age : <input type="text" name="" id="age">
+                <input type="button" onclick="displayAge()" value="Check">
+
+            </div>
+            <div class="ageResult"></div>
+            <div class="union-demo">
+                <h3>Union Demo</h3>
+                <div class="info"></div>
+
+            </div>
+            <div class="assertion">
+                <h3>Assertion Demo</h3>
+                <input type="text" id="assertion-check">
+                <input type="button" onclick="findLength(document.querySelector('#assertion-check').value)" value="Check">
+                <div id="assertion-result"></div>
+            </div>
+            <div class="class-demo">
+                <h3>Class Demo</h3>
+                Enter animal name : <input type="text" id="animal-name">
+                <input type="button" onclick="showSound()" value="Show Sound">
+                <div id="sound"></div>
+               
+            </div>
+            <div class="mb-3">
+                <label for="" class="form-label">Name</label>
+                <input
+                    type="text"
+                    name=""
+                    id=""
+                    class="form-control"
+                    placeholder=""
+                    aria-describedby="helpId"
+                />
+                <small id="helpId" class="text-muted">Help text</small>
+            </div>
+            
+        </main>
+        <footer>
+            <!-- place footer here -->
+        </footer>
+        <!-- Bootstrap JavaScript Libraries -->
+        <script
+            src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+            integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+            crossorigin="anonymous"
+        ></script>
+
+        <script
+            src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+            integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+            crossorigin="anonymous"
+        ></script>
+        <script src="app.js"></script>
+    </body>
+</html>
