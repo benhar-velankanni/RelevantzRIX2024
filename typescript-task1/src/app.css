@@ -1,0 +1,217 @@
+/* Global Styles */
+ 
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+ 
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: #f9f9f9;
+  }
+ 
+  /* Form Styles */
+ 
+  form {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  button{
+    width: 100%;
+    background-color: #22782a;
+    color: #f9f5f5;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+ 
+  button:hover {
+    background-color: #3e8e41;
+  }
+ 
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+ 
+  input[type="text"], input[type="number"], input[type="checkbox"] {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+ 
+  input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+  }
+ 
+ 
+  /* Form Header Styles */
+ 
+  h1 {
+    margin-top: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+ 
+  /* Form Footer Styles */
+ 
+  .form-footer {
+    margin-top: 20px;
+    text-align: center;
+  }
+ 
+  .form-footer a {
+    color: #337ab7;
+    text-decoration: none;
+  }
+ 
+  .form-footer a:hover {
+    color: #23527c;
+  }
+ 
+  /* Product Form Styles */
+ 
+  #product-form {
+    background-color: #f7f7f7;
+  }
+ 
+  #product-form label {
+    color: #666;
+  }
+ 
+  #product-form input[type="text"], #product-form input[type="number"] {
+    border-color: #ccc;
+  }
+ 
+  #product-form button {
+    background-color: #8BC34A;
+  }
+ 
+  /* Book Form Styles */
+ 
+  #book-form {
+    background-color: #f2f2f2;
+  }
+ 
+  #book-form label {
+    color: #666;
+  }
+ 
+  #book-form input[type="text"], #book-form input[type="number"] {
+    border-color: #ccc;
+  }
+ 
+  #book-form button {
+    background-color: #6c9325;
+  }
+ 
+  /* Car Form Styles */
+ 
+  #car-form {
+    background-color: #f7f7f7;
+  }
+ 
+  #car-form label {
+    color: #666;
+  }
+ 
+  #car-form input[type="text"], #car-form input[type="number"] {
+    border-color: #ecbaba;
+  }
+ 
+  #car-form button{
+    background-color: #FF9800;
+  }
+ 
+  /* Employee Form Styles */
+ 
+  #employee-form {
+    background-color: #e0ecae;
+  }
+ 
+  #employee-form label {
+    color: #666;
+  }
+ 
+  #employee-form input[type="text"], #employee-form input[type="number"] {
+    border-color: #ccc;
+  }
+ 
+  #employee-form button{
+    background-color: #70a930;
+  }
+ 
+ 
+  #course-form {
+    background-color: #f7f7f7;
+  }
+ 
+  #course-form label {
+    color: #666;
+  }
+ 
+  #course-form input[type="text"], #course-form input[type="number"] {
+    border-color: #ccc;
+  }
+ 
+  #course-form button{
+    background-color: #1303f4;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease-in-out;
+  }
+ 
+  #course-form button[type="submit"]:hover {
+    background-color: #039BE5;
+  }
+ 
+  #course-form button[type="submit"]:active {
+    background-color: #0277BD;
+  }
+ 
+  #course-form button[type="submit"]:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  #productform{
+    background-color: #fbd0d0;
+  }
+ #bookform{
+    background-color: #c3eefc;
+  }
+  #carform{
+    background-color: #93e7cc;
+  }
+  #employeeform{
+    background-color: #c9c0fc;
+  }
+  #courseform{
+    background-color: #ccfbb6;
+  }
+ 
+  .form-footer{
+    margin-top: 20px;
+    text-align: center;
+  }
