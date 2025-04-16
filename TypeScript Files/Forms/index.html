@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Forms</title>
+    <title>Modified Forms</title>
     <style>
-      body {  
+      body {
         font-family: Arial, sans-serif;
         display: flex;
         align-items: center;
@@ -29,13 +29,14 @@
         margin-bottom: 20px;
       }
       label {
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.5em;
       }
       input {
         margin-bottom: 1rem;
-        padding: 0.5rem;
+        padding: 15px 20px;
         border-radius: 5px;
         border: 1px solid black;
+        width: 90%;
       }
       button {
         padding: 0.5rem 1rem;
@@ -56,75 +57,227 @@
   </head>
   <body>
     <div id="app">
-      <h1 style="display: flex; justify-content: center; color: white">
-        Forms
+      <h1
+        style="
+          display: flex;
+          justify-content: center;
+          color: white;
+          padding: 30px;
+        "
+      >
+        Modified Forms
       </h1>
       <main>
-        <form id="productForm" novalidate>
-          <h3 style="display: flex; justify-content: center">Product Form</h3>
+        <form id="phoneForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Phone Form</h1>
+          <p style="padding-bottom: 20px">Extends Product Class.</p>
           <label for="productName">Name:</label>
-          <input type="text" id="productName" name="name" />
+          <input
+            type="text"
+            id="productName"
+            name="name"
+            placeholder="Enter the Name of the Phone"
+          />
           <label for="price">Price:</label>
-          <input type="number" id="price" name="price" />
+          <input
+            type="number"
+            id="price"
+            name="price"
+            placeholder="Enter the Price in Rupees"
+          />
+          <label for="ram">RAM:</label>
+          <input
+            type="number"
+            id="ram"
+            name="ram"
+            placeholder="Enter the RAM in GB"
+          />
+          <label for="storage">Storage:</label>
+          <input
+            type="number"
+            id="storage"
+            name="storage"
+            placeholder="Enter the Storage in GB"
+          />
           <label for="inStock">In Stock:</label>
           <input type="checkbox" id="inStock" name="inStock" />
           <button type="submit">Submit</button>
         </form>
-        <form id="bookForm" novalidate>
-          <h3 style="display: flex; justify-content: center">Book Form</h3>
-          <label for="bookTitle">Title:</label>
-          <input type="text" id="bookTitle" name="title" />
+        <form id="harryPotterForm" novalidate>
+          <h1 style="display: flex; justify-content: center">
+            Harry Potter Form
+          </h1>
+          <p style="padding-bottom: 20px">Extends Book Class.</p>
+          <label for="bookTitle">Volume Title:</label>
+          <input
+            type="text"
+            id="bookTitle"
+            name="title"
+            placeholder="Enter the Volume Title"
+          />
           <label for="author">Author:</label>
-          <input type="text" id="author" name="author" />
+          <input
+            type="text"
+            id="author"
+            name="author"
+            placeholder="Enter the Author Name (Hint: J K Rowling)"
+          />
+          <label for="house">Prefered House:</label>
+          <input
+            type="text"
+            id="house"
+            name="house"
+            placeholder="Enter the Prefered House"
+          />
           <label for="pages">Pages:</label>
-          <input type="number" id="pages" name="pages" />
+          <input
+            type="number"
+            id="pages"
+            name="pages"
+            placeholder="Enter the Number of Pages"
+          />
+          <label for="volumeNo">Volume Number:</label>
+          <input
+            type="number"
+            id="volumeNo"
+            name="volumeNo"
+            placeholder="Enter the Volume Number"
+          />
           <label for="isAvailable">Is Available:</label>
           <input type="checkbox" id="isAvailable" name="isAvailable" />
           <button type="submit">Submit</button>
         </form>
-        <form id="carForm" novalidate>
-          <h3 style="display: flex; justify-content: center">Car Form</h3>
+        <form id="toyotaForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Toyota Form</h1>
+          <p style="padding-bottom: 20px">Extends Car Class.</p>
           <label for="carMake">Make:</label>
-          <input type="text" id="carMake" name="make" />
+          <input
+            type="text"
+            id="carMake"
+            name="make"
+            placeholder="Enter the Car Make"
+          />
           <label for="carModel">Model:</label>
-          <input type="text" id="carModel" name="model" />
+          <input
+            type="text"
+            id="carModel"
+            name="model"
+            placeholder="Enter the Car Model"
+          />
           <label for="year">Year:</label>
-          <input type="number" id="year" name="year" />
+          <input
+            type="number"
+            id="year"
+            name="year"
+            placeholder="Enter the Year"
+          />
+          <label for="mileage">Mileage:</label>
+          <input
+            type="number"
+            id="mileage"
+            name="mileage"
+            placeholder="Enter the Mileage in KM"
+          />
+          <label for="seats">Number of Seats:</label>
+          <input
+            type="number"
+            id="seats"
+            name="seats"
+            placeholder="Enter the Number of Seats"
+          />
           <label for="isRunning">Is Running:</label>
           <input type="checkbox" id="isRunning" name="isRunning" />
           <button type="submit">Submit</button>
         </form>
-        <form id="employeeForm" novalidate>
-          <h3 style="display: flex; justify-content: center">Employee Form</h3>
+        <form id="managerForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Manager Form</h1>
+          <p style="padding-bottom: 20px">Extends Employee Class.</p>
           <label for="employeeName">Name:</label>
-          <input type="text" id="employeeName" name="name" />
+          <input
+            type="text"
+            id="employeeName"
+            name="name"
+            placeholder="Enter the Employee Name"
+          />
           <label for="position">Position:</label>
-          <input type="text" id="position" name="position" />
+          <input
+            type="text"
+            id="position"
+            name="position"
+            placeholder="Enter the Position"
+          />
+          <label for="department">Department:</label>
+          <input
+            type="text"
+            id="department"
+            name="department"
+            placeholder="Enter the Department"
+          />
           <label for="salary">Salary:</label>
-          <input type="number" id="salary" name="salary" />
+          <input
+            type="number"
+            id="salary"
+            name="salary"
+            placeholder="Enter the Salary in Rupees"
+          />
+          <label for="bonus">Bonus:</label>
+          <input
+            type="number"
+            id="bonus"
+            name="bonus"
+            placeholder="Enter the Bonus in Rupees"
+          />
           <label for="isFullTime">Is Full Time:</label>
           <input type="checkbox" id="isFullTime" name="isFullTime" />
           <button type="submit">Submit</button>
         </form>
-        <form id="courseForm" novalidate>
-          <h3 style="display: flex; justify-content: center">Course Form</h3>
+        <form id="webCourseForm" novalidate>
+          <h1 style="display: flex; justify-content: center">
+            Web Course Form
+          </h1>
+          <p style="padding-bottom: 20px">Extends Course Class.</p>
           <label for="courseTitle">Title:</label>
-          <input type="text" id="courseTitle" name="title" />
+          <input
+            type="text"
+            id="courseTitle"
+            name="title"
+            placeholder="Enter the Course Title"
+          />
           <label for="instructor">Instructor:</label>
-          <input type="text" id="instructor" name="instructor" />
+          <input
+            type="text"
+            id="instructor"
+            name="instructor"
+            placeholder="Enter the Instructor"
+          />
           <label for="duration">Duration (hours):</label>
-          <input type="number" id="duration" name="duration" />
+          <input
+            type="number"
+            id="duration"
+            name="duration"
+            placeholder="Enter the Duration in hours"
+          />
+          <label for="chapters">Number of Chapters:</label>
+          <input
+            type="number"
+            id="chapters"
+            name="chapters"
+            placeholder="Enter the Number of Chapters"
+          />
           <label for="isOnline">Is Online:</label>
           <input type="checkbox" id="isOnline" name="isOnline" />
           <button type="submit">Submit</button>
         </form>
       </main>
     </div>
-    
+
     <script type="module">
-      import {handleFormSubmit} from "./src/main.js";
-      document.getElementById("productForm").onsubmit = handleFormSubmit;
+      import { handleFormSubmit } from "./src/main.js";
+      document.getElementById("phoneForm").onsubmit = handleFormSubmit;
+      document.getElementById("harryPotterForm").onsubmit = handleFormSubmit;
+      document.getElementById("toyotaForm").onsubmit = handleFormSubmit;
+      document.getElementById("managerForm").onsubmit = handleFormSubmit;
+      document.getElementById("webCourseForm").onsubmit = handleFormSubmit;
     </script>
   </body>
 </html>
-

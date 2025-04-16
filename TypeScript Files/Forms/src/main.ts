@@ -8,28 +8,51 @@ export class Product {
     this.price = price;
     this.inStock = inStock;
   }
+}
 
-  static getInput(formData: FormData): Product {
+export class Phone extends Product {
+  processor: string;
+  ram: number;
+  storage: number;
+
+  constructor(
+    name: string,
+    price: number,
+    inStock: boolean,
+    processor: string,
+    ram: number,
+    storage: number
+  ) {
+    super(name, price, inStock);
+    this.processor = processor;
+    this.ram = ram;
+    this.storage = storage;
+  }
+
+  static getInput(formData: FormData): Phone {
     const name = formData.get("name") as string;
     const price = parseInt(formData.get("price") as string);
     const inStock = (formData.get("inStock") as string) === "true";
-    return new Product(name, price, inStock);
+    const processor = formData.get("processor") as string;
+    const ram = parseInt(formData.get("ram") as string);
+    const storage = parseInt(formData.get("storage") as string);
+    return new Phone(name, price, inStock, processor, ram, storage);
   }
 
   dispOutput(): void {
     if (!this.inStock) {
       console.log(
-        `Product Form: \nProduct: ${this.name} \nPrice: ${this.price} \nIn Stock: No`
+        `Phone Details: \n===================================\nName: ${this.name} \nPrice: ${this.price} INR \nProcessor: ${this.processor} \nRAM: ${this.ram} GB \nStorage: ${this.storage} GB \nIn Stock: No`
       );
       alert(
-        `Product Form: \nProduct: ${this.name} \nPrice: ${this.price} \nIn Stock: Yes`
+        `Phone Details: \n===================================\nName: ${this.name} \nPrice: ${this.price} INR \nProcessor: ${this.processor} \nRAM: ${this.ram} GB \nStorage: ${this.storage} GB \nIn Stock: No`
       );
     } else {
       console.log(
-        `Product Form: \nProduct: ${this.name} \nPrice: ${this.price} \nIn Stock: Yes`
+        `Phone Details: \n===================================\nName: ${this.name} \nPrice: ${this.price} INR \nProcessor: ${this.processor} \nRAM: ${this.ram} GB \nStorage: ${this.storage} GB \nIn Stock: Yes`
       );
       alert(
-        `Product Form: \nProduct: ${this.name} \nPrice: ${this.price} \nIn Stock: Yes`
+        `Phone Details: \n===================================\nName: ${this.name} \nPrice: ${this.price} INR \nProcessor: ${this.processor} \nRAM: ${this.ram} GB \nStorage: ${this.storage} GB \nIn Stock: Yes`
       );
     }
   }
@@ -52,29 +75,56 @@ export class Book {
     this.pages = pages;
     this.isAvailable = isAvailable;
   }
+}
 
-  static getInput(formData: FormData): Book {
+export class HarryPotterBook extends Book {
+  house: string;
+  volumeNo: number;
+
+  constructor(
+    title: string,
+    author: string,
+    pages: number,
+    isAvailable: boolean,
+    house: string,
+    volumeNo: number
+  ) {
+    super(title, author, pages, isAvailable);
+    this.house = house;
+    this.volumeNo = volumeNo;
+  }
+
+  static getInput(formData: FormData): HarryPotterBook {
     const title = formData.get("title") as string;
     const author = formData.get("author") as string;
     const pages = parseInt(formData.get("pages") as string);
     const isAvailable = (formData.get("isAvailable") as string) === "true";
-    return new Book(title, author, pages, isAvailable);
+    const house = formData.get("house") as string;
+    const volumeNo = parseInt(formData.get("volumeNo") as string);
+    return new HarryPotterBook(
+      title,
+      author,
+      pages,
+      isAvailable,
+      house,
+      volumeNo
+    );
   }
 
   dispOutput(): void {
     if (!this.isAvailable) {
       console.log(
-        `Book Form: \nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nIs Available: No`
+        `Harry Potter Book Details: \n===================================\nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nPrefered House: ${this.house} \nVolume No: ${this.volumeNo} \nIs Available: No`
       );
       alert(
-        `Book Form: \nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nIs Available: Yes`
+        `Harry Potter Book Details: \n===================================\nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nPrefered House: ${this.house} \nVolume No: ${this.volumeNo} \nIs Available: No`
       );
     } else {
       console.log(
-        `Book Form: \nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nIs Available: Yes`
+        `Harry Potter Book Details: \n===================================\nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nPrefered House: ${this.house} \nVolume No: ${this.volumeNo} \nIs Available: Yes`
       );
       alert(
-        `Book Form: \nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nIs Available: Yes`
+        `Harry Potter Book Details: \n===================================\nTitle: ${this.title} \nAuthor: ${this.author} \nPages: ${this.pages} \nPrefered House: ${this.house} \nVolume No: ${this.volumeNo} \nIs Available: Yes`
       );
     }
   }
@@ -92,29 +142,49 @@ export class Car {
     this.year = year;
     this.isRunning = isRunning;
   }
+}
 
-  static getInput(formData: FormData): Car {
+export class Toyota extends Car {
+  mileage: number;
+  seats: number;
+
+  constructor(
+    make: string,
+    model: string,
+    year: number,
+    isRunning: boolean,
+    mileage: number,
+    seats: number
+  ) {
+    super(make, model, year, isRunning);
+    this.mileage = mileage;
+    this.seats = seats;
+  }
+
+  static getInput(formData: FormData): Toyota {
     const make = formData.get("make") as string;
     const model = formData.get("model") as string;
     const year = parseInt(formData.get("year") as string);
     const isRunning = (formData.get("isRunning") as string) === "true";
-    return new Car(make, model, year, isRunning);
+    const mileage = parseInt(formData.get("mileage") as string);
+    const seats = parseInt(formData.get("seats") as string);
+    return new Toyota(make, model, year, isRunning, mileage, seats);
   }
 
   dispOutput(): void {
     if (!this.isRunning) {
       console.log(
-        `Car Form: \nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nIs Running: No`
+        `Toyota Car Details: \n===================================\nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nMileage: ${this.mileage} KM \nSeats: ${this.seats} \nIs Running: No`
       );
       alert(
-        `Car Form: \nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nIs Running: Yes`
+        `Toyota Car Details: \n===================================\nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nMileage: ${this.mileage} KM \nSeats: ${this.seats} \nIs Running: No`
       );
     } else {
       console.log(
-        `Car Form: \nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nIs Running: Yes`
+        `Toyota Car Details: \n===================================\nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nMileage: ${this.mileage} KM \nSeats: ${this.seats} \nIs Running: Yes`
       );
       alert(
-        `Car Form: \nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nIs Running: Yes`
+        `Toyota Car Details: \n===================================\nMake: ${this.make} \nModel: ${this.model} \nYear: ${this.year} \nMileage: ${this.mileage} KM \nSeats: ${this.seats} \nIs Running: Yes`
       );
     }
   }
@@ -137,29 +207,49 @@ export class Employee {
     this.salary = salary;
     this.isFullTime = isFullTime;
   }
+}
 
-  static getInput(formData: FormData): Employee {
+export class Manager extends Employee {
+  department: string;
+  bonus: number;
+
+  constructor(
+    name: string,
+    position: string,
+    salary: number,
+    isFullTime: boolean,
+    department: string,
+    bonus: number
+  ) {
+    super(name, position, salary, isFullTime);
+    this.department = department;
+    this.bonus = bonus;
+  }
+
+  static getInput(formData: FormData): Manager {
     const name = formData.get("name") as string;
     const position = formData.get("position") as string;
     const salary = parseInt(formData.get("salary") as string);
     const isFullTime = (formData.get("isFullTime") as string) === "true";
-    return new Employee(name, position, salary, isFullTime);
+    const department = formData.get("department") as string;
+    const bonus = parseInt(formData.get("bonus") as string);
+    return new Manager(name, position, salary, isFullTime, department, bonus);
   }
 
   dispOutput(): void {
     if (!this.isFullTime) {
       console.log(
-        `Employee Form: \nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} \nIs Full Time: No`
+        `Manager Details: \n===================================\nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} INR \nIs Full Time: No \nDepartment: ${this.department} \nBonus: ${this.bonus} INR`
       );
       alert(
-        `Employee Form: \nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} \nIs Full Time: Yes`
+        `Manager Details: \n===================================\nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} INR \nIs Full Time: No \nDepartment: ${this.department} \nBonus: ${this.bonus} INR`
       );
     } else {
       console.log(
-        `Employee Form: \nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} \nIs Full Time: Yes`
+        `Manager Details: \n===================================\nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} INR \nIs Full Time: Yes \nDepartment: ${this.department} \nBonus: ${this.bonus} INR`
       );
       alert(
-        `Employee Form: \nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} \nIs Full Time: Yes`
+        `Manager Details: \n===================================\nName: ${this.name} \nPosition: ${this.position} \nSalary: ${this.salary} INR \nIs Full Time: Yes \nDepartment: ${this.department} \nBonus: ${this.bonus} INR`
       );
     }
   }
@@ -182,29 +272,45 @@ export class Course {
     this.duration = duration;
     this.isOnline = isOnline;
   }
+}
 
-  static getInput(formData: FormData): Course {
+export class WebCourse extends Course {
+  chapters: number;
+
+  constructor(
+    title: string,
+    instructor: string,
+    duration: number,
+    isOnline: boolean,
+    chapters: number
+  ) {
+    super(title, instructor, duration, isOnline);
+    this.chapters = chapters;
+  }
+
+  static getInput(formData: FormData): WebCourse {
     const title = formData.get("title") as string;
     const instructor = formData.get("instructor") as string;
     const duration = parseInt(formData.get("duration") as string);
     const isOnline = (formData.get("isOnline") as string) === "true";
-    return new Course(title, instructor, duration, isOnline);
+    const chapters = parseInt(formData.get("chapters") as string);
+    return new WebCourse(title, instructor, duration, isOnline, chapters);
   }
 
   dispOutput(): void {
-    if (!this.isOnline) {
+    if (this.isOnline) {
       console.log(
-        `Course Form: \nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: No`
+        `Web Course Details: \n===================================\nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: Yes \nChapters: ${this.chapters}`
       );
       alert(
-        `Course Form: \nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: Yes`
+        `Web Course Details: \n===================================\nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: Yes \nChapters: ${this.chapters}`
       );
     } else {
       console.log(
-        `Course Form: \nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: Yes`
+        `Web Course Details: \n===================================\nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: No \nChapters: ${this.chapters}`
       );
       alert(
-        `Course Form: \nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: Yes`
+        `Web Course Details: \n===================================\nTitle: ${this.title} \nInstructor: ${this.instructor} \nDuration: ${this.duration} \nIs Online: No \nChapters: ${this.chapters}`
       );
     }
   }
@@ -214,20 +320,23 @@ export function handleFormSubmit(event: SubmitEvent): void {
   event.preventDefault();
   const form = event.target as HTMLFormElement;
   const formData = new FormData(form);
-  if ((event.currentTarget as HTMLFormElement).id === "productForm") {
-    const product = Product.getInput(formData);
-    product.dispOutput();
-  } else if ((event.currentTarget as HTMLFormElement).id === "bookForm") {
-    const book = Book.getInput(formData);
-    book.dispOutput();
-  } else if ((event.currentTarget as HTMLFormElement).id === "carForm") {
-    const car = Car.getInput(formData);
-    car.dispOutput();
-  } else if ((event.currentTarget as HTMLFormElement).id === "employeeForm") {
-    const employee = Employee.getInput(formData);
-    employee.dispOutput();
-  } else if ((event.currentTarget as HTMLFormElement).id === "courseForm") {
-    const course = Course.getInput(formData);
-    course.dispOutput();
+  if ((event.currentTarget as HTMLFormElement).id === "phoneForm") {
+    const phone = Phone.getInput(formData);
+    phone.dispOutput();
+  } else if (
+    (event.currentTarget as HTMLFormElement).id === "harryPotterForm"
+  ) {
+    const harryPotterBook = HarryPotterBook.getInput(formData);
+    harryPotterBook.dispOutput();
+  } else if ((event.currentTarget as HTMLFormElement).id === "toyotaForm") {
+    const toyota = Toyota.getInput(formData);
+    toyota.dispOutput();
+  } else if ((event.currentTarget as HTMLFormElement).id === "managerForm") {
+    const manager = Manager.getInput(formData);
+    manager.dispOutput();
+  } else if ((event.currentTarget as HTMLFormElement).id === "webCourseForm") {
+    const webCourse = WebCourse.getInput(formData);
+    webCourse.dispOutput();
   }
+  (event.currentTarget as HTMLFormElement).reset();
 }
