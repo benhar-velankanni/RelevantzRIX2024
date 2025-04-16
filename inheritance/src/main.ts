@@ -61,7 +61,6 @@ class Item3 {
   constructor(public name: string, public price: number, public inStock: boolean) {}
 }
 
-// Employee class extends Item
 class Employee extends Item3 {
   constructor(
     public name: string,
