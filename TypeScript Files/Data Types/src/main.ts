@@ -265,3 +265,140 @@ let personValue = new PersonExample("John", "Doe", 30);
 let employeeValue = new EmployeeExample("Jane", "Doe", 25, 123);
 console.log(personValue.getFullName());
 console.log(employeeValue.getFullName());
+
+//Override
+class PersonExample2 {
+  firstName: string;
+  lastName: string;
+  age: number;
+  constructor(firstName: string, lastName: string, age: number) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age;
+  }
+  getFullName(): string {
+    return this.constructor.name === "EmployeeExample2"
+      ? "The name of the employee is " +
+          this.firstName +
+          " " +
+          this.lastName +
+          "."
+      : "The name of the person is " +
+          this.firstName +
+          " " +
+          this.lastName +
+          ".";
+  }
+}
+class EmployeeExample2 extends PersonExample2 {
+  employeeId: number;
+  constructor(
+    firstName: string,
+    lastName: string,
+    age: number,
+    employeeId: number
+  ) {
+    super(firstName, lastName, age);
+    this.employeeId = employeeId;
+  }
+  getFullName(): string {
+    return (
+      "The name of the employee is " +
+      this.firstName +
+      " " +
+      this.lastName +
+      "."
+    );
+  }
+}
+
+let personValue2 = new PersonExample2("John", "Doe", 30);
+let employeeValue2 = new EmployeeExample2("Jane", "Doe", 25, 123);
+console.log(personValue2.getFullName());
+console.log(employeeValue2.getFullName());
+
+//Abstract Class
+abstract class PersonExample3 {
+  firstName: string;
+  lastName: string;
+  age: number;
+  constructor(firstName: string, lastName: string, age: number) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+    this.age = age;
+  }
+  abstract getFullName(): string;
+}
+
+class EmployeeExample3 extends PersonExample3 {
+  employeeId: number;
+  constructor(
+    firstName: string,
+    lastName: string,
+    age: number,
+    employeeId: number
+  ) {
+    super(firstName, lastName, age);
+    this.employeeId = employeeId;
+  }
+  getFullName(): string {
+    return (
+      "The name of the employee is " +
+      this.firstName +
+      " " +
+      this.lastName +
+      "."
+    );
+  }
+}
+
+// let personValue3 = new PersonExample3("John", "Doe", 30); //Can not create instance of abstract class.
+let employeeValue3 = new EmployeeExample3("Jane", "Doe", 25, 123);
+console.log(employeeValue3.getFullName());
+
+//Interface Working
+interface PersonExample4 {
+  firstName: string;
+  lastName: string;
+  age: number;
+  getFullName(): string;
+}
+interface EmployeeExample4 extends PersonExample4 {
+  employeeId: number;
+  getFullName(): string;
+}
+let personValue4: PersonExample4 = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 30,
+  getFullName(): string {
+    return (
+      "The name of the person is " + this.firstName + " " + this.lastName + "."
+    );
+  },
+};
+let employeeValue4: EmployeeExample4 = {
+  firstName: "Jane",
+  lastName: "Doe",
+  age: 25,
+  employeeId: 123,
+  getFullName(): string {
+    return (
+      "The name of the employee is " +
+      this.firstName +
+      " " +
+      this.lastName +
+      "."
+    );
+  },
+};
+
+console.log(personValue4.getFullName());
+console.log(employeeValue4.getFullName());
+
+//Functional Interface
+interface Add {
+  (a: number, b: number): number;
+}
+const addition: Add = (a: number, b: number): number => a + b;
+console.log("Functional Interface: " + addition(1, 2));

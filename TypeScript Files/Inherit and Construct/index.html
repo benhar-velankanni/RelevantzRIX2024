@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inheritance Forms</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: auto;
+        margin: 0;
+        background-color: #000000;
+        color: black;
+      }
+      form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        vertical-align: center;
+        background-color: #ffffff;
+        width: 400px;
+        min-height: 300px;
+        border-radius: 10px;
+        padding: 50px;
+        margin-bottom: 20px;
+      }
+      label {
+        margin-bottom: 0.5em;
+      }
+      input {
+        margin-bottom: 1rem;
+        padding: 15px 20px;
+        border-radius: 5px;
+        border: 1px solid black;
+        width: 90%;
+      }
+      button {
+        padding: 0.5rem 1rem;
+        border-radius: 5px;
+        background-color: green;
+        color: #f0f0f0;
+        border: none;
+        cursor: pointer;
+        transition: 0.3s ease-in-out;
+      }
+      button:hover {
+        background-color: #ffffff;
+        border: 1px solid black;
+        color: black;
+        transform: scale(1.1);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <h1
+        style="
+          display: flex;
+          justify-content: center;
+          color: white;
+          padding: 30px;
+        "
+      >
+        Inheritance Forms
+      </h1>
+      <main>
+        <form id="productForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Product Form</h1>
+          <p style="padding-bottom: 20px">Extends Item Interface.</p>
+
+          <label for="productId">Product ID:</label>
+          <input
+            type="number"
+            id="productId"
+            name="productId"
+            placeholder="Enter the Product ID"
+          />
+          <label for="productName">Name:</label>
+          <input
+            type="text"
+            id="productName"
+            name="name"
+            placeholder="Enter the Name of the Phone"
+          />
+          <label for="price">Price:</label>
+          <input
+            type="number"
+            id="price"
+            name="price"
+            placeholder="Enter the Price in Rupees"
+          />
+          <label for="inStock">In Stock:</label>
+          <input type="checkbox" id="inStock" name="inStock" />
+          <button type="submit">Submit</button>
+        </form>
+        <form id="bookForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Book Form</h1>
+          <p style="padding-bottom: 20px">Extends Item Interface.</p>
+          <label for="bookId">Book ID:</label>
+          <input
+            type="number"
+            id="bookId"
+            name="bookId"
+            placeholder="Enter the Book ID"
+          />
+          <label for="name">Book Name:</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Enter the Book Name"
+          />
+          <label for="author">Author:</label>
+          <input
+            type="text"
+            id="author"
+            name="author"
+            placeholder="Enter the Author Name"
+          />
+          <label for="pages">Pages:</label>
+          <input
+            type="number"
+            id="pages"
+            name="pages"
+            placeholder="Enter the Number of Pages"
+          />
+          <button type="submit">Submit</button>
+        </form>
+        <form id="carForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Car Form</h1>
+          <p style="padding-bottom: 20px">Extends Item Interface.</p>
+          <label for="carId">Car ID:</label>
+          <input
+            type="number"
+            id="carId"
+            name="carId"
+            placeholder="Enter the Car ID"
+          />
+          <label for="carMake">Make:</label>
+          <input
+            type="text"
+            id="carMake"
+            name="make"
+            placeholder="Enter the Car Make"
+          />
+          <label for="carModel">Model:</label>
+          <input
+            type="text"
+            id="carModel"
+            name="model"
+            placeholder="Enter the Car Model"
+          />
+          <label for="year">Year:</label>
+          <input
+            type="number"
+            id="year"
+            name="year"
+            placeholder="Enter the Year"
+          />
+          <label for="isRunning">Is Running:</label>
+          <input type="checkbox" id="isRunning" name="isRunning" />
+          <button type="submit">Submit</button>
+        </form>
+        <form id="employeeForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Employee Form</h1>
+          <p style="padding-bottom: 20px">Extends Item Interface.</p>
+          <label for="empId">Employee ID:</label>
+          <input
+            type="number"
+            id="empId"
+            name="empId"
+            placeholder="Enter the Employee ID"
+          />
+          <label for="employeeName">Name:</label>
+          <input
+            type="text"
+            id="employeeName"
+            name="name"
+            placeholder="Enter the Employee Name"
+          />
+          <label for="position">Position:</label>
+          <input
+            type="text"
+            id="position"
+            name="position"
+            placeholder="Enter the Position"
+          />
+          <label for="salary">Salary:</label>
+          <input
+            type="number"
+            id="salary"
+            name="salary"
+            placeholder="Enter the Salary in Rupees"
+          />
+          <label for="isFullTime">Is Full Time:</label>
+          <input type="checkbox" id="isFullTime" name="isFullTime" />
+          <button type="submit">Submit</button>
+        </form>
+        <form id="courseForm" novalidate>
+          <h1 style="display: flex; justify-content: center">Course Form</h1>
+          <p style="padding-bottom: 20px">Extends Item Interface.</p>
+          <label for="courseId">Course ID:</label>
+          <input
+            type="number"
+            id="courseId"
+            name="courseId"
+            placeholder="Enter the Course ID"
+          />
+          <label for="name">Course Name:</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Enter the Course Title"
+          />
+          <label for="instructor">Instructor:</label>
+          <input
+            type="text"
+            id="instructor"
+            name="instructor"
+            placeholder="Enter the Instructor"
+          />
+          <label for="duration">Duration (hours):</label>
+          <input
+            type="number"
+            id="duration"
+            name="duration"
+            placeholder="Enter the Duration in hours"
+          />
+          <label for="isOnline">Is Online:</label>
+          <input type="checkbox" id="isOnline" name="isOnline" />
+          <button type="submit">Submit</button>
+        </form>
+      </main>
+    </div>
+
+    <script type="module">
+      import { handleFormSubmit } from "./src/main.js";
+      document.getElementById("productForm").onsubmit = handleFormSubmit;
+      document.getElementById("bookForm").onsubmit = handleFormSubmit;
+      document.getElementById("carForm").onsubmit = handleFormSubmit;
+      document.getElementById("employeeForm").onsubmit = handleFormSubmit;
+      document.getElementById("courseForm").onsubmit = handleFormSubmit;
+    </script>
+  </body>
+</html>
