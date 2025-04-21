@@ -1,0 +1,47 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 850px;
+  min-height: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.dataTable {
+  margin-top: 20px;
+  width: 800px;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+.dataTable th,
+.dataTable td {
+  padding: 5px;
+  text-align: center;
+  word-break: break-word;
+  border-top: 1px solid #9acbd0;
+  border-bottom: 1px solid #9acbd0;
+}
+
+.dataTable th {
+  font-size: medium;
+}
+
+.dataTable td {
+  font-size: x-small;
+}
+
+.update-button {
+  background-color: lightskyblue;
+  border: none;
+  width: 100px;
+  font-size: small;
+}
+
+.delete-button {
+  background-color: crimson;
+  border: none;
+  width: 100px;
+  font-size: small;
+}

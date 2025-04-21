@@ -1,0 +1,48 @@
+.form-container {
+  max-width: 600px;
+  min-height: 250px;
+  padding: 80px;
+  border-radius: 15px;
+  background-color: #00000076;
+  margin-bottom: 100px;
+  font-size: medium;
+}
+
+input {
+  border-radius: 5px;
+  font-size: small;
+  border: none;
+  width: 250px;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+button {
+  border-radius: 10px;
+  border: none;
+  padding: 10px 25px;
+  margin: 10px;
+  color: white;
+  background-color: green;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #ffffff;
+  color: black;
+  transform: scale(1.05);
+}
+
+.var {
+  text-align: left;
+}
+
+td {
+  padding: 10px;
+}
