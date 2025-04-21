@@ -206,22 +206,6 @@ function echo<T>(value: T): T {
 }
 console.log("Type Parameters: " + echo<string>("Hello"));
 
-// Generic classes.
-class Queue<T> {
-  private data: T[] = [];
-  push(item: T) {
-    this.data.push(item);
-  }
-  pop(): T | undefined {
-    return this.data.shift();
-  }
-}
-const queue = new Queue<number>();
-queue.push(1);
-queue.push(2);
-queue.push(3);
-console.log("Generic Class: " + queue.pop());
-
 //Class Working
 class PersonExample {
   firstName: string;
@@ -235,12 +219,12 @@ class PersonExample {
 
   getFullName(): string {
     return this.constructor.name === "EmployeeExample"
-      ? "The name of the employee is " +
+      ? "Class: The name of the employee is " +
           this.firstName +
           " " +
           this.lastName +
           "."
-      : "The name of the person is " +
+      : "Class: The name of the person is " +
           this.firstName +
           " " +
           this.lastName +
@@ -278,12 +262,12 @@ class PersonExample2 {
   }
   getFullName(): string {
     return this.constructor.name === "EmployeeExample2"
-      ? "The name of the employee is " +
+      ? "Override: The name of the employee is " +
           this.firstName +
           " " +
           this.lastName +
           "."
-      : "The name of the person is " +
+      : "Override: The name of the person is " +
           this.firstName +
           " " +
           this.lastName +
@@ -303,7 +287,7 @@ class EmployeeExample2 extends PersonExample2 {
   }
   getFullName(): string {
     return (
-      "The name of the employee is " +
+      "Override: The name of the employee is " +
       this.firstName +
       " " +
       this.lastName +
@@ -343,7 +327,7 @@ class EmployeeExample3 extends PersonExample3 {
   }
   getFullName(): string {
     return (
-      "The name of the employee is " +
+      "Abstract class: The name of the employee is " +
       this.firstName +
       " " +
       this.lastName +
@@ -373,7 +357,11 @@ let personValue4: PersonExample4 = {
   age: 30,
   getFullName(): string {
     return (
-      "The name of the person is " + this.firstName + " " + this.lastName + "."
+      "Interface: The name of the person is " +
+      this.firstName +
+      " " +
+      this.lastName +
+      "."
     );
   },
 };
@@ -384,7 +372,7 @@ let employeeValue4: EmployeeExample4 = {
   employeeId: 123,
   getFullName(): string {
     return (
-      "The name of the employee is " +
+      "Interface: The name of the employee is " +
       this.firstName +
       " " +
       this.lastName +
@@ -402,3 +390,121 @@ interface Add {
 }
 const addition: Add = (a: number, b: number): number => a + b;
 console.log("Functional Interface: " + addition(1, 2));
+
+//Generic functions.
+function echoMessage<T>(value: T): T {
+  return value;
+}
+console.log("Generic Function: " + echoMessage<string>("Hello"));
+
+//Generic Interfaces.
+interface Box<T> {
+  value: T;
+}
+const box: Box<number> = { value: 10 };
+console.log("Generic Interface, Type: Numeric: " + box.value);
+const anotherBox: Box<string> = { value: "Hello" };
+console.log("Generic Interface, Type: String: " + anotherBox.value);
+
+// Generic classes.
+class Queue<T> {
+  public data: T[] = [];
+  push(item: T) {
+    this.data.push(item);
+  }
+  pop(): T | undefined {
+    return this.data.shift();
+  }
+  isEmpty(): boolean {
+    return this.data.length === 0;
+  }
+}
+const queue = new Queue<number>();
+queue.push(1);
+queue.push(2);
+queue.push(3);
+console.log("Generic Class: Queue Pop:" + queue.pop());
+console.log("Generic Class: isEmpty? " + queue.isEmpty());
+
+//Extending Generic Classes.
+class Queue2<T> extends Queue<T> {
+  peek(): T | undefined {
+    return this.data[0];
+  }
+}
+const queue2 = new Queue2<number>();
+queue2.push(1);
+queue2.push(2);
+queue2.push(3);
+console.log("Extending Generic Class: Queue Peek: " + queue2.peek());
+
+//Simple Example.
+class Item<T> {
+  itemId: T;
+  itemName: string;
+  itemPrice: number;
+
+  constructor(itemId: T, itemName: string, itemPrice: number) {
+    this.itemId = itemId;
+    this.itemName = itemName;
+    this.itemPrice = itemPrice;
+  }
+
+  displayInfo() {
+    console.log(
+      "======================================================================\n" +
+        "Generic Type Example: \n======================================================================\nItem ID: " +
+        this.itemId +
+        ", \nItem Name: " +
+        this.itemName +
+        ", \nItem Price: " +
+        this.itemPrice
+    );
+  }
+}
+
+//Extending Generic Class for Perishable Items.
+class PerishableItem<T> extends Item<T> {
+  expirationDate: Date;
+
+  constructor(
+    itemId: T,
+    itemName: string,
+    itemPrice: number,
+    expirationDate: Date
+  ) {
+    super(itemId, itemName, itemPrice);
+    this.expirationDate = expirationDate;
+  }
+
+  isExpired() {
+    const today = new Date();
+    return today > this.expirationDate;
+  }
+
+  displayInfo() {
+    const expiryStatus = this.isExpired() ? "Yes" : "No";
+    console.log(
+      "======================================================================\n" +
+        "Generic Type Example: \n======================================================================\nItem ID: " +
+        this.itemId +
+        ", \nItem Name: " +
+        this.itemName +
+        ", \nItem Price: " +
+        this.itemPrice +
+        ", \nIs Expired: " +
+        expiryStatus
+    );
+  }
+}
+
+const item = new Item<number>(1, "Book", 19.99);
+item.displayInfo();
+
+const perishableItem = new PerishableItem<number>(
+  1,
+  "Milk Carton",
+  10.99,
+  new Date("2023-12-31")
+);
+perishableItem.displayInfo();
