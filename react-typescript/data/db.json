@@ -1,75 +1,11 @@
 {
-  "Contact": [
-    {
-      "id": "3578",
-      "contactId": "12155",
-      "name": "Rishi",
-      "phone": "0986559552523",
-      "email": "rishi.manisekaran@DFG"
-    },
-    {
-      "id": "15e9",
-      "contactId": "54541",
-      "name": "Rishi Kesava Vigneshver Manisekaran",
-      "phone": "09865595525",
-      "email": "ABC@GMAIL.COM"
-    },
-    {
-      "id": "ce31",
-      "contactId": "4",
-      "name": "5",
-      "phone": "5",
-      "email": "balaji@gmail.com"
-    },
-    {
-      "id": "df72",
-      "contactId": "5",
-      "name": "5",
-      "phone": "5",
-      "email": "balaji@gmail.com"
-    },
-    {
-      "id": "6034",
-      "contactId": "87542",
-      "name": "5412",
-      "phone": "5421",
-      "email": "balaji@gmail.com"
-    },
-    {
-      "id": "f96f",
-      "contactId": "874512",
-      "name": "85421",
-      "phone": "542",
-      "email": "balaji@gmail.com"
-    },
-    {
-      "id": "0eb7",
-      "contactId": "255",
-      "name": "5",
-      "phone": "5",
-      "email": "balaji@gmail.com"
-    },
-    {
-      "id": "3541",
-      "contactId": "54541",
-      "name": "mnhg",
-      "phone": "09865595525",
-      "email": "ABC@GMAIL.COM"
-    },
-    {
-      "id": "e4fc",
-      "contactId": "4545",
-      "name": "Rishi Kesava Vigneshver Manisekaran",
-      "phone": "09865595525",
-      "email": "ABC@GMAIL"
-    }
-  ],
+  "Contact": [],
   "transaction": [
     {
       "id": "b057",
       "transactionId": "1254",
       "description": "sent $5000 to rajesh",
-      "amount": "500",
+      "amount": "500000000",
       "date": "2025-04-24"
     }
   ]

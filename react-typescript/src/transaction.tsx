@@ -93,9 +93,13 @@ const TransactionManagement: React.FC = () => {
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    const existingTransaction = transactions.find(t => t.transactionId === Number(transaction.transactionId));
-    if (existingTransaction) {
-      alert('Transaction with same id already exists');
+    if (transaction.transactionId) {
+      axios.put<any>(`http://localhost:3000/transaction/${transaction.id}`, transaction)
+        .then(response => {
+          setTransactions(transactions.map(item => item.id === transaction.id ? response.data : item));
+          setTransaction({ transactionId: 0, description: '', amount: 0, date: '' });
+        })
+        .catch(error => console.log(error));
     } else {
       axios.post<any>('http://localhost:3000/transaction', transaction)
         .then(response => {

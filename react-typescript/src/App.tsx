@@ -93,14 +93,18 @@ const ContactManagement: React.FC = () => {
 
   const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
-    const existingContact = contacts.find(c => c.contactId === Number(contact.contactId));
-    if (existingContact) {
-      alert('Contact with same id already exists');
+    if (contact.id) {
+      axios.put<any>(`http://localhost:3000/Contact/${contact.id}`, contact)
+        .then(response => {
+          setContacts(contacts.map(item => item.id === contact.id ? response.data : item));
+          setContact({contactId: 0, name: '', phone: '', email: '' });
+        })
+        .catch(error => console.log(error));
     } else {
       axios.post<any>('http://localhost:3000/Contact', contact)
         .then(response => {
           setContacts([...contacts, response.data]);
-          setContact({ contactId: 0, name: '', phone: '', email: '' });
+          setContact({contactId: 0, name: '', phone: '', email: '' });
         })
         .catch(error => console.log(error));
     }
@@ -125,15 +129,6 @@ const ContactManagement: React.FC = () => {
     }
   };
 
-  const checkContactId = (contactId: number) => {
-    const existingContact = contacts.find(contact => contact.contactId === contactId);
-    if (existingContact) {
-      alert('Contact with same id already exists');
-      return false;
-    }
-    return true;
-  };
-
   return (
     <div className="ui container">
       <h1 className="ui colorful dividing header">Contact Management</h1>
@@ -142,7 +137,7 @@ const ContactManagement: React.FC = () => {
           <tbody>
             <tr>
               <td><label>Contact Id: </label></td>
-              <td><div className="ui input"><input type="number" name="contactId" value={contact.contactId || ''} onChange={handleChange} placeholder="Enter Id" required onBlur={(e) => checkContactId(Number(e.target.value))} /></div></td>
+              <td><div className="ui input"><input type="number" name="contactId" value={contact.contactId || ''} onChange={handleChange} placeholder="Enter Id" required /></div></td>
             </tr>
             <tr>
               <td><label>Name: </label></td>
@@ -164,7 +159,7 @@ const ContactManagement: React.FC = () => {
         </table>
       </form>
       <div className="ui colorful action input">
-        <input type="text" value={searchId} onChange={(e) => setSearchId(e.target.value)} placeholder="Search by Contact Id" />
+        <input type="number" value={searchId} onChange={(e) => setSearchId(e.target.value)} placeholder="Search by Contact Id" />
         <button className="ui colorful button" onClick={handleSearch} > <i className="search icon"></i>  Search</button>
       </div>
       <DisplayContacts contacts={contacts} onEdit={handleEdit} onDelete={handleDelete} searchedContact={searchedContact} />
@@ -173,5 +168,4 @@ const ContactManagement: React.FC = () => {
 };
 
 export default ContactManagement;
-
 
