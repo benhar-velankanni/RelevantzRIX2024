@@ -4,18 +4,21 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AddTranaction from "./components/AddTranaction";
 import ViewTransactions from "./components/ViewTransactions";
 import Home from "./components/Home";
-import { useState, useEffect } from "react";
 
 function App() {
-  const [navbarKey, setNavbarKey] = useState(0);
+  document.addEventListener("DOMContentLoaded", () => {
+    const app = document.getElementById("App");
 
-  useEffect(() => {
-    setNavbarKey((prevKey) => prevKey + 1);
-  }, []);
+    if (app) {
+      setTimeout(() => {
+        app.style.opacity = "1";
+      }, 150);
+    }
+  });
 
   return (
     <BrowserRouter>
-      <Navbar key={navbarKey} />
+      <Navbar />
       <div className="App">
         <header className="App-header">
           <Routes>

@@ -6,6 +6,16 @@
   min-height: 200px;
   margin-top: 20px;
   margin-bottom: 20px;
+  animation: fade-in-initial 0.5s forwards;
+}
+
+@keyframes fade-in-initial {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .dataTable {
@@ -29,7 +39,7 @@
 }
 
 .dataTable td {
-  font-size: x-small;
+  font-size: small;
 }
 
 .update-button {

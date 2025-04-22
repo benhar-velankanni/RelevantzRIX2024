@@ -1,15 +1,13 @@
-import {useState, useEffect} from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
 import "./AddContact.css";
 
 const API_URL = "http://localhost:5000/contacts";
 
 function AddContact() {
-
   useEffect(() => {
     document.title = "Z Contacts - Add Contacts";
   });
-  
 
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");

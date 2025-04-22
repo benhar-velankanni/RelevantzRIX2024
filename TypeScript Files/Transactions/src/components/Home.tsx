@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 function Home() {
   useEffect(() => {
-    document.title = "Z Contacts - Home";
+    document.title = "Z Transactions - Home";
   });
 
   return (

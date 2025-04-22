@@ -43,67 +43,72 @@ function AddTranaction() {
   };
 
   return (
-    <div className="form-container">
-      <h3>Add Transaction Details</h3>
-      <form onSubmit={handleSubmit} noValidate>
-        <table>
-          <tbody>
-            <tr>
-              <td className="var">
-                <label>Transaction ID:</label>
-              </td>
-              <td>
-                <input
-                  type="text"
-                  value={transId}
-                  onChange={(e) => setTransId(e.target.value)}
-                />
-              </td>
-            </tr>
-            <tr>
-              <td className="var">
-                <label>Transaction Name:</label>
-              </td>
-              <td>
-                <input
-                  type="text"
-                  value={transName}
-                  onChange={(e) => setTransName(e.target.value)}
-                />
-              </td>
-            </tr>
-            <tr>
-              <td className="var">
-                <label>Transaction Description:</label>
-              </td>
-              <td>
-                <input
-                  type="text"
-                  value={transDescription}
-                  onChange={(e) => setTransDescription(e.target.value)}
-                />
-              </td>
-            </tr>
-            <tr>
-              <td className="var">
-                <label>Transaction Mode:</label>
-              </td>
-              <td>
-                <input
-                  type="text"
-                  value={transMode}
-                  onChange={(e) => setTransMode(e.target.value)}
-                />
-              </td>
-            </tr>
-          </tbody>
-        </table>
+    <div className="App">
+      <header className="App-header">
+        <div className="form-container">
+          <h3>Add Transaction Details</h3>
+          <form onSubmit={handleSubmit} noValidate>
+            <table>
+              <tbody>
+                <tr>
+                  <td className="var">
+                    <label>Transaction ID:</label>
+                  </td>
+                  <td>
+                    <input
+                      type="text"
+                      value={transId}
+                      onChange={(e) => setTransId(e.target.value)}
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td className="var">
+                    <label>Transaction Name:</label>
+                  </td>
+                  <td>
+                    <input
+                      type="text"
+                      value={transName}
+                      onChange={(e) => setTransName(e.target.value)}
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td className="var">
+                    <label>Transaction Description:</label>
+                  </td>
+                  <td>
+                    <input
+                      type="text"
+                      value={transDescription}
+                      onChange={(e) => setTransDescription(e.target.value)}
+                    />
+                  </td>
+                </tr>
+                <tr>
+                  <td className="var">
+                    <label>Transaction Mode:</label>
+                  </td>
+                  <td>
+                    <input
+                      type="text"
+                      value={transMode}
+                      onChange={(e) => setTransMode(e.target.value)}
+                    />
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <br />
+            <button type="submit">Add</button>
+          </form>
+        </div>
         <br />
-        <button type="submit">Add</button>
-      </form>
+        <br />
+      </header>
     </div>
   );
 }
 
 export default AddTranaction;
-

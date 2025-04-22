@@ -24,6 +24,12 @@ function ViewTransactions() {
   }, []);
 
   const handleUpdate = async (id: string) => {
+    const TransId = prompt("Enter new transaction ID");
+    if (!TransId) {
+      alert("Please enter a transaction ID");
+      return;
+    }
+
     const TransName = prompt("Enter new transaction name");
     if (!TransName) {
       alert("Please enter a transaction name");
@@ -44,6 +50,7 @@ function ViewTransactions() {
 
     try {
       const response = await axios.put(`${API_URL}/${id}`, {
+        TransId,
         TransName,
         TransDescription,
         TransMode,
@@ -52,7 +59,13 @@ function ViewTransactions() {
       setTransactions((prevTransactions: any) =>
         prevTransactions.map((transaction: any) => {
           if (transaction.id === id) {
-            return { ...transaction, TransName, TransDescription, TransMode };
+            return {
+              ...transaction,
+              TransId,
+              TransName,
+              TransDescription,
+              TransMode,
+            };
           }
           return transaction;
         })
@@ -75,54 +88,69 @@ function ViewTransactions() {
 
   if (transactions.length === 0) {
     return (
-      <div className="form-container">
-        <h3>Transaction Details</h3>
-        <p>
-          <i>No Transaction Details Available!</i>
-        </p>
+      <div className="App">
+        <header className="App-header">
+          <div className="form-container">
+            <h3>Transaction Details</h3>
+            <p>
+              <i>No Transaction Details Available!</i>
+            </p>
+          </div>
+        </header>
       </div>
     );
   } else {
     return (
-      <div className="form-container">
-        <h3>Transaction Details</h3>
-        <table className="dataTable">
-          <thead>
-            <tr>
-              <th className="var">Name</th>
-              <th className="var">Description</th>
-              <th className="var">Mode</th>
-              <th className="var">Actions</th>
-            </tr>
-          </thead>
-          <tbody>
-            {transactions.map((transaction: any) => (
-              <tr key={transaction.id}>
-                <td style={{ textAlign: "left" }}>{transaction.TransName}</td>
-                <td style={{ textAlign: "left" }}>{transaction.TransDescription}</td>
-                <td style={{ textAlign: "left" }}>{transaction.TransMode}</td>
-                <td style={{ textAlign: "center" }}>
-                  <button
-                    className="update-button"
-                    onClick={() => handleUpdate(transaction.id)}
-                  >
-                    Update
-                  </button>
-                  <button
-                    className="delete-button"
-                    onClick={() => handleDelete(transaction.id)}
-                  >
-                    Delete
-                  </button>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+      <div className="App">
+        <header className="App-header">
+          <div className="form-container">
+            <h3>Transaction Details</h3>
+            <table className="dataTable">
+              <thead>
+                <tr>
+                  <th className="var">ID</th>
+                  <th className="var">Name</th>
+                  <th className="var">Description</th>
+                  <th className="var">Mode</th>
+                  <th className="var">Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                {transactions.map((transaction: any) => (
+                  <tr key={transaction.id}>
+                    <td style={{ textAlign: "left" }}>{transaction.TransId}</td>
+                    <td style={{ textAlign: "left" }}>
+                      {transaction.TransName}
+                    </td>
+                    <td style={{ textAlign: "left" }}>
+                      {transaction.TransDescription}
+                    </td>
+                    <td style={{ textAlign: "left" }}>
+                      {transaction.TransMode}
+                    </td>
+                    <td style={{ textAlign: "center" }}>
+                      <button
+                        className="update-button"
+                        onClick={() => handleUpdate(transaction.id)}
+                      >
+                        Update
+                      </button>
+                      <button
+                        className="delete-button"
+                        onClick={() => handleDelete(transaction.id)}
+                      >
+                        Delete
+                      </button>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </header>
       </div>
     );
   }
 }
 
 export default ViewTransactions;
-

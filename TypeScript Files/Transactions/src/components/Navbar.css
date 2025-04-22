@@ -1,21 +1,22 @@
-.navbar{
-    padding: 20px;
-    background-color: #C68EFD !important;
+.navbar {
+  padding: 20px;
+  background-color: #c68efd !important;
 }
 
-.navbar-brand{
-    color: white !important;
+.navbar-brand {
+  font-size: x-large;
+  color: white !important;
 }
 
-.nav-link{
-    font-size: larger;
-    color: rgb(0, 0, 0) !important;
+.nav-link {
+  font-size: larger;
+  color: rgb(0, 0, 0) !important;
 }
 
-.nav-link:hover{
-    color: white !important;
+.nav-link:hover {
+  color: white !important;
 }
 
-.active{
-    color: white !important;
+.active {
+  color: white !important;
 }

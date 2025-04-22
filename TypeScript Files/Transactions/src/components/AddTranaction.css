@@ -6,6 +6,16 @@
   background-color: #00000076;
   margin-bottom: 100px;
   font-size: medium;
+  animation: fade-in-initial 0.5s forwards;
+}
+
+@keyframes fade-in-initial {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 input {
