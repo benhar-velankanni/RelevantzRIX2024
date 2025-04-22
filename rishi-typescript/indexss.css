@@ -1,0 +1,87 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.title {
+  text-align: center;
+  color: #333;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  text-align: center;
+  color: #666;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.create-form, .update-form, .delete-form, .read-form, .create-trans-form, .update-trans-form, .delete-trans-form, .read-trans-form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: #333;
+}
+
+.input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+.button:active {
+  background-color: #3e8e41;
+}
+
+@media (max-width: 600px) {
+  .create-form, .update-form, .delete-form, .create-trans-form, .update-trans-form, .delete-trans-form {
+    width: 100%;
+  }
+}
+
+
+#create-trans, #read-trans, #update-trans, #delete-trans {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#create-trans:hover, #read-trans:hover, #update-trans:hover, #delete-trans:hover {
+  background-color: #45a049;
+}
+
