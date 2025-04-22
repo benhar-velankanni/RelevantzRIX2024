@@ -1,0 +1,41 @@
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+}
+
+button{
+    margin: 10px;
+    padding : 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+    border-radius: 10px;
+    background-color: #E5E5E5;
+}
+
+input{
+    margin: 10px;
+    padding : 10px;
+    border-radius: 10px;
+    text-align:start;
+    width: 100%;
+    /* outline: none; */
+}
+
+h1{
+    text-align: center;
+    font-weight: bold; 
+}
+input:focus{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+button:hover{
+    background-color: #C4C4C4;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
