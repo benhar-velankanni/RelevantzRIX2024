@@ -5,39 +5,56 @@ import "./AddTranaction.css";
 const API_URL = "http://localhost:5000/transactions";
 
 function AddTranaction() {
+  const [transactions, setTransactions]: any = useState([]);
+
   useEffect(() => {
     document.title = "Z Transactions - Add Transaction";
+    const fetchData = async () => {
+      try {
+        const response = await axios.get(API_URL);
+        setTransactions(response.data);
+      } catch (error) {
+        console.error("Error fetching transactions:", error);
+      }
+    };
+    fetchData();
   });
-
-  const [transId, setTransId] = useState("");
-  const [transName, setTransName] = useState("");
-  const [transDescription, setTransDescription] = useState("");
-  const [transMode, setTransMode] = useState("");
 
   const handleSubmit = async (event: any) => {
     event.preventDefault();
+    const formData = new FormData(event.target);
     const data = {
-      TransId: transId,
-      TransName: transName,
-      TransDescription: transDescription,
-      TransMode: transMode,
+      TransId: formData.get("transId"),
+      TransName: formData.get("transName"),
+      TransDescription: formData.get("transDescription"),
+      TransAmount: formData.get("transAmount"),
+      TransMode: formData.get("transMode"),
     };
 
-    if (!transId || !transName || !transDescription || !transMode) {
-      alert("Please fill in all fields.");
+    if (
+      !data.TransId ||
+      !data.TransName ||
+      !data.TransDescription ||
+      !data.TransAmount ||
+      !data.TransMode
+    ) {
+      alert("Please fill in all the fields!");
+      return;
+    } else if (
+      transactions.filter(
+        (transaction: any) => transaction.TransId === data.TransId
+      ).length > 0
+    ) {
+      alert("Transaction ID already exists!");
       return;
     } else {
       try {
         const response = await axios.post(API_URL, data);
-        console.log(response.data);
-        setTransId("");
-        setTransName("");
-        setTransDescription("");
-        setTransMode("");
+        setTransactions([...transactions, response.data]);
         alert("Transaction added successfully!");
+        event.target.reset();
       } catch (error) {
-        alert("An error occurred while adding the transaction.");
-        console.log(error);
+        console.error("Error adding contact:", error);
       }
     }
   };
@@ -55,11 +72,7 @@ function AddTranaction() {
                     <label>Transaction ID:</label>
                   </td>
                   <td>
-                    <input
-                      type="text"
-                      value={transId}
-                      onChange={(e) => setTransId(e.target.value)}
-                    />
+                    <input type="text" name="transId" />
                   </td>
                 </tr>
                 <tr>
@@ -67,11 +80,7 @@ function AddTranaction() {
                     <label>Transaction Name:</label>
                   </td>
                   <td>
-                    <input
-                      type="text"
-                      value={transName}
-                      onChange={(e) => setTransName(e.target.value)}
-                    />
+                    <input type="text" name="transName" />
                   </td>
                 </tr>
                 <tr>
@@ -79,11 +88,15 @@ function AddTranaction() {
                     <label>Transaction Description:</label>
                   </td>
                   <td>
-                    <input
-                      type="text"
-                      value={transDescription}
-                      onChange={(e) => setTransDescription(e.target.value)}
-                    />
+                    <input type="text" name="transDescription" />
+                  </td>
+                </tr>
+                <tr>
+                  <td className="var">
+                    <label>Transaction Amount:</label>
+                  </td>
+                  <td>
+                    <input type="text" name="transAmount" />
                   </td>
                 </tr>
                 <tr>
@@ -91,11 +104,7 @@ function AddTranaction() {
                     <label>Transaction Mode:</label>
                   </td>
                   <td>
-                    <input
-                      type="text"
-                      value={transMode}
-                      onChange={(e) => setTransMode(e.target.value)}
-                    />
+                    <input type="text" name="transMode" />
                   </td>
                 </tr>
               </tbody>

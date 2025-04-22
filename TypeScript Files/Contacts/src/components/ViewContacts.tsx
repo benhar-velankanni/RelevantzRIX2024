@@ -2,16 +2,13 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "./ViewContacts.css";
 
-const API_URL = "http://localhost:5000/trancactions";
+const API_URL = "http://localhost:5000/contacts";
 
 function ViewContacts() {
-  useEffect(() => {
-    document.title = "Z Contacts - View Contacts";
-  });
-
   const [contacts, setContacts] = useState([]);
 
   useEffect(() => {
+    document.title = "Z Contacts - View Contacts";
     const fetchData = async () => {
       try {
         const response = await axios.get(API_URL);
@@ -24,6 +21,18 @@ function ViewContacts() {
   }, []);
 
   const handleUpdate = async (id: string) => {
+    const ContactId = prompt("Enter new contact ID");
+    if (!ContactId) {
+      alert("Please enter a contact ID");
+      return;
+    } else if (
+      contacts.filter((contact: any) => contact.ContactId === ContactId)
+        .length > 0
+    ) {
+      alert("Contact ID already exists");
+      return;
+    }
+
     const Name = prompt("Enter new name");
     if (!Name) {
       alert("Please enter a name");
@@ -56,6 +65,7 @@ function ViewContacts() {
     } else {
       try {
         const response = await axios.put(`${API_URL}/${id}`, {
+          ContactId,
           Name,
           Email,
           Number,
@@ -65,7 +75,7 @@ function ViewContacts() {
         setContacts((prevContacts: any) =>
           prevContacts.map((contact: any) => {
             if (contact.id === id) {
-              return { ...contact, Name, Email, Number, Address };
+              return { ...contact, ContactId, Name, Email, Number, Address };
             }
             return contact;
           })
@@ -87,54 +97,91 @@ function ViewContacts() {
     }
   };
 
+  const handleSearch = async () => {
+    const searchValue = prompt("Enter search value:");
+    if (!searchValue) {
+      alert("Please enter a search value!");
+      return;
+    }
+
+    const results = contacts.filter(
+      (contact: any) => contact.ContactId === searchValue
+    );
+
+    if (results.length === 0) {
+      alert("No contact found with the given ID!");
+    } else {
+      results.forEach((contact: any) => {
+        alert(
+          `Contact found: \n===================\nContact ID: ${contact.ContactId} \nName: ${contact.Name} \nEmail: ${contact.Email} \nNumber: ${contact.Number} \nAddress: ${contact.Address}`
+        );
+      });
+    }
+  };
+
   if (contacts.length === 0) {
     return (
-      <div className="form-container">
-        <h3>Contact Details</h3>
-        <p>
-          <i>No Contact Details Available!</i>
-        </p>
+      <div className="App">
+        <header className="App-header">
+          <div className="form-container">
+            <h3>Contact Details</h3>
+            <p>
+              <i>No Contact Details Available!</i>
+            </p>
+          </div>
+        </header>
       </div>
     );
   } else {
     return (
-      <div className="form-container">
-        <h3>Contact Details</h3>
-        <table className="dataTable">
-          <thead>
-            <tr>
-              <th className="var">Name</th>
-              <th className="var">Email</th>
-              <th className="var">Number</th>
-              <th className="var">Address</th>
-              <th className="var">Actions</th>
-            </tr>
-          </thead>
-          <tbody>
-            {contacts.map((contact: any) => (
-              <tr key={contact.id}>
-                <td style={{ textAlign: "left" }}>{contact.Name}</td>
-                <td style={{ textAlign: "left" }}>{contact.Email}</td>
-                <td style={{ textAlign: "left" }}>{contact.Number}</td>
-                <td style={{ textAlign: "left" }}>{contact.Address}</td>
-                <td style={{ textAlign: "center" }}>
-                  <button
-                    className="update-button"
-                    onClick={() => handleUpdate(contact.id)}
-                  >
-                    Update
-                  </button>
-                  <button
-                    className="delete-button"
-                    onClick={() => handleDelete(contact.id)}
-                  >
-                    Delete
-                  </button>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+      <div className="App">
+        <header className="App-header">
+          <div className="form-container">
+            <h3>Contact Details</h3>
+            <br />
+            <button className="search-button" onClick={handleSearch}>
+              Search
+            </button>
+            <br />
+            <table className="dataTable">
+              <thead>
+                <tr>
+                  <th className="var">Contact ID</th>
+                  <th className="var">Name</th>
+                  <th className="var">Email</th>
+                  <th className="var">Number</th>
+                  <th className="var">Address</th>
+                  <th className="var">Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                {contacts.map((contact: any) => (
+                  <tr key={contact.id}>
+                    <td>{contact.ContactId}</td>
+                    <td>{contact.Name}</td>
+                    <td>{contact.Email}</td>
+                    <td>{contact.Number}</td>
+                    <td>{contact.Address}</td>
+                    <td>
+                      <button
+                        className="update-button"
+                        onClick={() => handleUpdate(contact.id)}
+                      >
+                        Update
+                      </button>
+                      <button
+                        className="delete-button"
+                        onClick={() => handleDelete(contact.id)}
+                      >
+                        Delete
+                      </button>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </header>
       </div>
     );
   }
