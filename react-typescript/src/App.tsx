@@ -9,55 +9,61 @@ const DisplayContacts: React.FC<{
 }> = ({ contacts, onEdit, onDelete, searchedContact }) => {
   if (contacts.length === 0 && !searchedContact) {
     return (
-      <div className="no-contacts">
-        <h2>No contacts to display</h2>
+      <div className="ui negative message">
+        <div className="header">No contacts to display</div>
       </div>
     );
   }
 
   return (
     <div>
-      <h2 className="heading">Display Contacts</h2>
-      <table className="tabledisplay">
+      <h2 className="ui colorful header">Display Contacts</h2>
+      <table className="ui colorful celled table">
         <thead>
           <tr>
-            <th>Contact Id</th>
-            <th>Name</th>
-            <th>Phone</th>
-            <th>Email</th>
-            <th>Actions</th>
+            <th className="three wide">Contact Id</th>
+            <th className="three wide">Name</th>
+            <th className="three wide">Phone</th>
+            <th className="three wide">Email</th>
+            <th className="three wide">Actions</th>
           </tr>
         </thead>
         <tbody>
           {searchedContact ? (
             <tr key={searchedContact.contactId}>
-              <td>{searchedContact.contactId}</td>
-              <td>{searchedContact.name}</td>
-              <td>{searchedContact.phone}</td>
-              <td>{searchedContact.email}</td>
-              <td>
-                <button className="save-button" onClick={() => onEdit(searchedContact)}>
-                  Edit
-                </button>
-                <button className="delete-button" onClick={() => onDelete(searchedContact.id)}>
-                  Delete
-                </button>
+              <td className="three wide">{searchedContact.contactId}</td>
+              <td className="three wide">{searchedContact.name}</td>
+              <td className="three wide">{searchedContact.phone}</td>
+              <td className="three wide">{searchedContact.email}</td>
+              <td className="three wide">
+                <div className="ui colorful buttons">
+                  <button className="ui primary button" onClick={() => onEdit(searchedContact)}>
+                    Edit
+                  </button>
+                  <div className="or"></div>
+                  <button className="ui red button" onClick={() => onDelete(searchedContact.id)}>
+                    Delete
+                  </button>
+                </div>
               </td>
             </tr>
           ) : (
             contacts.map(contact => (
               <tr key={contact.contactId}>
-                <td>{contact.contactId}</td>
-                <td>{contact.name}</td>
-                <td>{contact.phone}</td>
-                <td>{contact.email}</td>
-                <td>
-                  <button className="save-button" onClick={() => onEdit(contact)}>
-                    Edit
-                  </button>
-                  <button className="delete-button" onClick={() => onDelete(contact.id)}>
-                    Delete
-                  </button>
+                <td className="three wide">{contact.contactId}</td>
+                <td className="three wide">{contact.name}</td>
+                <td className="three wide">{contact.phone}</td>
+                <td className="three wide">{contact.email}</td>
+                <td className="three wide">
+                  <div className="ui colorful buttons">
+                    <button className="ui primary button" onClick={() => onEdit(contact)}>
+                      Edit
+                    </button>
+                    <div className="or"></div>
+                    <button className="ui red button" onClick={() => onDelete(contact.id)}>
+                      Delete
+                    </button>
+                  </div>
                 </td>
               </tr>
             ))
@@ -120,7 +126,7 @@ const ContactManagement: React.FC = () => {
   };
 
   const checkContactId = (contactId: number) => {
-    const existingContact = contacts.find(c => contact.contactId === contactId);
+    const existingContact = contacts.find(contact => contact.contactId === contactId);
     if (existingContact) {
       alert('Contact with same id already exists');
       return false;
@@ -129,37 +135,37 @@ const ContactManagement: React.FC = () => {
   };
 
   return (
-    <div className="App">
-      <h1 className="heading">Contact Management</h1>
-      <form onSubmit={handleSubmit}>
-        <table className="form-table">
+    <div className="ui container">
+      <h1 className="ui colorful dividing header">Contact Management</h1>
+      <form onSubmit={handleSubmit} className="ui colorful form">
+        <table className="ui colorful table">
           <tbody>
             <tr>
               <td><label>Contact Id: </label></td>
-              <td><input type="number" name="contactId" value={contact.contactId || ''} onChange={handleChange} placeholder="Enter Id" required onBlur={(e) => checkContactId(Number(e.target.value))} /></td>
+              <td><div className="ui input"><input type="number" name="contactId" value={contact.contactId || ''} onChange={handleChange} placeholder="Enter Id" required onBlur={(e) => checkContactId(Number(e.target.value))} /></div></td>
             </tr>
             <tr>
               <td><label>Name: </label></td>
-              <td><input type="text" name="name" value={contact.name} onChange={handleChange} placeholder="Enter Name" required /></td>
+              <td><div className="ui input"><input type="text" name="name" value={contact.name} onChange={handleChange} placeholder="Enter Name" required /></div></td>
             </tr>
             <tr>
               <td><label>Phone: </label></td>
-              <td><input type="text" name="phone" value={contact.phone} onChange={handleChange} placeholder="Enter Phone" required /></td>
+              <td><div className="ui input"><input type="text" name="phone" value={contact.phone} onChange={handleChange} placeholder="Enter Phone" required /></div></td>
             </tr>
             <tr>
               <td><label>Email: </label></td>
-              <td><input type="email" name="email" value={contact.email} onChange={handleChange} placeholder="Enter Email" required /></td>
+              <td><div className="ui input"><input type="email" name="email" value={contact.email} onChange={handleChange} placeholder="Enter Email" required /></div></td>
             </tr>
             <tr>
               <td></td>
-              <td><button type="submit" id="add">{contact.id ? 'Update' : 'Add'} </button></td>
+              <td><button type="submit" id="add" className="ui colorful button primary">{contact.id ? 'Update' : 'Add'}</button></td>
             </tr>
           </tbody>
         </table>
       </form>
-      <div className="search-bar">
+      <div className="ui colorful action input">
         <input type="text" value={searchId} onChange={(e) => setSearchId(e.target.value)} placeholder="Search by Contact Id" />
-        <button onClick={handleSearch}>Search</button>
+        <button className="ui colorful button" onClick={handleSearch} > <i className="search icon"></i>  Search</button>
       </div>
       <DisplayContacts contacts={contacts} onEdit={handleEdit} onDelete={handleDelete} searchedContact={searchedContact} />
     </div>
@@ -167,4 +173,5 @@ const ContactManagement: React.FC = () => {
 };
 
 export default ContactManagement;
+
 
