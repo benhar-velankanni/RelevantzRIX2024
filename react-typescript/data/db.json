@@ -1,0 +1,32 @@
+{
+  "Contact": [
+    {
+      "id": "f6b2",
+      "contactId": "123478",
+      "name": "Rishi",
+      "phone": "0986559552523",
+      "email": "rishi.manisekaran@DFG"
+    },
+    {
+      "id": "59cf",
+      "contactId": "1254",
+      "name": "Rishi",
+      "phone": "0986559552523",
+      "email": "rishi.manisekaran@DFG"
+    },
+    {
+      "id": "8feb",
+      "contactId": "1254",
+      "name": "Rishi",
+      "phone": "0986559552523",
+      "email": "rishi.manisekaran@DFG"
+    },
+    {
+      "id": "31f4",
+      "contactId": "1254",
+      "name": "Rishi",
+      "phone": "0986559552523",
+      "email": "rishi.manisekaran@DFG"
+    }
+  ]
+}
