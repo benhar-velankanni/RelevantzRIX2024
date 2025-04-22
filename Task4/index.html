@@ -1,0 +1,136 @@
+<!-- <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + TS</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/app.ts"></script>
+  </body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="src/style.css">
+
+</head>
+<body>
+  <h1>CONTACT MANAGEMENT SYSTEM</h1>
+  <h2>Create</h2>
+  <form action="">
+      <label for="id">ID:</label>
+      <input type="number" name="id" id="c_id">
+      <label for="name">Name:</label>
+      <input type="text" name="name" id="name">
+      <label for="email">Email:</label>
+      <input type="email" name="email" id="email">
+      <button type="button" id="create">Create</button>
+  </form>
+  <h2>Read</h2>
+  <form action="">
+      <label for="id">Get All Users :</label>
+  <button type="button" id="read">Get Users</button>
+  </form>
+  <h2>Update</h2>
+  <form action="">
+      <label for="id">ID:</label>
+      <input type="number" name="id" id="update-id">
+      <label for="name">Name:</label>
+      <input type="text" name="name" id="update-name">
+      <label for="email">Email:</label>
+      <input type="email" name="email" id="update-email">
+      <button type="button" id="update">Update</button>
+  </form>
+  <h2>Delete</h2>
+  <form action="">
+      <label for="id">ID:</label>
+      <input type="number" name="id" id="delete-id">
+      <button type="button" id="delete">Delete</button>
+  </form>
+ 
+  <script src="./src/app.ts" type="module">
+ 
+  </script>
+  <br> <br>
+<hr color="black">
+   <br> <br>
+ 
+  <head>  <link rel="stylesheet" href="src/style.css"></head>
+  <body>
+  <h2>TRANSACTION MANAGEMENT SYSTEM</h2>
+   <br> <br>
+    <form action="" classname="create-trans-form" >
+      <tr>
+        <td><label for="trans-id">Trans Id:</label></td>
+        <td><input type="number" name="trans-id" id="trans-id"></td>
+      </tr>
+      <tr>
+        <td><label for="trans-name">Trans Name:</label></td>
+        <td><input type="text" name="trans-name" id="trans-name"></td>
+      </tr>
+      <tr>
+        <td><label for="trans-description">Trans Description:</label></td>
+        <td><input type="text" name="trans-description" id="trans-description"></td>
+      </tr>
+      <tr>
+        <td><label for="trans-mode">Trans Mode:</label></td>
+        <td><input type="text" name="trans-mode" id="trans-mode"></td>
+      </tr>
+      <tr>
+        <td colspan="2"><button type="button" id="create-trans">Create</button></td>
+      </tr>
+    </form>
+  <h2>Read</h2>
+  <form>
+      <tr>
+        <td>
+          <button type="button" id="read-trans">Get Transactions</button>
+        </td>
+      </tr>
+    </table>
+  </form>
+  <h2>Update</h2>
+
+    <form action="" classname="update-trans-form">
+      <tr>
+        <td><label for="update-trans-id">Trans Id:</label></td>
+        <td><input type="number" name="update-trans-id" id="update-trans-id"></td>
+      </tr>
+      <tr>
+        <td><label for="update-trans-name">Trans Name:</label></td>
+        <td><input type="text" name="update-trans-name" id="update-trans-name"></td>
+      </tr>
+      <tr>
+        <td><label for="update-trans-description">Trans Description:</label></td>
+        <td><input type="text" name="update-trans-description" id="update-trans-description"></td>
+      </tr>
+      <tr>
+        <td><label for="update-trans-mode">Trans Mode:</label></td>
+        <td><input type="text" name="update-trans-mode" id="update-trans-mode"></td>
+      </tr>
+      <tr>
+        <td colspan="2"><button type="button" id="update-trans">Update</button></td>
+      </tr>
+    </form>
+  
+  <h2>Delete</h2>
+    <form action="" classname="delete-trans-form">
+      <tr>
+        <td><label for="delete-trans-id">Trans Id:</label></td>
+        <td><input type="number" name="delete-trans-id" id="delete-trans-id"></td>
+      </tr>
+      <tr>
+        <td><button type="button" id="delete-trans">Delete</button></td>
+      </tr>
+    </body>
+    <script src="./src/app1.ts" type="module"></script>
+    </form>
+  </table>
+ 
