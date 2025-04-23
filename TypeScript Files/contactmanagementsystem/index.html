@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" type = "text/css" href="src/index.css">
+</head>
+<body>
+  <h1 style="text-align: center;">Contact Management System</h1>
+  <br>
+  <h2>Create User</h2>
+    <table>
+      <form action="" classname="create-form">
+        <tr>
+          <td><label for="id">ID:</label></td>
+          <td><input type="number" name="id" id="id"></td>
+        </tr>
+        <tr>
+          <td><label for="name">Name:</label></td>
+          <td><input type="text" name="name" id="name"></td>
+        </tr>
+        <tr>
+          <td><label for="email">Email:</label></td>
+          <td><input type="email" name="email" id="email"></td>
+        </tr>
+        <tr>
+          <td colspan="2"><button type="button" id="create">Create</button></td>
+        </tr>
+      </form>
+    </table>
+  <h2>Read</h2>
+  <form>
+    <table>
+      <tr>
+        <td>
+          <button type="button" id="read">Get Users</button>
+        </td>
+      </tr>
+    </table>
+  </form>
+  <h2>Update</h2>
+  <table>
+    <form action="" classname="update-form">
+      <tr>
+        <td><label for="id">ID:</label></td>
+        <td><input type="number" name="id" id="update-id"></td>
+      </tr>
+      <tr>
+        <td><label for="name">Name:</label></td>
+        <td><input type="text" name="name" id="update-name"></td>
+      </tr>
+      <tr>
+        <td><label for="email">Email:</label></td>
+        <td><input type="email" name="email" id="update-email"></td>
+      </tr>
+      <tr>
+        <td colspan="2"><button type="button" id="update">Update</button></td>
+      </tr>
+    </form>
+  </table>
+  <h2>Delete</h2>
+  <table>
+  <form action="" classname="delete-form">
+    <tr>
+      <td><label for="id">ID:</label></td>
+      <td><input type="number" name="id" id="delete-id"></td>
+    </tr>
+    <tr>
+      <td><button type="button" id="delete">Delete</button></td>
+    </tr>
+  </form>
+</table>
+  <script src="./src/main.ts" type="module">
+  </script>
+</body>
+</html>
+ 
+ 
+  <h1>Transaction Management System</h1>
+  <br>
+  <h2>Create Transaction</h2>
+
+  <table>
+    <form action="" classname="create-trans-form">
+      <tr>
+        <td><label for="trans-id">Trans Id:</label></td>
+        <td><input type="number" name="trans-id" id="trans-id"></td>
+      </tr>
+      <tr>
+        <td><label for="trans-name">Trans Name:</label></td>
+        <td><input type="text" name="trans-name" id="trans-name"></td>
+      </tr>
+      <tr>
+        <td><label for="trans-description">Trans Description:</label></td>
+        <td><input type="text" name="trans-description" id="trans-description"></td>
+      </tr>
+      <tr>
+        <td><label for="trans-mode">Trans Mode:</label></td>
+        <td><input type="text" name="trans-mode" id="trans-mode"></td>
+      </tr>
+      <tr>
+        <td colspan="2"><button type="button" id="create-trans">Create</button></td>
+      </tr>
+    </form>
+  </table>
+  <h2>Read</h2>
+  <form>
+    <table>
+      <tr>
+        <td>
+          <button type="button" id="read-trans">Get Transactions</button>
+        </td>
+      </tr>
+    </table>
+  </form>
+  <h2>Update</h2>
+  <table>
+    <form action="" classname="update-trans-form">
+      <tr>
+        <td><label for="update-trans-id">Trans Id:</label></td>
+        <td><input type="number" name="update-trans-id" id="update-trans-id"></td>
+      </tr>
+      <tr>
+        <td><label for="update-trans-name">Trans Name:</label></td>
+        <td><input type="text" name="update-trans-name" id="update-trans-name"></td>
+      </tr>
+      <tr>
+        <td><label for="update-trans-description">Trans Description:</label></td>
+        <td><input type="text" name="update-trans-description" id="update-trans-description"></td>
+      </tr>
+      <tr>
+        <td><label for="update-trans-mode">Trans Mode:</label></td>
+        <td><input type="text" name="update-trans-mode" id="update-trans-mode"></td>
+      </tr>
+      <tr>
+        <td colspan="2"><button type="button" id="update-trans">Update</button></td>
+      </tr>
+    </form>
+  </table>
+  <h2>Delete</h2>
+  <table>
+    <form action="" classname="delete-trans-form">
+      <tr>
+        <td><label for="delete-trans-id">Trans Id:</label></td>
+        <td><input type="number" name="delete-trans-id" id="delete-trans-id"></td>
+      </tr>
+      <tr>
+        <td><button type="button" id="delete-trans">Delete</button></td>
+      </tr>
+    </form>
+  </table>
+ 
