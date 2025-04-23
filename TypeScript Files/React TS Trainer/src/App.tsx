@@ -1,10 +1,10 @@
 import './App.css'
+import UserList from './components/UserList'
 
 function App() {
   return (
     <div>
-      <h1>React TS Trainer</h1>
-      <p>This is a React TS Trainer</p>
+      <UserList />
     </div>
   )
 }
