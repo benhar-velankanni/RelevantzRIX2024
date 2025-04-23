@@ -23,7 +23,7 @@ function AddTranaction() {
   const handleSubmit = async (event: any) => {
     event.preventDefault();
     const formData = new FormData(event.target);
-    const data = {
+    const data: any = {
       TransId: formData.get("transId"),
       TransName: formData.get("transName"),
       TransDescription: formData.get("transDescription"),
@@ -35,10 +35,12 @@ function AddTranaction() {
       !data.TransId ||
       !data.TransName ||
       !data.TransDescription ||
-      !data.TransAmount ||
-      !data.TransMode
+      !data.TransAmount
     ) {
       alert("Please fill in all the fields!");
+      return;
+    } else if (data.TransId < 100) {
+      alert("Transaction ID must be greater than 100!");
       return;
     } else if (
       transactions.filter(
@@ -46,6 +48,9 @@ function AddTranaction() {
       ).length > 0
     ) {
       alert("Transaction ID already exists!");
+      return;
+    } else if (data.TransMode === "") {
+      alert("Please select a transaction mode!");
       return;
     } else {
       try {
@@ -69,7 +74,7 @@ function AddTranaction() {
               <tbody>
                 <tr>
                   <td className="var">
-                    <label>Transaction ID:</label>
+                    <label>Transaction ID (IDs starts from 100):</label>
                   </td>
                   <td>
                     <input type="text" name="transId" />
@@ -93,7 +98,7 @@ function AddTranaction() {
                 </tr>
                 <tr>
                   <td className="var">
-                    <label>Transaction Amount:</label>
+                    <label>Transaction Amount (in INR):</label>
                   </td>
                   <td>
                     <input type="text" name="transAmount" />
@@ -104,13 +109,17 @@ function AddTranaction() {
                     <label>Transaction Mode:</label>
                   </td>
                   <td>
-                    <input type="text" name="transMode" />
+                    <select name="transMode">
+                      <option value="">Select Mode</option>
+                      <option value="Online">Online</option>
+                      <option value="Offline">Offline</option>
+                    </select>
                   </td>
                 </tr>
               </tbody>
             </table>
             <br />
-            <button type="submit">Add</button>
+            <button type="submit">Add Transaction</button>
           </form>
         </div>
         <br />

@@ -27,6 +27,15 @@ input {
   margin: 10px;
 }
 
+select {
+  border-radius: 5px;
+  font-size: small;
+  border: none;
+  width: 250px;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
 input::-webkit-inner-spin-button,
 input::-webkit-outer-spin-button {
   -webkit-appearance: none;

@@ -98,9 +98,14 @@ function ViewContacts() {
   };
 
   const handleSearch = async () => {
-    const searchValue = prompt("Enter search value:");
+    const searchValue = prompt(
+      "Enter the contact ID to search, IDs start from the 100s:"
+    );
     if (!searchValue) {
-      alert("Please enter a search value!");
+      alert("Search Cancelled!");
+      return;
+    } else if (Number(searchValue) < 100) {
+      alert("Contact ID must be greater than 100!");
       return;
     }
 

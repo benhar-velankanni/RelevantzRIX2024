@@ -41,6 +41,9 @@ function AddContact() {
     ) {
       alert("Please fill in all the fields!");
       return;
+    } else if (data.ContactId < 100) {
+      alert("Contact ID must be greater than 100!");
+      return;
     } else if (
       contacts.filter((contact: any) => contact.ContactId === data.ContactId)
         .length > 0
@@ -73,7 +76,7 @@ function AddContact() {
           <tbody>
             <tr>
               <td className="var">
-                <label>Contact ID:</label>
+                <label>Contact ID (IDs starts from 100):</label>
               </td>
               <td>
                 <input type="number" name="contactId" />
@@ -81,7 +84,7 @@ function AddContact() {
             </tr>
             <tr>
               <td className="var">
-                <label>Name:</label>
+                <label>Contact Name:</label>
               </td>
               <td>
                 <input type="text" name="name" />
@@ -89,7 +92,7 @@ function AddContact() {
             </tr>
             <tr>
               <td className="var">
-                <label>Email:</label>
+                <label>Contact Email:</label>
               </td>
               <td>
                 <input type="email" name="email" />
@@ -97,7 +100,7 @@ function AddContact() {
             </tr>
             <tr>
               <td className="var">
-                <label>Number:</label>
+                <label>Contact Number:</label>
               </td>
               <td>
                 <input type="number" name="number" />
@@ -105,7 +108,7 @@ function AddContact() {
             </tr>
             <tr>
               <td className="var">
-                <label>Address:</label>
+                <label>Contact Address:</label>
               </td>
               <td>
                 <input type="text" name="address" />
@@ -114,7 +117,7 @@ function AddContact() {
           </tbody>
         </table>
         <br />
-        <button type="submit">Add</button>
+        <button type="submit">Add Contact</button>
       </form>
     </div>
   );
