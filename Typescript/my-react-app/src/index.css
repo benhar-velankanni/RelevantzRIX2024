@@ -1,0 +1,103 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+.ui.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ui.dividing.header {
+  font-size: 2.5em;
+  color: #1a73e8;
+  margin-bottom: 20px;
+}
+
+.ui.form.segment {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #dddddd;
+}
+
+.ui.table.celled {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.ui.input input {
+  width: 100%;
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+
+.ui.primary.button {
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.ui.primary.button:hover {
+  background-color: #1666c3;
+}
+
+.ui.red.button {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.ui.red.button:hover {
+  background-color: #c0392b;
+}
+
+.ui.action.input {
+  margin-bottom: 20px;
+}
+
+.ui.message {
+  padding: 15px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.ui.negative.message {
+  background-color: #ffe6e6;
+  color: #a94442;
+  border: 1px solid #f5c6cb;
+}
+
+.ui.colorful.header {
+  color: #1a73e8;
+}
+
+.ui.colorful.celled.table {
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.ui.colorful.buttons .button {
+  margin-right: 5px;
+}
+
