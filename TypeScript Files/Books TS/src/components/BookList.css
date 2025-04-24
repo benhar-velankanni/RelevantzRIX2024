@@ -1,0 +1,42 @@
+.user-table {
+    width: 100%;
+  }
+  
+  .user-table th,
+  .user-table td {
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  .edit-button,
+  .delete-button {
+    padding: 5px 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: #ffffff;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .edit-button:hover,
+  .delete-button:hover {
+    cursor: pointer;
+    background-color: white;
+    transform: scale(1.1);
+  }
+  
+  .edit-button:hover {
+    color: lightskyblue;
+  }
+  
+  .delete-button:hover {
+    color: crimson;
+  }
+  
+  .edit-button {
+    background-color: lightskyblue;
+  }
+  
+  .delete-button {
+    background-color: crimson;
+  }
+  
