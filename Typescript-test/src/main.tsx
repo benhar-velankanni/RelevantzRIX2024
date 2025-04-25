@@ -1,15 +1,14 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-// import './index.css'
+//import './index.css'
 import App from './App.tsx'
-import TransactionManagement from './transaction.tsx'
-import './App.css'
-import Forms from './transaction.tsx'
+import TransactionForm from "./components/TransactionForm";
+import SyncApp from './SyncApp.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
-    {/* <TransactionManagement/> */}
-    <Forms/>
+     <SyncApp/>
+     <App />
+     <TransactionForm />
   </StrictMode>,
 )

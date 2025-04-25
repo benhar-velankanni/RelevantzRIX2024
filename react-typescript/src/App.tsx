@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
+
 const DisplayContacts: React.FC<{
   contacts: any[];
   onEdit: (contact: any) => void;
@@ -168,4 +169,6 @@ const ContactManagement: React.FC = () => {
 };
 
 export default ContactManagement;
+
+
 

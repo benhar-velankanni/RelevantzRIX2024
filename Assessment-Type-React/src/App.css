@@ -1,0 +1,134 @@
+body {
+  background-image: url(./bg.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: 'Great Vibes', cursive;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #ffb30076;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #fff;
+  background-color: #3d3d3d;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.form {
+  background-color: #ffb30076; /* Changed background color for the form */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #2980b9;
+  border-color: #2980b9;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #1a73e8;
+  border-color: #1a73e8;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+}
+
+.btn-danger:hover {
+  color: #fff;
+  background-color: #e9392f;
+  border-color: #e9392f;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+
+.table tbody td {
+  vertical-align: top;
+  background-color: #ced4da;
+}
+
+.table-bordered {
+  border: 1px solid #dee2e6;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #dee2e6;
+}
+
+.table-bordered thead th,
+.table-bordered thead td {
+  border-bottom-width: 2px;
+}
+
+.navbar {
+  background-color: #ffb30076;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.navbar-brand {
+  color: #fff;
+  background-color:  #ffb30076;
+}
+
+.navbar-nav {
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.nav-item {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+label::after {
+  content: '*';
+  color: red;
+  margin-left: 5px;
+  
+}
