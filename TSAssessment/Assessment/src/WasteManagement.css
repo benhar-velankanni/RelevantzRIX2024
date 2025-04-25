@@ -1,0 +1,206 @@
+/* 
+<div className="container">
+      <h1>WASTE MANAGEMENT SYSTEM </h1>
+      <form onSubmit={handleSubmit} className="user-form">
+        <input
+          type="text"
+          name="id"
+          placeholder="Enter ID"
+          value={formData.id}
+          onChange={handleChange}
+          required
+        />
+        <input
+          type="text"
+          name="name"
+          placeholder="Enter Name"
+          value={formData.name}
+          onChange={handleChange}
+          required
+        />
+        <input
+          type="text"
+          name="Location"
+          placeholder="Enter Location of the waste"
+          value={formData.Location}
+          onChange={handleChange}
+          required
+        />
+        <input
+          type="text"
+          name="capacity"
+          placeholder="Enter Capacity"
+          value={formData.capacity}
+          onChange={handleChange}
+          required
+        />
+        <input
+          type="text"
+          name="Type"
+          placeholder="Enter the type of waste"
+          value={formData.Type}
+          onChange={handleChange}
+          required
+        />
+        <button type="submit">{editingId ? 'Update' : 'Submit'}</button>
+      </form>
+      <div>
+        <input
+          type="text"
+          placeholder="Search by ID"
+          value={searchTerm}
+          onChange={(e) => setSearchTerm(e.target.value)}
+        />
+        <button onClick={handleSearch}>Search</button>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Location</th>
+            <th>Capacity</th>
+            <th>Type</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          {searchedUser ? (
+            <tr key={searchedUser.id}>
+              <td>{searchedUser.id}</td>
+              <td>{searchedUser.name}</td>
+              <td>{searchedUser.Location}</td>
+              <td>{searchedUser.capacity}</td>
+              <td>{searchedUser.Type}</td>
+              <td>
+                <button className="edit" onClick={() => handleEdit(searchedUser)}>Edit</button>
+                <button className="delete" onClick={() => handleDelete(searchedUser.id)}>Delete</button>
+              </td>
+            </tr>
+          ) : (
+            users.map((user, index) => (
+              <tr key={user.id}>
+                <td>{user.id}</td>
+                <td>{user.name}</td>
+                <td>{user.Location }</td>
+                <td>{user.capacity}</td>
+                <td>{user.Type}</td>
+                <td>
+                  <button className="edit" onClick={() => handleEdit(user)}>Edit</button>
+                  <button className="delete" onClick={() => handleDelete(user.id)}>Delete</button>
+                </td>
+              </tr>
+            ))
+          )}
+        </tbody>
+      </table>
+    </div>
+  );
+};*/
+
+body {
+    background-color: blueviolet;
+    background-image: url(Back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.container {
+  
+  max-width: 800px;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgba(100, 148, 237, 0.466);
+  border-radius: 8px;
+  border-color:5px solid black;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+  
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+.user-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.user-form input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 3px solid #ccc;
+  border-radius: 5px;
+  width: 70%;
+}
+
+.user-form button {
+  padding: 10px 20px;
+  background-color: #191a1b;
+  width: 50%;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}   
+
+button:hover {
+  background-color: #39209457;
+
+}
+.container:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #853535;
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
