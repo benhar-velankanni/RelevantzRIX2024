@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "id": "5cfa",
+      "productName": "Machine",
+      "quantity": "10",
+      "supplier": "Kumar",
+      "location": "Chennai",
+      "restockThreshold": "15"
+    },
+    {
+      "id": "14f0",
+      "productName": "Printer",
+      "quantity": "12",
+      "supplier": "Ram",
+      "location": "Bangalore",
+      "restockThreshold": "25"
+    },
+    {
+      "id": "eb67",
+      "productName": "Machine 2",
+      "quantity": "10",
+      "supplier": "Vijay",
+      "location": "Virudhunagar",
+      "restockThreshold": "15"
+    }
+  ]
+}
