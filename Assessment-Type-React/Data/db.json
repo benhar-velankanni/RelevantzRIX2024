@@ -1,5 +1,13 @@
 {
-  "item": [],
+  "item": [
+    {
+      "id": "123456",
+      "Name": "Royal Enfiled",
+      "Category": "Vehiclekjk",
+      "StartingBid": "45454555",
+      "HighestBidder": "fhnjxfg"
+    }
+  ],
   "bid": [
     {
       "id": "1562532",
