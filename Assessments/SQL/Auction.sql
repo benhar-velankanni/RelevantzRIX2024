@@ -239,5 +239,32 @@ WHERE
     
 -- ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+-- Store Procedure to See if an item exists:
+DELIMITER //
+CREATE PROCEDURE spSearchItem (IN ITEM_NAME VARCHAR(50), OUT RESULT VARCHAR(50))
+BEGIN
+	DECLARE COUNTER INT;
+    
+SELECT 
+    COUNT(*)
+INTO COUNTER FROM
+    AUCTION_ITEMS
+WHERE
+    ITEM_NAME = AItemName;
+     
+     IF (COUNTER > 0) THEN
+     SET RESULT = 'ITEM EXISTS!';
+     ELSE SET RESULT = "ITEM DOESN'T EXIST!";
+     END IF;
+END //
+
+DELIMITER ;
+CALL spSearchItem('TEMPLAR KNIGHT ARMOR', @result);
+SELECT @result;
+CALL spSearchItem('RANDOM GARBAGE', @result);
+SELECT @result;
+
+-- ----------------------------------------------------------------------------------------------------------------------------------------------------
+
     
 
