@@ -1,0 +1,44 @@
+:root {
+  --primary-color: #8bc34a; /* Green color for farmer theme */
+  --secondary-color: #33691e; /* Dark green for contrast */
+  --accent-color: #ffeb3b; /* Yellow for highlights */
+  --text-color: #ffffff; /* White text color */
+  --background-color: #1b5e20; /* Darker green background */
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  min-height: 120vh;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.card {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+.btn-primary {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+}
+
+.alert-danger {
+  background-color: #f44336; /* Red for error alerts */
+  color: var(--text-color);
+}
+
+a {
+  color: var(--accent-color);
+}
+
+a:hover {
+  color: var(--secondary-color);
+}
