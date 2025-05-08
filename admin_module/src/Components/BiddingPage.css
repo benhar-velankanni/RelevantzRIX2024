@@ -1,0 +1,43 @@
+.bidding-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+   }
+   .crop-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+   }
+   .crop-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 8px;
+    width: 250px;
+    background: #f9f9f9;
+   }
+   .crop-card h3 {
+    margin-top: 0;
+   }
+   .bid-form, .status-update {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px dashed #999;
+    background-color: #f1f1f1;
+   }
+   .bid-form input,
+   .status-update select,
+   .status-update textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+   }
+   .bid-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+   }
+   .bid-table th, .bid-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+   }

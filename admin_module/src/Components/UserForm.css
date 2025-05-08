@@ -1,0 +1,20 @@
+.user-form-container {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+   }
+   .user-form {
+    display: flex;
+    flex-direction: column;
+   }
+   .user-form label {
+    margin-bottom: 10px;
+   }
+   .user-form input {
+    padding: 8px;
+    margin-top: 5px;
+   }
+   .user-form button {
+    margin-top: 15px;
+    padding: 10px;
+   }

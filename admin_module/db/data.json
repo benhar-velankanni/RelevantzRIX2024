@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "236d",
+      "name": "balaji",
+      "email": "balaji@gmail.com",
+      "password": "123",
+      "aadhar": "123456789012",
+      "approved": true,
+      "role": "user"
+    },
+    {
+      "id": "4ddd",
+      "name": "sandhiya",
+      "email": "sandhiya@gmail.com",
+      "password": "123456",
+      "aadhar": "123456789034",
+      "approved": true,
+      "role": "user"
+    }
+  ],
+  "pendingUsers": [
+    {
+      "id": "62c5",
+      "name": "mukesh",
+      "email": "mukesh@gmail.com",
+      "password": "123456",
+      "aadhar": "098765432399",
+      "approved": false
+    }
+  ],
+  "admins": [
+    {
+      "id": "dcf1",
+      "name": "Tarun",
+      "email": "tarun@gmail.com",
+      "password": "123"
+    }
+  ],
+  "crops": [
+    {
+      "id": "954d",
+      "cropName": "Paddy",
+      "cropType": "food crop",
+      "variety": "basmati",
+      "quantity": "100",
+      "price": "29",
+      "harvestDate": "2025-05-07",
+      "sowingDate": "2025-04-07",
+      "shelfLife": "one month",
+      "image": "paddy.jpg",
+      "document": "paddy.pdf",
+      "status": "Approved"
+    },
+    {
+      "id": "5562",
+      "cropName": "Wheat",
+      "cropType": "food crop",
+      "variety": "durum wheat",
+      "quantity": "100",
+      "price": "10",
+      "harvestDate": "2025-05-07",
+      "sowingDate": "2025-04-09",
+      "shelfLife": "Two month",
+      "image": "wheat.webp",
+      "document": "durum wheat.pdf",
+      "status": "Rejected"
+    }
+  ],
+  "bids": [
+    {
+      "id": 1,
+      "cropId": "abc123",
+      "bidder": "User1",
+      "amount": "1200",
+      "status": "Pending",
+      "timestamp": "2025-05-07T14:30:00.000Z",
+      "notes": ""
+    }
+  ]
+}

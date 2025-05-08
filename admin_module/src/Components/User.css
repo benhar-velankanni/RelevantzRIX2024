@@ -1,0 +1,29 @@
+
+.user-nav {
+    background-color: #f8f9fa;
+    padding: 10px;
+}
+
+.user-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.user-nav li {
+    margin-right: 20px;
+}
+
+.user-nav a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.user-nav a:hover {
+    text-decoration: underline;
+}
+
+h1{
+    text-align: center;
+}
