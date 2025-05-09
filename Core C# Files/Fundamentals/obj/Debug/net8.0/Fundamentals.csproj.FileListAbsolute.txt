@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\bin\Debug\net8.0\Fundamentals.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\bin\Debug\net8.0\Fundamentals.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\bin\Debug\net8.0\Fundamentals.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\bin\Debug\net8.0\Fundamentals.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\bin\Debug\net8.0\Fundamentals.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\refint\Fundamentals.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\Fundamentals.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Fundamentals\obj\Debug\net8.0\ref\Fundamentals.dll
