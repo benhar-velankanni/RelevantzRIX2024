@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\bin\Debug\net8.0\Types.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\bin\Debug\net8.0\Types.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\bin\Debug\net8.0\Types.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\bin\Debug\net8.0\Types.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\bin\Debug\net8.0\Types.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\refint\Types.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\Types.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Types\obj\Debug\net8.0\ref\Types.dll
