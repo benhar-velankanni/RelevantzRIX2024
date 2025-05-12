@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\bin\Debug\net8.0\LibraryManager.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\bin\Debug\net8.0\LibraryManager.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\bin\Debug\net8.0\LibraryManager.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\bin\Debug\net8.0\LibraryManager.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\bin\Debug\net8.0\LibraryManager.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\refint\LibraryManager.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\LibraryManager.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\LibraryManager\obj\Debug\net8.0\ref\LibraryManager.dll
