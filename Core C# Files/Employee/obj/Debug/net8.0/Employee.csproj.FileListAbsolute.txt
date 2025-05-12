@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\bin\Debug\net8.0\Employee.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\bin\Debug\net8.0\Employee.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\bin\Debug\net8.0\Employee.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\bin\Debug\net8.0\Employee.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\bin\Debug\net8.0\Employee.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\refint\Employee.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\Employee.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Employee\obj\Debug\net8.0\ref\Employee.dll
