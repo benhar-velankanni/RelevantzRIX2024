@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\bin\Debug\net8.0\StudentGrades.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\bin\Debug\net8.0\StudentGrades.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\bin\Debug\net8.0\StudentGrades.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\bin\Debug\net8.0\StudentGrades.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\bin\Debug\net8.0\StudentGrades.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\refint\StudentGrades.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\StudentGrades.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\StudentGrades\obj\Debug\net8.0\ref\StudentGrades.dll
