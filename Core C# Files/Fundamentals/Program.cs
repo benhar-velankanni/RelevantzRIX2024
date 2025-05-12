@@ -1,5 +1,3 @@
-
-
 namespace Fundamentals
 {
     class Program

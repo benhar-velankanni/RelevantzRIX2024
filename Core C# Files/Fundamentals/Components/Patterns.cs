@@ -10,22 +10,16 @@ namespace Patterns
 
             // Pattern 8
             Console.WriteLine();
-            for (int i = 0; i < rows; i++)
+            for (int i = 1; i <= rows; i++)
             {
-                for (int j = 0; j <= i; j++)
+                for (int j = 0; j < i; j++)
                 {
                     Console.Write("* ");
                 }
                 Console.WriteLine();
             }
-            for (int i = rows - 2; i >= 0; i--)
-            {
-                for (int j = 0; j <= i; j++)
-                {
-                    Console.Write("* ");
-                }
-                Console.WriteLine();
-            }
+
+            Console.WriteLine();
 
             // Pattern 9
             for (int i = 0; i < rows; i++)
