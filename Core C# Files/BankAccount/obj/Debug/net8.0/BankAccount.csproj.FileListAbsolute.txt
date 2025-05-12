@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\bin\Debug\net8.0\BankAccount.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\bin\Debug\net8.0\BankAccount.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll
