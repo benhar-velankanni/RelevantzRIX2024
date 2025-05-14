@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\bin\Debug\net8.0\DocxDelegate.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\bin\Debug\net8.0\DocxDelegate.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\bin\Debug\net8.0\DocxDelegate.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\bin\Debug\net8.0\DocxDelegate.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\bin\Debug\net8.0\DocxDelegate.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\refint\DocxDelegate.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\DocxDelegate.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\DocxDelegate\obj\Debug\net8.0\ref\DocxDelegate.dll
