@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayException", "ArrayExce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{5D3C1108-7997-44DA-B317-4ACBED3A6011}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookDelegate", "BookDelegate\BookDelegate.csproj", "{F5016577-0CC7-4CD3-B361-17CE9E8B1700}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -118,5 +120,9 @@ Global
 		{5D3C1108-7997-44DA-B317-4ACBED3A6011}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D3C1108-7997-44DA-B317-4ACBED3A6011}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D3C1108-7997-44DA-B317-4ACBED3A6011}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5016577-0CC7-4CD3-B361-17CE9E8B1700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5016577-0CC7-4CD3-B361-17CE9E8B1700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5016577-0CC7-4CD3-B361-17CE9E8B1700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5016577-0CC7-4CD3-B361-17CE9E8B1700}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

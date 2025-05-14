@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\bin\Debug\net8.0\BookDelegate.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\bin\Debug\net8.0\BookDelegate.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\bin\Debug\net8.0\BookDelegate.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\bin\Debug\net8.0\BookDelegate.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\bin\Debug\net8.0\BookDelegate.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\refint\BookDelegate.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\BookDelegate.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\BookDelegate\obj\Debug\net8.0\ref\BookDelegate.dll
