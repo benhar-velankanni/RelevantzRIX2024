@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridInherit", "HybridInhe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IImage", "IImage\IImage.csproj", "{84A374CF-2C75-497B-8361-DF13D96EFBBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayException", "ArrayException\ArrayException.csproj", "{4CCA280F-1DB4-45DF-B1E7-C900A663EF91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -106,5 +108,9 @@ Global
 		{84A374CF-2C75-497B-8361-DF13D96EFBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84A374CF-2C75-497B-8361-DF13D96EFBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84A374CF-2C75-497B-8361-DF13D96EFBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCA280F-1DB4-45DF-B1E7-C900A663EF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCA280F-1DB4-45DF-B1E7-C900A663EF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCA280F-1DB4-45DF-B1E7-C900A663EF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCA280F-1DB4-45DF-B1E7-C900A663EF91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
