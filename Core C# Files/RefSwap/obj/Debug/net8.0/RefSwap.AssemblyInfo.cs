@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RefSwap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a7d91a7669e005933498f727676ea9ad5219e9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9849e6196579aeaa509b4770e47784ea47f2495")]
 [assembly: System.Reflection.AssemblyProductAttribute("RefSwap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RefSwap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\bin\Debug\net8.0\Abstraction.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\bin\Debug\net8.0\Abstraction.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
