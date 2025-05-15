@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\bin\Debug\net8.0\ThreadsExample.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\bin\Debug\net8.0\ThreadsExample.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\bin\Debug\net8.0\ThreadsExample.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\bin\Debug\net8.0\ThreadsExample.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\bin\Debug\net8.0\ThreadsExample.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\refint\ThreadsExample.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ThreadsExample.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\ThreadsExample\obj\Debug\net8.0\ref\ThreadsExample.dll

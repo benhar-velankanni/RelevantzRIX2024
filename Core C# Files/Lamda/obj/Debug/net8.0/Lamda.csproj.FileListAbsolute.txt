@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\bin\Debug\net8.0\Lamda.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\bin\Debug\net8.0\Lamda.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\bin\Debug\net8.0\Lamda.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\bin\Debug\net8.0\Lamda.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\bin\Debug\net8.0\Lamda.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\refint\Lamda.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\Lamda.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\Lamda\obj\Debug\net8.0\ref\Lamda.dll
