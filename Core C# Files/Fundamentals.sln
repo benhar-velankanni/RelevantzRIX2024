@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExample1", "EnumExample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonMethod", "AnonMethod\AnonMethod.csproj", "{A2A9E0CD-C02B-4D41-82F0-A2CAD8190319}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsExample", "GenericsExample\GenericsExample.csproj", "{82A7BB2D-86ED-4D2F-8DD7-19943787C3AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -142,5 +144,9 @@ Global
 		{A2A9E0CD-C02B-4D41-82F0-A2CAD8190319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A9E0CD-C02B-4D41-82F0-A2CAD8190319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A9E0CD-C02B-4D41-82F0-A2CAD8190319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A7BB2D-86ED-4D2F-8DD7-19943787C3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A7BB2D-86ED-4D2F-8DD7-19943787C3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A7BB2D-86ED-4D2F-8DD7-19943787C3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A7BB2D-86ED-4D2F-8DD7-19943787C3AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

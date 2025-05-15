@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\bin\Debug\net8.0\GenericsExample.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\bin\Debug\net8.0\GenericsExample.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\bin\Debug\net8.0\GenericsExample.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\bin\Debug\net8.0\GenericsExample.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\bin\Debug\net8.0\GenericsExample.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\refint\GenericsExample.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\GenericsExample.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\GenericsExample\obj\Debug\net8.0\ref\GenericsExample.dll
