@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\bin\Debug\net8.0\AnonMethod.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\bin\Debug\net8.0\AnonMethod.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\bin\Debug\net8.0\AnonMethod.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\bin\Debug\net8.0\AnonMethod.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\bin\Debug\net8.0\AnonMethod.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\refint\AnonMethod.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\AnonMethod.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\AnonMethod\obj\Debug\net8.0\ref\AnonMethod.dll
