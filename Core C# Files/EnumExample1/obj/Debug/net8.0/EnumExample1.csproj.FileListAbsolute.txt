@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\bin\Debug\net8.0\EnumExample1.exe
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\bin\Debug\net8.0\EnumExample1.deps.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\bin\Debug\net8.0\EnumExample1.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\bin\Debug\net8.0\EnumExample1.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\bin\Debug\net8.0\EnumExample1.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\refint\EnumExample1.dll
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.pdb
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\EnumExample1.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Core C# Files\EnumExample1\obj\Debug\net8.0\ref\EnumExample1.dll
