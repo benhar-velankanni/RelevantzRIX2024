@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HideMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4819d201eeddcba02ecadbe5ffceca3d7a82d27e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706ee88afecb9a7409e73bdeba043f0ff2184610")]
 [assembly: System.Reflection.AssemblyProductAttribute("HideMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HideMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

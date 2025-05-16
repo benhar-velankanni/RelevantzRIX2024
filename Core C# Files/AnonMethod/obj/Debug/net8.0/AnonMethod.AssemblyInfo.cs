@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnonMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f3d229c83ad8042e8594d5b8bb18ec7eb3fe1d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706ee88afecb9a7409e73bdeba043f0ff2184610")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnonMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnonMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
