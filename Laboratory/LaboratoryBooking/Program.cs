@@ -33,7 +33,7 @@ class LaboratoryBooking
 
 
     }
-    public static void SearchByID()
+  public static void SearchByID()
     {
         Console.WriteLine("Searching Process");
         Console.WriteLine("===========================================");
@@ -48,7 +48,11 @@ class LaboratoryBooking
         MySqlDataReader reader = cmd.ExecuteReader();
         if (reader.Read())
         {
-            Console.WriteLine(reader["EquipmentID"] + " " + reader["EquipmentName"] + " " + reader["Price"] + " " + reader["Description"] + " " + reader["EquipmentType"]);
+            Console.WriteLine("Equipment ID: " + reader["EquipmentID"]);
+            Console.WriteLine("Equipment Name: " + reader["EquipmentName"]);
+            Console.WriteLine("Price: " + reader["Price"]);
+            Console.WriteLine("Description: " + reader["Description"]);
+            Console.WriteLine("Equipment Type: " + reader["EquipmentType"]);
             Console.WriteLine("===========================================");
         }
 
@@ -132,7 +136,11 @@ class LaboratoryBooking
         {
             while (reader.Read())
             {
-                Console.WriteLine(reader["EquipmentID"] + " " + reader["EquipmentName"] + " " + reader["Price"] + " " + reader["Description"] + " " + reader["EquipmentType"]);
+                Console.WriteLine("Equipment ID: " + reader["EquipmentID"]);
+                Console.WriteLine("Equipment Name: " + reader["EquipmentName"]);
+                Console.WriteLine("Price: " + reader["Price"]);
+                Console.WriteLine("Description: " + reader["Description"]);
+                Console.WriteLine("Equipment Type: " + reader["EquipmentType"]);
                 Console.WriteLine("---------------------------------------");
             }
             Console.WriteLine("===========================================");
