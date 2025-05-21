@@ -1,0 +1,4 @@
+D:\C# Core Assessment\Prescription\obj\Debug\net8.0\Prescription.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Core Assessment\Prescription\obj\Debug\net8.0\Prescription.AssemblyInfoInputs.cache
+D:\C# Core Assessment\Prescription\obj\Debug\net8.0\Prescription.AssemblyInfo.cs
+D:\C# Core Assessment\Prescription\obj\Debug\net8.0\Prescription.csproj.CoreCompileInputs.cache
