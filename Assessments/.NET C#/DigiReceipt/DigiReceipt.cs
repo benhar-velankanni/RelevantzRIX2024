@@ -380,7 +380,7 @@ namespace DigiReceiptApp
                         }
                         else
                         {
-                            Console.WriteLine("\n====================================================\nRECEIPT UPDATED FAILED.\n====================================================");
+                            Console.WriteLine("\n====================================================\nRECEIPT UPDATION FAILED.\n====================================================");
                         }
                     }
                     catch (Exception ex)
@@ -410,7 +410,7 @@ namespace DigiReceiptApp
                     }
                     else
                     {
-                        Console.WriteLine("\n====================================================\nRECEIPT DELETED FAILED.\n====================================================");
+                        Console.WriteLine("\n====================================================\nRECEIPT DELETION FAILED.\n====================================================");
                     }
                 }
                 catch (Exception ex)
@@ -436,7 +436,7 @@ namespace DigiReceiptApp
                 try
                 {
                     _digiReceiptService.TruncateDigiReceipt();
-                    Console.WriteLine("\n====================================================\nRECEIPT TRUNCATED SUCCESSFULLY.\n====================================================");
+                    Console.WriteLine("\n====================================================\nRECEIPT TABLE TRUNCATED SUCCESSFULLY.\n====================================================");
                 }
                 catch (Exception ex)
                 {
@@ -453,7 +453,7 @@ namespace DigiReceiptApp
         {
             while (true)
             {
-                Console.WriteLine("Enter a valid name:");
+                Console.WriteLine("Enter a valid receipt name:");
                 var name = Console.ReadLine();
                 if (!string.IsNullOrWhiteSpace(name))
                 {
@@ -468,17 +468,22 @@ namespace DigiReceiptApp
             while (true)
             {
                 Console.WriteLine("Enter a valid amount (INR):");
-                decimal amount = decimal.Parse(Console.ReadLine());
-                if (amount == null)
+                if (decimal.TryParse(Console.ReadLine(), out decimal amount))
+                {
+                    if (amount >= 0)
+                    {
+                        return Math.Round(amount, 2);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid amount. Please try again.");
+                        continue;
+                    }
+                }
+                else
                 {
                     Console.WriteLine("Invalid amount. Please try again.");
-                    continue;
                 }
-                if (amount >= 0)
-                {
-                    return Math.Round(amount, 2);
-                }
-                Console.WriteLine("Invalid amount. Please try again.");
             }
         }
 
