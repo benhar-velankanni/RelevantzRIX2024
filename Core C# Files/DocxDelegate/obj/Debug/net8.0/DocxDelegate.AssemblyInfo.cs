@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocxDelegate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706ee88afecb9a7409e73bdeba043f0ff2184610")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3906bd1c41ed06b6e4966ab399b8c01257321143")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocxDelegate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocxDelegate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
