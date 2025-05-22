@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            width: 50%;
+            /* background-color: aqua;
+            background-image: url(download.png); */
+            background-size: 100% 100%;
+            
+           
+        }
+        th{
+            /* background-color: yellow; */
+            padding: 10px;
+            border: 2px solid black;
+            border-collapse: collapse;
+            
+           
+        }
+        td{
+            padding: 10px;
+            border-color: black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+
+    
+    <!-- <h1>This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6</h6>
+    <p>This is br tag<br>
+     is used to<br>
+     create a line break.
+    </p>
+    <p>Scene 1:</p>
+    <hr>
+    <p>Scene2:</p>
+
+    <p align ="left">This is left aligned</p>
+    <p align ="center">This is center aligned</p>
+    <p align ="right">This is right aligned</p>
+
+    <p>b tag is used to make <b>special words</b> bold</p>
+    <p>strong tag is used to make <strong>very special</strong> strong</p>
+    <p>HTML is a <i>markup language</i>.</p>
+    <p>There are a lot if <u>speling</u> mistakes in <u>thes</u> line.</p>
+    <p>The &lt;small&gt; tag is used to make text <small> smaller</small>.</p>
+
+    
+    <img height="200" width="200"  src="LMS1.png" border="3" alt="LMS" vspace="30" hspace="20" border="3">
+    <a href="https://relevantz.com/"><img src="LMS1.png" height="200" width="200"  alt=""></a> -->
+
+    <table border="1">
+
+        <thead>
+            <tr>
+                <th>Food Items</th>
+                <th>Supplements</th>
+                
+            </tr>
+        </thead>
+        <ol>
+            <tr>
+                <td>
+                    <li>Peanut Butter</li>
+                    <li>Chicken</li>
+                    <li>Oats</li>
+                    <li>Eggs</li>
+                    <li>Mutton</li>
+                </td>
+
+                <td>
+                    <li>Whey</li>
+                    <li>Creatine</li>
+                    <li>Mass Gainer</li>
+                    <li>Fish Oil</li>
+          
+                    <li>Pre-Workout</li>
+                </td>
+                
+            </tr>
+        </ol>
+        <td>
+            <dl>
+                <dt>English</dt>
+                <dd>
+                    English is the universal language.
+                </dd>
+                <dt>Hindi</dt>
+                <dd>
+                    Hindi is the national language of India.
+                </dd>
+            </dl>
+        </td>
+
+    </table>
+    <br>
+    <br>
+
+    <form action="">
+        Name: <input type="text"><br><br>
+        Age: <input type="number"><br><br>
+        Email: <input type="email"><br><br>
+        Password: <input type="password"><br><br>
+        Id proof: <input type="file"><br><br>
+    </form>
+
+    <form action="#">
+        <table>
+            <tr>
+                <td>
+                    <label for="register_name" class="label">Enter Name:</label>
+                </td>
+                <td>
+                    <input type="text" name="name" value="" id="register_name" style="width:160px">
+                </td>
+            </tr>
+            <tr>
+                <td><label for="register_password" class="label">Enter Password:</label></td>
+                <td><input type="password" name="password" id="register_password" style="width:160px"></td>
+            </tr>
+            <tr>
+                <td><label for="register_email" class="label">Enter Email:</label></td>
+                <td><input type="email" name="email" id="register_email" style="width:160px"></td>
+            </tr>
+            <tr>
+                <td><label for="register_gender" class="label">Enter Gender:</label></td>
+                <td>
+                    <input type="radio" name="gender" id="register_gender" values="male">
+                    <label for="register_gender">Male</label>
+                    <input type="radio" name="gender" id="register_gender" values="female">
+                    <label for="register_gender">Female</label>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="register_country" class="label">Select Sports:</label></td>
+                <td>
+                    
+
+                        <input type="checkbox" name="sports" id="soccer">
+                        <label for="soccer">Soccer</label>
+
+                        <input type="checkbox" name="sports" id="cricket">
+                        <label for="cricket">Cricket</label>
+
+                        <input type="checkbox" name="sports" id="basketball">
+                        <label for="basketball">Basketball</label>
+
+                        <input type="checkbox" name="sports" id="rugby">
+                        <label for="rugby">Rugby</label>
+                        
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td><label for="register_country" class="label">Select Country:</label></td>
+                <td>
+                    <select name="Country" id="register_country" style="width: 160px">
+                        <option value="India">India</option>
+                        <option value="Pakistan">Pakistan</option>
+                        <option value="China">China</option>
+                        <option value="Africa">Africa</option>
+                        <option value="Australia">Australia</option>
+                        <option value="Other">Other</option>
+                    </select>
+                    
+                </td>
+                
+            </tr>
+            <tr>
+                <input type="submit" value="submit">
+            </tr>
+            
+            
+            <map name="image-map">
+                <img src="imagemapping.jpg" usemap="#image-map">
+
+                <area target="_blank" alt="Assassin's Creed Odyssey" title="Assassin's Creed Odyssey" href="https://www.amazon.in/ASSASSINS-CREED-ODYSSEY-Gordon-Doherty/dp/1405939737" coords="107,1,1,-1,2,158,80,158" shape="poly">
+                <area target="_blank" alt="Assassin's Creed Syndicate" title="Assassin's Creed Syndicate" href="https://www.amazon.in/Art-Assassins-Creed-Syndicate-Archaeology/dp/1783295767" coords="109,0,212,2,234,158,84,158" shape="poly">
+                <area target="_blank" alt="Assassin's Creed Blackflag" title="Assassin's Creed Blackflag" href="https://www.amazon.in/Assassins-Creed-Black-Flag-Xbox/dp/B00BMFIXT2" coords="213,0,316,2,316,158,237,158" shape="poly">
+            </map>
+            
+        </table>
+        
+    </form>
+
+    <audio controls src="ex.mp3"></audio>
+    <video controls src="sample.mp4" height="200" width="200"></video>
+   
+
+    
+   
+
+</body>
+</html>
