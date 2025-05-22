@@ -1,0 +1,14 @@
+C:\L1\C# Framework\task\bin\Debug\net8.0\task.exe
+C:\L1\C# Framework\task\bin\Debug\net8.0\task.deps.json
+C:\L1\C# Framework\task\bin\Debug\net8.0\task.runtimeconfig.json
+C:\L1\C# Framework\task\bin\Debug\net8.0\task.dll
+C:\L1\C# Framework\task\bin\Debug\net8.0\task.pdb
+C:\L1\C# Framework\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+C:\L1\C# Framework\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+C:\L1\C# Framework\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+C:\L1\C# Framework\task\obj\Debug\net8.0\task.dll
+C:\L1\C# Framework\task\obj\Debug\net8.0\refint\task.dll
+C:\L1\C# Framework\task\obj\Debug\net8.0\task.pdb
+C:\L1\C# Framework\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+C:\L1\C# Framework\task\obj\Debug\net8.0\ref\task.dll

@@ -1,0 +1,14 @@
+C:\L1\C# Framework\interface\bin\Debug\net8.0\interface.exe
+C:\L1\C# Framework\interface\bin\Debug\net8.0\interface.deps.json
+C:\L1\C# Framework\interface\bin\Debug\net8.0\interface.runtimeconfig.json
+C:\L1\C# Framework\interface\bin\Debug\net8.0\interface.dll
+C:\L1\C# Framework\interface\bin\Debug\net8.0\interface.pdb
+C:\L1\C# Framework\interface\obj\Debug\net8.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\interface\obj\Debug\net8.0\interface.AssemblyInfoInputs.cache
+C:\L1\C# Framework\interface\obj\Debug\net8.0\interface.AssemblyInfo.cs
+C:\L1\C# Framework\interface\obj\Debug\net8.0\interface.csproj.CoreCompileInputs.cache
+C:\L1\C# Framework\interface\obj\Debug\net8.0\interface.dll
+C:\L1\C# Framework\interface\obj\Debug\net8.0\refint\interface.dll
+C:\L1\C# Framework\interface\obj\Debug\net8.0\interface.pdb
+C:\L1\C# Framework\interface\obj\Debug\net8.0\interface.genruntimeconfig.cache
+C:\L1\C# Framework\interface\obj\Debug\net8.0\ref\interface.dll

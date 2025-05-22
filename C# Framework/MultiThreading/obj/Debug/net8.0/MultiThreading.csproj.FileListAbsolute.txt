@@ -1,0 +1,14 @@
+C:\L1\C# Framework\Multithreading\bin\Debug\net8.0\MultiThreading.exe
+C:\L1\C# Framework\Multithreading\bin\Debug\net8.0\MultiThreading.deps.json
+C:\L1\C# Framework\Multithreading\bin\Debug\net8.0\MultiThreading.runtimeconfig.json
+C:\L1\C# Framework\Multithreading\bin\Debug\net8.0\MultiThreading.dll
+C:\L1\C# Framework\Multithreading\bin\Debug\net8.0\MultiThreading.pdb
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\MultiThreading.AssemblyInfoInputs.cache
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\MultiThreading.AssemblyInfo.cs
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\MultiThreading.dll
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\refint\MultiThreading.dll
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\MultiThreading.pdb
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\MultiThreading.genruntimeconfig.cache
+C:\L1\C# Framework\Multithreading\obj\Debug\net8.0\ref\MultiThreading.dll

@@ -1,0 +1,14 @@
+C:\L1\C# Framework\methodhiding\bin\Debug\net8.0\Methodhiding.exe
+C:\L1\C# Framework\methodhiding\bin\Debug\net8.0\Methodhiding.deps.json
+C:\L1\C# Framework\methodhiding\bin\Debug\net8.0\Methodhiding.runtimeconfig.json
+C:\L1\C# Framework\methodhiding\bin\Debug\net8.0\Methodhiding.dll
+C:\L1\C# Framework\methodhiding\bin\Debug\net8.0\Methodhiding.pdb
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\Methodhiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\Methodhiding.AssemblyInfoInputs.cache
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\Methodhiding.AssemblyInfo.cs
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\Methodhiding.csproj.CoreCompileInputs.cache
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\Methodhiding.dll
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\refint\Methodhiding.dll
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\Methodhiding.pdb
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\Methodhiding.genruntimeconfig.cache
+C:\L1\C# Framework\methodhiding\obj\Debug\net8.0\ref\Methodhiding.dll

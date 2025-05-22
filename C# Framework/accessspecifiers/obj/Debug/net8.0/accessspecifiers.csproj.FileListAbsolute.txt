@@ -1,0 +1,14 @@
+C:\L1\C# Framework\accessspecifiers\bin\Debug\net8.0\accessspecifiers.exe
+C:\L1\C# Framework\accessspecifiers\bin\Debug\net8.0\accessspecifiers.deps.json
+C:\L1\C# Framework\accessspecifiers\bin\Debug\net8.0\accessspecifiers.runtimeconfig.json
+C:\L1\C# Framework\accessspecifiers\bin\Debug\net8.0\accessspecifiers.dll
+C:\L1\C# Framework\accessspecifiers\bin\Debug\net8.0\accessspecifiers.pdb
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\accessspecifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\accessspecifiers.AssemblyInfoInputs.cache
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\accessspecifiers.AssemblyInfo.cs
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\accessspecifiers.csproj.CoreCompileInputs.cache
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\accessspecifiers.dll
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\refint\accessspecifiers.dll
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\accessspecifiers.pdb
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\accessspecifiers.genruntimeconfig.cache
+C:\L1\C# Framework\accessspecifiers\obj\Debug\net8.0\ref\accessspecifiers.dll

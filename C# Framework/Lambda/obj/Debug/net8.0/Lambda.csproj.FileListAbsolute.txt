@@ -1,0 +1,4 @@
+C:\L1\C# Framework\lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+C:\L1\C# Framework\lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+C:\L1\C# Framework\lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache

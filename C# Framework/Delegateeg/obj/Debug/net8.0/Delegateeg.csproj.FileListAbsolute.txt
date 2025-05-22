@@ -1,0 +1,14 @@
+C:\L1\C# Framework\Delegateeg\bin\Debug\net8.0\Delegateeg.exe
+C:\L1\C# Framework\Delegateeg\bin\Debug\net8.0\Delegateeg.deps.json
+C:\L1\C# Framework\Delegateeg\bin\Debug\net8.0\Delegateeg.runtimeconfig.json
+C:\L1\C# Framework\Delegateeg\bin\Debug\net8.0\Delegateeg.dll
+C:\L1\C# Framework\Delegateeg\bin\Debug\net8.0\Delegateeg.pdb
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\Delegateeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\Delegateeg.AssemblyInfoInputs.cache
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\Delegateeg.AssemblyInfo.cs
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\Delegateeg.csproj.CoreCompileInputs.cache
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\Delegateeg.dll
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\refint\Delegateeg.dll
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\Delegateeg.pdb
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\Delegateeg.genruntimeconfig.cache
+C:\L1\C# Framework\Delegateeg\obj\Debug\net8.0\ref\Delegateeg.dll

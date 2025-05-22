@@ -1,0 +1,14 @@
+C:\L1\C# Framework\Eventtask\bin\Debug\net8.0\Eventtask.exe
+C:\L1\C# Framework\Eventtask\bin\Debug\net8.0\Eventtask.deps.json
+C:\L1\C# Framework\Eventtask\bin\Debug\net8.0\Eventtask.runtimeconfig.json
+C:\L1\C# Framework\Eventtask\bin\Debug\net8.0\Eventtask.dll
+C:\L1\C# Framework\Eventtask\bin\Debug\net8.0\Eventtask.pdb
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\Eventtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\Eventtask.AssemblyInfoInputs.cache
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\Eventtask.AssemblyInfo.cs
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\Eventtask.csproj.CoreCompileInputs.cache
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\Eventtask.dll
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\refint\Eventtask.dll
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\Eventtask.pdb
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\Eventtask.genruntimeconfig.cache
+C:\L1\C# Framework\Eventtask\obj\Debug\net8.0\ref\Eventtask.dll
