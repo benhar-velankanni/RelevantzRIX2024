@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\bin\Debug\net8.0\example4.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\bin\Debug\net8.0\example4.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\bin\Debug\net8.0\example4.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\bin\Debug\net8.0\example4.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\bin\Debug\net8.0\example4.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\example4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\example4.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\example4.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\example4.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\example4.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\refint\example4.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\example4.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\example4.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example4\obj\Debug\net8.0\ref\example4.dll

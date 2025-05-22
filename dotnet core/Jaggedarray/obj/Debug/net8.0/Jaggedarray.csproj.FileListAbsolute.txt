@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\bin\Debug\net8.0\Jaggedarray.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\bin\Debug\net8.0\Jaggedarray.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\bin\Debug\net8.0\Jaggedarray.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\bin\Debug\net8.0\Jaggedarray.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\bin\Debug\net8.0\Jaggedarray.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\Jaggedarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\Jaggedarray.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\Jaggedarray.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\Jaggedarray.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\Jaggedarray.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\refint\Jaggedarray.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\Jaggedarray.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\Jaggedarray.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Jaggedarray\obj\Debug\net8.0\ref\Jaggedarray.dll

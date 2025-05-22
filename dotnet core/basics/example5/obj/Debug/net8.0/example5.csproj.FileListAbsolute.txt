@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\bin\Debug\net8.0\example5.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\bin\Debug\net8.0\example5.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\bin\Debug\net8.0\example5.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\bin\Debug\net8.0\example5.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\bin\Debug\net8.0\example5.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\example5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\example5.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\example5.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\example5.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\example5.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\refint\example5.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\example5.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\example5.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example5\obj\Debug\net8.0\ref\example5.dll

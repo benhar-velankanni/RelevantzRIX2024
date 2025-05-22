@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\bin\Debug\net8.0\example9.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\bin\Debug\net8.0\example9.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\bin\Debug\net8.0\example9.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\bin\Debug\net8.0\example9.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\bin\Debug\net8.0\example9.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\example9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\example9.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\example9.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\example9.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\example9.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\refint\example9.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\example9.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\example9.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\example9\obj\Debug\net8.0\ref\example9.dll

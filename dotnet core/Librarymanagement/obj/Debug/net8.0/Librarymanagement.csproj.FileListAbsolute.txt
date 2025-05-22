@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\bin\Debug\net8.0\Librarymanagement.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\bin\Debug\net8.0\Librarymanagement.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\bin\Debug\net8.0\Librarymanagement.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\bin\Debug\net8.0\Librarymanagement.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\bin\Debug\net8.0\Librarymanagement.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\Librarymanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\Librarymanagement.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\Librarymanagement.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\Librarymanagement.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\Librarymanagement.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\refint\Librarymanagement.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\Librarymanagement.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\Librarymanagement.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Librarymanagement\obj\Debug\net8.0\ref\Librarymanagement.dll

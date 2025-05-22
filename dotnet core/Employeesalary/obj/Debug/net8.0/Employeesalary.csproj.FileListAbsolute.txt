@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\bin\Debug\net8.0\Employeesalary.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\bin\Debug\net8.0\Employeesalary.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\bin\Debug\net8.0\Employeesalary.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\bin\Debug\net8.0\Employeesalary.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\bin\Debug\net8.0\Employeesalary.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\Employeesalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\Employeesalary.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\Employeesalary.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\Employeesalary.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\Employeesalary.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\refint\Employeesalary.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\Employeesalary.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\Employeesalary.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Employeesalary\obj\Debug\net8.0\ref\Employeesalary.dll

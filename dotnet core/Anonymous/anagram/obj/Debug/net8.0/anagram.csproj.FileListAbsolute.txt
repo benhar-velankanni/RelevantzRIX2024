@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\bin\Debug\net8.0\anagram.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\bin\Debug\net8.0\anagram.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\bin\Debug\net8.0\anagram.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\bin\Debug\net8.0\anagram.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\bin\Debug\net8.0\anagram.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\anagram.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\anagram.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\anagram.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\anagram.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\refint\anagram.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\anagram.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\anagram.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\anagram\obj\Debug\net8.0\ref\anagram.dll

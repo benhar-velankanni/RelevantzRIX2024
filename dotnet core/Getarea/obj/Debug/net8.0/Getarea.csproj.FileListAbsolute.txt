@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\bin\Debug\net8.0\Getarea.exe
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\bin\Debug\net8.0\Getarea.deps.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\bin\Debug\net8.0\Getarea.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\bin\Debug\net8.0\Getarea.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\bin\Debug\net8.0\Getarea.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\Getarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\Getarea.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\Getarea.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\Getarea.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\Getarea.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\refint\Getarea.dll
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\Getarea.pdb
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\Getarea.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\dotnet core\Getarea\obj\Debug\net8.0\ref\Getarea.dll
