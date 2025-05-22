@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">JavaScript-Demo</h1>
+    <h1>Welcome Mukesh</h1>
+    <h1 id="greetingdemo">Hello</h1>
+    <script>
+        function greet(){
+            alert("Hello,hai mukesh");
+            document.getElementById("greetingdemo").innerHTML="Hello,welcome to Relevantz";
+            console.log("Hello, welcome to Relevantz");
+        }
+       
+        </script>
+         <button onclick="greet()">Click me</button>
+         <p>Click the button to get a greeting</p>
+         <h1>Operators</h1>
+        <script>       
+        var a=10;
+        var b=20;
+        function add(){
+            document.write("sum: "  + (a+b) + "<br>");
+        }
+    
+        add();
+        function sub(){
+            document.write("Diff: "  + (a-b) + "<br>");
+        }
+        sub();
+        function mul(){
+            document.write("Mul: "  + (a*b) + "<br>");
+        }
+        mul();
+        function div(){
+            document.write("Div: "  + (a/b) + "<br>");
+        }
+        div();
+    </script> 
+
+        </script>
+        <h1>Object usage</h1>
+        
+        <script>
+            var emp=new Object();
+            emp.id="12572"
+            emp.name="Mukesh"
+            emp.age="21"
+            document.write("Employee id  :" +emp.id+"<br>");
+            document.write("Employee Name:" +emp.name+"<br>");
+            document.write("Employee Age:" +emp.age+"<br>");
+        </script>
+
+        <h1>Decision Making statement</h1>
+        <h3 style="text-decoration: underline;">If-else</h3>
+        <h2 id="Output">Before</h2>
+        <script>
+            let result1;
+            let age=16;
+            if(age>=18){
+                result1="Eligible to vote";
+            }
+            else{
+                result1="Not eligible to vote";
+            }
+            document.getElementById("Output").innerHTML=result1
+        </script>
+        <h3 style="text-decoration: underline;">If-else-if</h3>
+        <h2 id="ifelse">Before</h2>
+        <script>
+            let result;
+            let mark=80;
+            if(mark>70){
+                result="Passed with Distinction";
+            }
+            else if(mark<35){
+                result="Failed";
+            }
+            else{
+                result="Passed";
+            }
+            document.getElementById("ifelse").innerHTML=result;
+        </script>
+         <h3 style="text-decoration: underline;">Switch</h3>
+         <h2 id="Switch">Before</h2>
+         <script>
+            let result2;
+            let age1=20;
+            switch(age1){
+                case 20:
+                    result2="Qualifies for driving";
+                    break;
+                    case 18:
+                        result2="qualifies for driving";
+                        break;
+                     default:
+                            result2="Not eligible for driving";
+            }
+            document.getElementById("Switch").innerHTML=result2;
+         </script>
+         <h1>Looping Statement</h1>
+         <h2 style="text-decoration: underline;">Do-while</h2>
+         <p id="Do-while">Before</p>
+         <script>
+            let i=0;
+            let text="";
+            do{
+                text+="The number is " + i + "<br>";
+                i++;
+            }
+            while(i<5);
+            document.getElementById("Do-while").innerHTML=text;
+         </script>
+        
+             <form>
+               Enter Age: <input type="number" id="aage">
+               <button onclick="show()" type="button">calculate</button>
+               <h1 id="age"></h1>
+         
+            </form>
+             
+            <script>
+                let result4;
+               function show()
+               {
+                var agee=parseInt(document.getElementById('aage').value);
+                if(agee>=18)
+                {
+                    result="eligible"
+                   
+         
+                }
+                else
+                {
+                   result="not eligible for vote"
+                }
+                document.getElementById("age").innerHTML=result;
+               }
+         
+            </script>
+            <h1 style="color: red;">Object</h1>
+            <script>
+                var a;
+                var emp = new Array();
+                emp[0]="Arun";
+                emp[1]="Varun";
+                emp[2]="Karan";
+                for( i=0;i<emp.length;i++)
+                {
+                    document.write(emp[i]+"<br>");
+                }   
+            </script>
+            <h1>String</h1>
+            <script>
+            var str="Hello";
+            
+            var str="Mukesh";
+             str1=str.toUpperCase();
+             document.write(str1);
+             
+             str1=str.toLowerCase();
+                document.write(str1);
+        </script>
+        <p id="txt"></p>
+            <script>
+                function startTime() {
+                  const today = new Date();
+                  let h = today.getHours();
+                  let m = today.getMinutes();
+                  let s = today.getSeconds();
+                  m = checkTime(m);
+                  s = checkTime(s);
+                  document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+                  setTimeout(startTime, 1000);
+                }
+                 
+                function checkTime(i) {
+                  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+                  return i;
+                }
+                </script>
+
+        </body>
+        </html>
+         
+        
+        
+</body>
+</html>

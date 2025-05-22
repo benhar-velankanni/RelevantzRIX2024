@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Days Until Christmas</title>
+</head>
+<body>
+    <style>
+        .center-form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div style="height: 200px; width: 400px; background-color: rgb(238, 190, 199); margin-top: 50px; margin-left: 30px;">
+    <h1> Christmas........</h1>
+    <p id="days"></p>
+ 
+    <script>
+        function daysUntilChristmas() {
+            const today = new Date();
+            const year = today.getFullYear();
+            const nextChristmas = new Date(year, 11, 25);
+ 
+            if (today > nextChristmas) {
+                nextChristmas.setFullYear(year + 1);
+            }
+ 
+            const oneDay = 24 * 60 * 60 * 1000;
+            return Math.round((nextChristmas - today) / oneDay);
+        }
+ 
+        document.getElementById('days').textContent = `There are ${daysUntilChristmas()} days left until Christmas!`;
+   
+    </script>
+</body>
+</html>

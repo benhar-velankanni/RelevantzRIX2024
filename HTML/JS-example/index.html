@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="height: 200px; width: 300px; background-color: rgb(212, 188, 188); margin-top: 50px; margin-left: 30px;">
+     <table>
+        <form>
+            <tr>
+            <td style="padding-top: 50px;"></td>
+            <h3>Enter the String:</h3>
+            </td>
+            <td>
+                <input type="text" name="string" id="in">
+            </td>
+            </tr>
+
+          
+        </form>
+     </table>
+     <center>
+     <input type="submit" value="Submit" onclick="countVowels()">
+     </center>
+     <h4 id="res"></h1>
+    </div>
+
+    <script>
+        function countVowels()
+        {
+            let str=document.getElementById("in").value;
+            let vowels='aeiouAEIOU';
+            let count=0;
+            for(let i=0;i<str.length;i++)
+            {
+                if(str[i]==="a"|| str[i] ==="e"|| str[i]==="i"|| str[i]==="o"|| str[i]==="u"|| str[i]==="A"|| str[i]==="E"|| str[i]==="I"|| str[i]==="O"|| str[i]==="U")
+                {
+                    count++;
+                    console.log(count);
+                }
+            }
+            document.getElementById("res").innerHTML="Total number of vowels in the String is "+count;      
+          }
+    </script>
+</body>
+</html>

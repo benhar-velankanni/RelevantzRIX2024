@@ -1,0 +1,17 @@
+.container
+{
+    margin-left:500px;
+    margin-top:200px;
+    background-image: url(https://t4.ftcdn.net/jpg/05/23/69/29/360_F_523692923_hxuZgDZr6uzJx6yVvNjOGfgVnQVXrKad.jpg); 
+    background-repeat: no-repeat;
+    padding:50px;
+    height:200px;
+    width:300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(5, 221, 185, 0.2), -5px -5px 15px rgba(255, 255, 255, 0.5);
+   
+}
+.btn{
+    margin-top: 5px;
+    margin-left: 20px;
+}

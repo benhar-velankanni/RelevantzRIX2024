@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .center-form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div style="height: 400px; width: 400px; background-color: rgb(172, 242, 242); margin-top: 50px; margin-left: 30px;">
+        <div class="center-form">
+            <h2>Current Date</h2>
+    <button onclick="showDate()">Get Date</button>
+    <p>Date: <span id="dateResult"></span></p>
+            <h4 id="res"></h4>
+        </div>
+    </div>
+
+    <script>
+        function showDate() {
+            let currentDate = new Date();
+            document.getElementById("dateResult").innerText = currentDate.toDateString();
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,28 @@
+.container
+{
+    margin-left:500px;
+    margin-top:50px;
+    background-image: url(https://img.freepik.com/premium-photo/flat-lay-top-view-office-table-desk-feminine-desk-workspace-with-laptop-diary-succulent-glasses-watch-white-background_408798-6546.jpg); 
+    background-repeat: no-repeat;
+    padding:50px;
+    height:500px;
+    width:300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(5, 221, 185, 0.2), -5px -5px 15px rgba(255, 255, 255, 0.5);
+
+}
+.text{
+    
+
+}
+.btn{
+    margin-left: 80px;
+    margin-top: 10px;
+   
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+    <style>
+        table {
+            border: 1px solid black;
+            background-color: rgb(233, 235, 230);
+        }
+        .button {
+            height: 10vh;
+            width: 10vh;
+            color: #0d0101;
+            background-color: rgb(167, 219, 222);
+            font-size: 20px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: rgb(16, 119, 236);
+        }
+        .text {
+            height: 10vh;
+            width: 40vh;
+            font-size: 20px;
+            text-align: right;
+        }
+        .container {
+            position: relative;
+            left: 80vh;
+            top: 30vh;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table>
+            <tr>
+                <td colspan="3">
+                    <input type="text" id="result" class="text" disabled>
+                </td>
+                <td><input type="button" value="C" class="button" onclick="clearDisplay()"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="1" class="button" onclick="appendValue('1')"></td>
+                <td><input type="button" value="2" class="button" onclick="appendValue('2')"></td>
+                <td><input type="button" value="3" class="button" onclick="appendValue('3')"></td>
+                <td><input type="button" value="/" class="button" onclick="appendValue('/')"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="4" class="button" onclick="appendValue('4')"></td>
+                <td><input type="button" value="5" class="button" onclick="appendValue('5')"></td>
+                <td><input type="button" value="6" class="button" onclick="appendValue('6')"></td>
+                <td><input type="button" value="*" class="button" onclick="appendValue('*')"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="7" class="button" onclick="appendValue('7')"></td>
+                <td><input type="button" value="8" class="button" onclick="appendValue('8')"></td>
+                <td><input type="button" value="9" class="button" onclick="appendValue('9')"></td>
+                <td><input type="button" value="-" class="button" onclick="appendValue('-')"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="0" class="button" onclick="appendValue('0')"></td>
+                <td><input type="button" value="." class="button" onclick="appendValue('.')"></td>
+                <td><input type="button" value="=" class="button" onclick="calculateResult()"></td>
+                <td><input type="button" value="+" class="button" onclick="appendValue('+')"></td>
+            </tr>
+        </table>
+    </div>
+ 
+    <script>
+        function appendValue(value) {
+            document.getElementById("result").value += value;
+        }
+ 
+        function clearDisplay() {
+            document.getElementById("result").value = "";
+        }
+ 
+        function calculateResult() {
+            try {
+                document.getElementById("result").value = eval(document.getElementById("result").value);
+            } catch {
+                document.getElementById("result").value = "Error";
+            }
+        }
+    </script>
+</body>
+</html>
+ 

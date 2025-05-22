@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JQuery Example</title>
+</head>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<body>
+   
+ 
+    <script type="text/JavaScript" language="JavaScript">
+        $(document).ready(function(){
+            $("p").css("color", "red");
+            $("h1").css("color", "blue");
+       
+            $("#show").click(function(){
+                $("h1").show();
+            });
+
+            $("#hide").click(function(){
+                $("h1").hide();
+            });
+
+            $("#show").click(function(){
+                $("p").show();
+            });
+
+            
+            $("#hide").click(function(){
+                $("p").hide();
+            });
+            $("#toggleb1").click(function(){
+                $("h1").slideUp("slow");
+            });
+            $("#slideup").click(function(){
+                $("h1").slideDown("slow");
+            }); 
+        });    
+
+           
+
+
+    </script>
+    <h1>Hello</h1>
+    <p>this is a paragraph</p>
+  
+    <button id="show">show</button>
+   
+    <button id="hide">hide</button>
+    <button id="toggleb1">toggle</button>
+    <button id="slideup">slideup</button>
+
+</body>
+</html>
+ 

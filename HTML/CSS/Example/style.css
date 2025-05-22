@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: underline;
+    text-transform: uppercase;
+   
+
+
+}
+
+.container
+{
+    margin-left:500px;
+    margin-top:200px;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210420/pngtree-background-design-with-abstract-shapes-in-white-orange-and-blue-colors-image_632657.jpg);
+
+    padding:50px;
+    height:180px;
+    width:300px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(5, 221, 185, 0.2), -5px -5px 15px rgba(255, 255, 255, 0.5);
+    transition: box-shadow 0.1s ease;
+}
+#login
+{
+    margin-top:10px;
+    width:250px;
+    padding:5px;
+    border-radius: 20px;
+    margin-left:40px;
+    background-color: hsl(0, 71%, 81%);
+    font-style: italic;
+  
+}
+#text
+{
+   
+    font-weight: bold;
+    font-size: large;
+    margin-left: 30px;
+   
+   
+}
+
+body
+{
+    background-color: #160f10;
+
+}
+h4{
+    text-align: center;
+}

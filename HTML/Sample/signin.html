@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            width: 20%;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            margin-top: 100px;
+            background-image: url('https://img.freepik.com/premium-photo/stationery-accessories-isolated-white-background-office-supplies-products-top-view-with-copy-space-generative-ai_379823-9133.jpg');
+            
+        }
+        .btn{
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .container1{
+            background-image: url(https://media.istockphoto.com/id/541862448/photo/pug-puppy-sitting-in-profile-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=eqmaiPJ9XTSD-y2ApTDgAk5bAFrgQwR3nBU5etRW5hU=);
+            background-repeat: no-repeat;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <div class="container1">
+    <div class="container">
+        <h1 style="text-align: center;">Sign in</h1>
+        <table>
+            <tr>
+                <td>
+                    <h4>Username</h4>
+                </td>
+                <td>
+                    <input type="text" name="username" id="username">
+                </td>
+            </tr>
+            <tr><td class="name-alert"></td></tr>
+            <tr>
+                <td>
+                    <h4>Password</h4>
+                </td>
+                <td>
+                    <input type="password" name="password" id="password">
+                </td>
+            </tr>
+            <tr><td class="password-alert"></td></tr>
+            <tr>
+                <td>
+                    <h4>Confirm Password</h4>
+                </td>
+                <td>
+                    <input type="password" name="password" id="password">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>Email</h4>
+                </td>
+                <td>
+                    <input type="email" name="email" id="email">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>Phone Number</h4>
+                </td>
+                <td>
+                    <input type="number" name="phone" id="phone">
+                </td>
+                <tr>
+                    <td class="phone-alert"></td>
+                </tr>
+            </tr>
+            <tr>
+                <td>
+                    <h4>Date of Birth</h4>
+                </td>
+                <td>
+                    <input type="date" name="dob" id="dob">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>Address</h4>
+                </td>
+                <td>
+                    <input type="text" name="address" id="address">
+                </td>
+            </tr>
+        </table>
+        <button type="submit" class="btn" onclick="validation()">Sign in</button>
+
+    </div>
+</div>
+    <script src="signinvalidation.js"></script>
+</body>
+</html>
