@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <p align="center" id="welcome" ><i>Welcome to the Learning Journey!</i></p>
+    <div id="log">
+        <table>
+            <tr>
+                <td><b>Enter Username</b></td>
+                <td><input type="text"></td>
+            </tr>
+            <tr>
+                <td><b>Enter Password</b></td>
+                <td><input type="password"></td>
+            </tr>
+            <tr>
+                <td align="center"><button onclick="login()"> Login </button></td>
+                <td><a href="#signUpTable"><button align="center">Sign Up</button></a></td>
+            </tr>
+        </table>  
+    </div>
+    <p align="center" id="mes"><b>Login</b> if you already have an account || <b>Sign Up</b> if you are a new user</p>
+    <div id="signUpTable">
+       <table align="center">
+        <tr>
+            <td>Enter the username</td><td>
+            <input type="text" id="username"></td>
+        </tr>
+        <tr>
+            <td>Enter the password</td><td>
+            <input type="password" id="password"></td>
+        </tr>
+        <tr>
+            <td>Confirm the password</td><td>
+            <input type="password" id="cpassword"></td>
+        </tr>
+        <tr>
+            <td>Enter the age:</td>
+            <td><input type="number" id="age"></td>
+        </tr>
+        <tr>
+            <td>Enter the Date Of Birth:</td>
+            <td><input type="date" id="dob"></td>
+        </tr>
+        <tr>
+            <td>Enter the email</td><td>
+            <input type="email" id="email"></td>
+        </tr>
+        <tr>
+            <td>Enter the phone number</td><td>
+            <input type="number" id="phone"></td>
+        </tr>
+        <tr>
+            <td>Enter the address</td><td>
+            <textarea name="address" id="address"></textarea>
+        </tr>
+        <tr>
+            <td>Enter the Occupation:</td>
+            <td><input type="text" id="occupation"></td>
+        </tr>
+        <tr>
+            <td>Enter the Income:</td>
+            <td><input type="number" id="income"></td>
+        </tr>
+        <tr>
+            <td></td><td><button id="signUp" onclick="setCookie()">Sign Up</button></td>
+        </tr>
+       </table>
+    </div>
+    <script>
+        function setCookie(){
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            var email = document.getElementById("email").value;
+            var phone = document.getElementById("phone").value;
+            var address = document.getElementById("address").value;
+            var occupation = document.getElementById("occupation").value;
+            var income = document.getElementById("income").value;
+            var age = document.getElementById("age").value;
+            var dob = document.getElementById("dob").value;
+            var cpassword = document.getElementById("cpassword").value;
+            var emailPattern= /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+            var phonePattern = /^\d{10}$/;
+            document.cookie = "username="+username;
+            document.cookie = "password="+password;
+            document.cookie = "email="+email;
+            document.cookie = "phone="+phone;
+            document.cookie = "address="+address;
+            document.cookie = "occupation="+occupation;
+            document.cookie = "income="+income;
+            document.cookie = "age="+age;
+            document.cookie = "dob="+dob;
+            document.cookie = "cpassword="+cpassword;
+            if(username == ""){
+                alert("Please enter the username");
+                return;
+            }
+            else if(password == ""){
+                alert("Please enter the password");
+                return;
+            }
+            else if(email == "" || !emailPattern.test(email)){
+                alert("Please enter the valid email");
+                return;
+            }
+            else if(phone == "" || !phonePattern.test(phone)){
+                alert("Please enter the valid phone number");
+                return;
+            }
+            else if(address == ""){
+                alert("Please enter the address");
+                return;
+            }
+            else if(cpassword == "" || cpassword != password){
+                alert("Please enter the valid details");
+                return;
+            }
+            else if(occupation == "" || income == "" || age == "" || dob == ""){
+                alert("Please enter the valid details");
+                return;
+            }
+            else{
+                alert(username+ "...you have successfully signed up");
+            }
+        }
+        function getCookies(){
+            var username = document.cookie.split("=")[1];
+            var password = document.cookie.split("=")[2];
+            var email = document.cookie.split("=")[3];
+            var phone = document.cookie.split("=")[4];
+            var address = document.cookie.split("=")[5];
+            var occupation = document.cookie.split("=")[6];
+            var income = document.cookie.split("=")[7];
+            var age = document.cookie.split("=")[8];
+            var dob = document.cookie.split("=")[9];
+            var cpassword = document.cookie.split("=")[10];
+            document.getElementById("username").value = username;
+            document.getElementById("password").value = password;
+            document.getElementById("email").value = email;
+            document.getElementById("phone").value = phone;
+            document.getElementById("address").value = address;
+            document.getElementById("occupation").value = occupation;
+            document.getElementById("income").value = income;
+            document.getElementById("age").value = age;
+            document.getElementById("dob").value = dob;
+            document.getElementById("cpassword").value = cpassword;
+            
+        }
+        // implementation of login function using cookies
+        function login(){
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            if(username == "" || password == ""){
+                alert("Please enter the valid details");
+                return;
+            }
+            else{
+                getCookies();
+                alert("You have successfully logged in");
+                window.location.href = "Index.html";
+            }
+        }
+        
+
+    </script>
+</body>
+</html>
