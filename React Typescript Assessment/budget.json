@@ -1,0 +1,11 @@
+{
+  "budgets": [
+    {
+      "id": "c233",
+      "category": "Electric bill",
+      "amount": "620",
+      "date": "2003-04-25",
+      "mode": "online"
+    }
+  ]
+}
