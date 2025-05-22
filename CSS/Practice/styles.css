@@ -1,0 +1,11 @@
+.background{
+    background-color: rgb(214, 210, 210);
+    height: 100px;
+    width: 90%;
+    margin-left: 80px;
+}
+
+.label{
+    position: relative;
+    z-index: 2;
+}
