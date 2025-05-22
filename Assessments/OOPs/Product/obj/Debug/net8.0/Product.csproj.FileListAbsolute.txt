@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\bin\Debug\net8.0\Product.exe
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\bin\Debug\net8.0\Product.deps.json
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\bin\Debug\net8.0\Product.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\bin\Debug\net8.0\Product.dll
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\bin\Debug\net8.0\Product.pdb
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\Product.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\Product.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\Product.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\Product.dll
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\refint\Product.dll
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\Product.pdb
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\Product.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Product\obj\Debug\net8.0\ref\Product.dll

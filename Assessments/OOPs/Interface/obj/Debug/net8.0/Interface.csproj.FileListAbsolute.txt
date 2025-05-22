@@ -1,0 +1,14 @@
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\Interface.AssemblyInfoInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\Interface.AssemblyInfo.cs
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\bin\Debug\net8.0\Interface.exe
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\bin\Debug\net8.0\Interface.deps.json
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\bin\Debug\net8.0\Interface.runtimeconfig.json
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\bin\Debug\net8.0\Interface.dll
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\bin\Debug\net8.0\Interface.pdb
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\Interface.dll
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\refint\Interface.dll
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\Interface.pdb
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
+C:\Users\nithis.boopathiraj\Desktop\OOPs\Interface\obj\Debug\net8.0\ref\Interface.dll

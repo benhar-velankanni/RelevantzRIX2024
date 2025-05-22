@@ -1,0 +1,50 @@
+#myForm {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#myForm h2 {
+  margin-top: 0;
+}
+
+#myForm label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#myForm input[type="text"], #myForm input[type="number"] {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+#myForm input[type="checkbox"] {
+  margin-bottom: 20px;
+}
+
+#myForm input[type="submit"] {
+  width: 100%;
+  height: 40px;
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#myForm input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+#myForm input[type="submit"]:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

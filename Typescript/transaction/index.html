@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transaction Management System</title>
+  <style>
+    body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"], input[type="number"], input[type="email"] {
+  width: 80%;
+  height: 30px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button[type="button"] {
+  width: 80%;
+  height: 40px;
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="button"]:hover {
+  background-color: #3e8e41;
+}
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+
+  </style>
+</head>
+<body>
+  <h1>Transaction Management System</h1>
+  <h2>Create</h2>
+  <form action="">
+    <label for="trans-id">Transaction ID:</label>
+    <input type="number" name="trans-id" id="trans-id">
+    <label for="trans-name">Transaction Name:</label>
+    <input type="text" name="trans-name" id="trans-name">
+    <label for="trans-description">Transaction Description:</label>
+    <input type="text" name="trans-description" id="trans-description">
+    <label for="trans-mode">Transaction Mode:</label>
+    <input type="text" name="trans-mode" id="trans-mode">
+    <button type="button" id="create">Create</button>
+  </form>
+  <h2>Read</h2>
+  <button type="button" id="read">Get Transactions</button>
+  <h2>Update</h2>
+  <form action="">
+    <label for="update-trans-id">Transaction ID:</label>
+    <input type="number" name="update-trans-id" id="update-trans-id">
+    <label for="update-trans-name">Transaction Name:</label>
+    <input type="text" name="update-trans-name" id="update-trans-name">
+    <label for="update-trans-description">Transaction Description:</label>
+    <input type="text" name="update-trans-description" id="update-trans-description">
+    <label for="update-trans-mode">Transaction Mode:</label>
+    <input type="text" name="update-trans-mode" id="update-trans-mode">
+    <button type="button" id="update">Update</button>
+  </form>
+  <h2>Delete</h2>
+  <form action="">
+    <label for="delete-trans-id">Transaction ID:</label>
+    <input type="number" name="delete-trans-id" id="delete-trans-id">
+    <button type="button" id="delete">Delete</button>
+  </form>
+
+  <script src="./src/main.ts" type="module"></script>
+</body>
+</html>

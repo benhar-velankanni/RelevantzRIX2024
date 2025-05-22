@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <style>
+        body {
+            background-image: url("abc.webp");
+            box-sizing: border-box;
+            background-size: cover;
+        }
+        form {
+            align-content: center;
+            background-color: aqua;
+            width: 200px;
+            padding: 100px;
+            padding-bottom: 220px;
+            padding-right: 150px;
+            padding-top: 10px;
+            height: 150px;
+            font-size: 20px;
+            border-radius: 10px;
+            align-items: center;
+            margin: 250px;
+            margin-left: 500px;
+            margin-right: 500px;
+            margin-bottom: 400px;
+            box-shadow: 5px 5px 5px 5px rgb(0, 0, 0);
+            font-family: sans-serif;
+        }
+        h1 {
+            text-align: center;
+        }
+        input {
+            height: 40px;
+            width: 300px;
+            border-radius: 5px;
+        }
+        button {
+            background-color: blue;
+            height: 40px;
+            width: 300px;
+            border-radius: 5px;
+            color: white;
+        }
+        .register-link {
+            display: block;
+            text-align: center;
+            margin-top: 10px;
+            color: blue;
+            text-decoration: none;
+        }
+    </style>
+    <script>
+        function validateForm() {
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            if (username === "" || password === "") {
+                alert("Both fields are required.");
+                return false;
+            }
+            if(username=="admin"&&password=="admin"){
+            alert("Login successful");
+            window.location.href = "firstpage.html";
+            return false; // Prevent form submission to allow redirection
+        }
+        else{
+            alert("wrong username or password");
+        }
+    }
+    </script>
+</head>
+<body>
+    <form onsubmit="return validateForm()">
+        <h1>Login</h1>
+        <div>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" placeholder="Enter your username" required>
+        </div>
+        <br>
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="Enter your password" required>
+        </div>
+        <br>
+        <div>
+            <button type="submit">Login</button>
+        </div>
+        <a href="registration.html" class="register-link">Register</a>
+    </form>
+</body>
+</html>
