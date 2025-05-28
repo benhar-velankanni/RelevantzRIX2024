@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\bin\Debug\net8.0\IEnumberable Demo.exe
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\bin\Debug\net8.0\IEnumberable Demo.deps.json
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\bin\Debug\net8.0\IEnumberable Demo.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\bin\Debug\net8.0\IEnumberable Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\bin\Debug\net8.0\IEnumberable Demo.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\refint\IEnumberable Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\IEnumberable Demo.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Recaps\IEnumberable Demo\obj\Debug\net8.0\ref\IEnumberable Demo.dll
