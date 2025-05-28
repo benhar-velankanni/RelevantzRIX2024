@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigiReceipt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3906bd1c41ed06b6e4966ab399b8c01257321143")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d74918302fba02a79d316630d2d522d0c1d5050")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigiReceipt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigiReceipt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
