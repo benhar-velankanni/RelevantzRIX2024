@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\bin\Debug\net8.0\Hashtable Demo.exe
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\bin\Debug\net8.0\Hashtable Demo.deps.json
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\bin\Debug\net8.0\Hashtable Demo.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\bin\Debug\net8.0\Hashtable Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\bin\Debug\net8.0\Hashtable Demo.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\refint\Hashtable Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\Hashtable Demo.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Hashtable Demo\obj\Debug\net8.0\ref\Hashtable Demo.dll

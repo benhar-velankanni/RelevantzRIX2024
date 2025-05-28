@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IDictionary Demo/1.0.0": {
+        "runtime": {
+          "IDictionary Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDictionary Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

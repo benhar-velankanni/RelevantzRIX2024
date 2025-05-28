@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace IDictionaryDemo
+﻿namespace IDictionaryDemo
 {
     class Program
     {
@@ -92,8 +88,6 @@ namespace IDictionaryDemo
 
             Console.WriteLine($"Access 'name' (lowercase): {caseInsensitiveDict["name"]}");
             Console.WriteLine($"Contains 'AGE': {caseInsensitiveDict.ContainsKey("AGE")}");
-
-            Console.ReadKey();
         }
     }
 

@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\bin\Debug\net8.0\Lib Dictionary.exe
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\bin\Debug\net8.0\Lib Dictionary.deps.json
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\bin\Debug\net8.0\Lib Dictionary.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\bin\Debug\net8.0\Lib Dictionary.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\bin\Debug\net8.0\Lib Dictionary.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\refint\Lib Dictionary.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\Lib Dictionary.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Lib Dictionary\obj\Debug\net8.0\ref\Lib Dictionary.dll

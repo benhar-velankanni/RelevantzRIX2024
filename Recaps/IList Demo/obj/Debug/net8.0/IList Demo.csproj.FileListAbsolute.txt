@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\bin\Debug\net8.0\IList Demo.exe
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\bin\Debug\net8.0\IList Demo.deps.json
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\bin\Debug\net8.0\IList Demo.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\bin\Debug\net8.0\IList Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\bin\Debug\net8.0\IList Demo.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\refint\IList Demo.dll
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\IList Demo.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Recaps\IList Demo\obj\Debug\net8.0\ref\IList Demo.dll

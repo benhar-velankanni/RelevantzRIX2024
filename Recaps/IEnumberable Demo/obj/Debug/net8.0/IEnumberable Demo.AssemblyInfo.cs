@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IEnumberable Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+757cb0aafbfd38ce732a65c0b86f088ed6a073b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b888a09b9bac9749a3ddabb8dbb79aa0383219f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("IEnumberable Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IEnumberable Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

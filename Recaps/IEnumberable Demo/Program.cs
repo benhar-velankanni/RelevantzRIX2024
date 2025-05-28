@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace IEnumerableDemo
+﻿namespace IEnumerableDemo
 {
     class Program
     {
@@ -69,8 +65,6 @@ namespace IEnumerableDemo
             // Using LINQ methods on custom collection
             Console.WriteLine($"Book count: {bookCollection.Count()}");
             Console.WriteLine($"First book: {bookCollection.First()}");
-
-            Console.ReadKey();
         }
     }
 
