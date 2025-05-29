@@ -1,0 +1,15 @@
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\bin\Debug\net8.0\Attendance.exe
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\bin\Debug\net8.0\Attendance.deps.json
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\bin\Debug\net8.0\Attendance.runtimeconfig.json
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\bin\Debug\net8.0\Attendance.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\bin\Debug\net8.0\Attendance.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.AssemblyInfoInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.AssemblyInfo.cs
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.csproj.CoreCompileInputs.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.sourcelink.json
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\refint\Attendance.dll
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.pdb
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\Attendance.genruntimeconfig.cache
+D:\Repositories\RelevantzRIX2024\Recaps\Attendance\obj\Debug\net8.0\ref\Attendance.dll
