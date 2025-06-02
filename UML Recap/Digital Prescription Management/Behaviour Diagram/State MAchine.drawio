@@ -1,0 +1,95 @@
+<mxfile host="65bd71144e">
+    <diagram id="-r4wO35u30R8DGiQy3m_" name="Page-1">
+        <mxGraphModel dx="1002" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="79" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry y="330" width="400" height="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
+                    <mxGeometry x="221.5" y="390" width="40" height="24" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="" style="rounded=1;arcSize=20;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="195" y="464" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="UnderReview" style="rounded=1;arcSize=20;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="185" y="576" width="109" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Approved" style="rounded=1;arcSize=20;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="121" y="689" width="84" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Rejected" style="rounded=1;arcSize=20;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="275" y="689" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Dispensed" style="rounded=1;arcSize=20;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="30" y="819" width="87" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Expired" style="rounded=1;arcSize=20;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="173" y="819" width="70" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="59" value="" style="ellipse;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+                    <mxGeometry x="188" y="930" width="45" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="52" target="53">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" value="Doctor reviews request" style="curved=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontStyle=1" edge="1" parent="1" source="53" target="54">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="54" target="56">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="650" as="sourcePoint"/>
+                        <mxPoint x="370" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="70" value="&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Prescription Rejected&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="640" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="54" target="55">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-40" y="660" as="sourcePoint"/>
+                        <mxPoint x="10" y="610" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="72" value="&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Prescription Approved&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="173" y="640" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: 700; text-wrap: nowrap;&quot;&gt;Prescription&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-weight: 700; text-wrap: nowrap;&quot;&gt;Requested&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="469" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="55" target="58">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="240" y="820" as="sourcePoint"/>
+                        <mxPoint x="290" y="770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Not dispensed in time&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="173" y="770" width="137" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="55" target="57">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-50" y="810" as="sourcePoint"/>
+                        <mxPoint y="760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Medication dispensed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="760" width="137" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58" target="59">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="230" y="980" as="sourcePoint"/>
+                        <mxPoint x="280" y="930" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="80" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;State Machine Diagram&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="75.5" y="340" width="270" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
