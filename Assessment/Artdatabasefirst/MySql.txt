@@ -1,0 +1,47 @@
+CREATE TABLE `User` (
+  `UserId` int NOT NULL AUTO_INCREMENT,
+  `FirstName` varchar(255) NOT NULL,
+  `LastName` varchar(255) NOT NULL,
+  `Email` varchar(255) NOT NULL,
+  `Password` varchar(255) NOT NULL,
+  PRIMARY KEY (`UserId`)
+);
+
+CREATE TABLE `Lesson` (
+  `LessonId` int NOT NULL AUTO_INCREMENT,
+  `Title` varchar(255) NOT NULL,
+  `Description` text NOT NULL,
+  `UserId` int NOT NULL,
+  PRIMARY KEY (`LessonId`),
+  FOREIGN KEY (`UserId`) REFERENCES `User` (`UserId`)
+);
+
+CREATE TABLE `Challenge` (
+  `ChallengeId` int NOT NULL AUTO_INCREMENT,
+  `Title` varchar(255) NOT NULL,
+  `Description` text NOT NULL,
+  `UserId` int NOT NULL,
+  PRIMARY KEY (`ChallengeId`),
+  FOREIGN KEY (`UserId`) REFERENCES `User` (`UserId`)
+);
+
+CREATE TABLE `CompletedLesson` (
+  `CompletedLessonId` int NOT NULL AUTO_INCREMENT,
+  `LessonId` int NOT NULL,
+  `UserId` int NOT NULL,
+  `DateCompleted` datetime NOT NULL,
+  PRIMARY KEY (`CompletedLessonId`),
+  FOREIGN KEY (`LessonId`) REFERENCES `Lesson` (`LessonId`),
+  FOREIGN KEY (`UserId`) REFERENCES `User` (`UserId`)
+);
+
+CREATE TABLE `CompletedChallenge` (
+  `CompletedChallengeId` int NOT NULL AUTO_INCREMENT,
+  `ChallengeId` int NOT NULL,
+  `UserId` int NOT NULL,
+  `DateCompleted` datetime NOT NULL,
+  PRIMARY KEY (`CompletedChallengeId`),
+  FOREIGN KEY (`ChallengeId`) REFERENCES `Challenge` (`ChallengeId`),
+  FOREIGN KEY (`UserId`) REFERENCES `User` (`UserId`)
+);
+

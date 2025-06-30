@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeEnergyMonitoringSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b7f89334ece4260b66403e61272dfa4ee0f5b09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2e0cb83edd0eae5ea7ab185146db2ae61e9ffc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeEnergyMonitoringSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeEnergyMonitoringSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
