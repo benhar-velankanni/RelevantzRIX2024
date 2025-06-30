@@ -1609,19 +1609,19 @@
     ]
   },
   "packageFolders": {
-    "/home/rishi/.nuget/packages/": {}
+    "C:\\Users\\rishi.manisekaran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rishi/C_Sharp_Assessment/C_Sharp_Assessment.csproj",
+      "projectUniqueName": "C:\\Users\\rishi.manisekaran\\Desktop\\Rishi Training\\L1 Training\\Typescript\\RelevantzRIX2024\\C_Sharp_Assessment\\C_Sharp_Assessment.csproj",
       "projectName": "C_Sharp_Assessment",
-      "projectPath": "/home/rishi/C_Sharp_Assessment/C_Sharp_Assessment.csproj",
-      "packagesPath": "/home/rishi/.nuget/packages/",
-      "outputPath": "/home/rishi/C_Sharp_Assessment/obj/",
+      "projectPath": "C:\\Users\\rishi.manisekaran\\Desktop\\Rishi Training\\L1 Training\\Typescript\\RelevantzRIX2024\\C_Sharp_Assessment\\C_Sharp_Assessment.csproj",
+      "packagesPath": "C:\\Users\\rishi.manisekaran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rishi.manisekaran\\Desktop\\Rishi Training\\L1 Training\\Typescript\\RelevantzRIX2024\\C_Sharp_Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/rishi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rishi.manisekaran\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1639,6 +1639,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1666,7 +1671,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

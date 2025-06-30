@@ -1,0 +1,52 @@
+public class User
+{
+    public int Id { get; set; }
+    public string Username { get; set; }
+    public string PasswordHash { get; set; }
+    public ICollection<Folder> Folders { get; set; }
+}
+
+public class Folder
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public int UserId { get; set; }
+    public User User { get; set; }
+    public ICollection<Document> Documents { get; set; }
+}
+
+public class Document
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+    public string EncryptedContent { get; set; }
+    public int FolderId { get; set; }
+    public Folder Folder { get; set; }
+}
+
+
+    CREATE TABLE Users (
+        Id INTEGER PRIMARY KEY,
+        Username VARCHAR(255) NOT NULL,
+        Password VARCHAR(255) NOT NULL
+    );
+
+
+
+    CREATE TABLE Folders (
+        Id INTEGER PRIMARY KEY,
+        Name VARCHAR(255) NOT NULL,
+        UserId INTEGER NOT NULL,
+        FOREIGN KEY (UserId) REFERENCES Users(Id)
+    );
+
+
+
+    CREATE TABLE Documents (
+        Id INTEGER PRIMARY KEY,
+        Name VARCHAR(255) NOT NULL,
+        EncryptedContent TEXT NOT NULL,
+        FolderId INTEGER NOT NULL,
+        FOREIGN KEY (FolderId) REFERENCES Folders(Id)
+    );
+
