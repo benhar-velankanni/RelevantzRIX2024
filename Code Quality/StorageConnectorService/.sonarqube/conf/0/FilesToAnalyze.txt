@@ -1,0 +1,15 @@
+﻿D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Controllers\StorageConnectorsController.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Data\AppDBContext.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Migrations\20250710061743_Initial.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Migrations\20250710061743_Initial.Designer.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Migrations\AppDBContextModelSnapshot.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Model\StorageConnector.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Program.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\obj\Debug\net8.0\StorageConnectorService.GlobalUsings.g.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\obj\Debug\net8.0\StorageConnectorService.AssemblyInfo.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\obj\Debug\net8.0\StorageConnectorService.MvcApplicationPartsAssemblyInfo.cs
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\appsettings.Development.json
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\appsettings.json
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\StorageConnectorService.http
+D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\Properties\launchSettings.json

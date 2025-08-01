@@ -1,0 +1,6 @@
+projectKey=StorageConnectorService
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=StorageConnectorService
+ceTaskId=2ac693bf-2bcb-40a6-92e3-37d318c7f70e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=2ac693bf-2bcb-40a6-92e3-37d318c7f70e

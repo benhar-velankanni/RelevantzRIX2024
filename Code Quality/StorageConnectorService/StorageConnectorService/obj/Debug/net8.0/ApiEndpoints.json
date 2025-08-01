@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "StorageConnectorService.Controllers.StorageConnectorsController",
+    "Method": "GetStorageConnectors",
+    "RelativePath": "api/StorageConnectors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[StorageConnectorService.Model.StorageConnector, StorageConnectorService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StorageConnectorService.Controllers.StorageConnectorsController",
+    "Method": "PostStorageConnector",
+    "RelativePath": "api/StorageConnectors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageConnector",
+        "Type": "StorageConnectorService.Model.StorageConnector",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StorageConnectorService.Model.StorageConnector",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StorageConnectorService.Controllers.StorageConnectorsController",
+    "Method": "GetStorageConnector",
+    "RelativePath": "api/StorageConnectors/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StorageConnectorService.Model.StorageConnector",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StorageConnectorService.Controllers.StorageConnectorsController",
+    "Method": "PutStorageConnector",
+    "RelativePath": "api/StorageConnectors/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "storageConnector",
+        "Type": "StorageConnectorService.Model.StorageConnector",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StorageConnectorService.Controllers.StorageConnectorsController",
+    "Method": "DeleteStorageConnector",
+    "RelativePath": "api/StorageConnectors/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

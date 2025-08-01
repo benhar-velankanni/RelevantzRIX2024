@@ -1,0 +1,1 @@
+“R}D:\L1 core topics\ASP.NET Core Web API\Web API\StorageConnectorService\StorageConnectorService\StorageConnectorService.csproj¢net8.0òCSharp12
