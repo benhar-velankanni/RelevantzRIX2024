@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp.netcore\\Catalogservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|d:\\asp.netcore\\catalogservice\\catalogservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|solutionrelative:catalogservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|d:\\asp.netcore\\catalogservice\\catalogservice\\controllers\\catalogservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|solutionrelative:catalogservice\\controllers\\catalogservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|d:\\asp.netcore\\catalogservice\\catalogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|solutionrelative:catalogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|d:\\asp.netcore\\catalogservice\\catalogservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|solutionrelative:catalogservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|d:\\asp.netcore\\catalogservice\\catalogservice\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|solutionrelative:catalogservice\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|d:\\asp.netcore\\catalogservice\\catalogservice\\migrations\\20250707052600_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57EEF2C8-C4C3-4DCE-BD81-81387C0885E1}|Catalogservice\\Catalogservice.csproj|solutionrelative:catalogservice\\migrations\\20250707052600_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250707052600_initial.cs",
+              "DocumentMoniker": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Migrations\\20250707052600_initial.cs",
+              "RelativeDocumentMoniker": "Catalogservice\\Migrations\\20250707052600_initial.cs",
+              "ToolTip": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Migrations\\20250707052600_initial.cs",
+              "RelativeToolTip": "Catalogservice\\Migrations\\20250707052600_initial.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:26:00.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalogservice\\appsettings.json",
+              "ToolTip": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\appsettings.json",
+              "RelativeToolTip": "Catalogservice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T05:23:57.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Program.cs",
+              "RelativeDocumentMoniker": "Catalogservice\\Program.cs",
+              "ToolTip": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Program.cs",
+              "RelativeToolTip": "Catalogservice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAADYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T06:13:58.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogServiceController.cs",
+              "DocumentMoniker": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Controllers\\CatalogServiceController.cs",
+              "RelativeDocumentMoniker": "Catalogservice\\Controllers\\CatalogServiceController.cs",
+              "ToolTip": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Controllers\\CatalogServiceController.cs",
+              "RelativeToolTip": "Catalogservice\\Controllers\\CatalogServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:26:59.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "Catalogservice\\Models\\Catalog.cs",
+              "ToolTip": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Models\\Catalog.cs",
+              "RelativeToolTip": "Catalogservice\\Models\\Catalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:22:54.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Catalogservice\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Asp.netcore\\Catalogservice\\Catalogservice\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Catalogservice\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:22:35.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
