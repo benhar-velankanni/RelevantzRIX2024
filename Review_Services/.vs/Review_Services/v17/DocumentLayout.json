@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microservices Solution\\Review_Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\controller\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\controller\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|d:\\microservices solution\\review_services\\catalogservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2400EF-592B-4683-BFDA-00950D0C0D28}|CatalogServices\\ReviewServices.csproj|solutionrelative:catalogservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Controller\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "CatalogServices\\Controller\\ReviewsController.cs",
+              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Controller\\ReviewsController.cs",
+              "RelativeToolTip": "CatalogServices\\Controller\\ReviewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:29:34.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Program.cs",
+              "RelativeDocumentMoniker": "CatalogServices\\Program.cs",
+              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Program.cs",
+              "RelativeToolTip": "CatalogServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:21:05.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "CatalogServices\\Model\\Review.cs",
+              "ToolTip": "D:\\Microservices Solution\\Review_Services\\CatalogServices\\Model\\Review.cs",
+              "RelativeToolTip": "CatalogServices\\Model\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T08:09:58.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

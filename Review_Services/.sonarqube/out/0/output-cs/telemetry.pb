@@ -1,0 +1,1 @@
+eROD:\Microservices Solution\Review_Services\CatalogServices\ReviewServices.csproj¢net8.0òCSharp12

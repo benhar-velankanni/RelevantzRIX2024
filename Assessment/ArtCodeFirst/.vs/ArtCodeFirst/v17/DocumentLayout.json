@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajesh.v\\Desktop\\RIX training\\Repo_git\\RelevantzRIX2024\\Assessment\\ArtCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE1D9B9-EFC9-FB2A-E9A8-99A28F17ADC8}|ArtCodeFirst.csproj|c:\\users\\rajesh.v\\desktop\\rix training\\repo_git\\relevantzrix2024\\assessment\\artcodefirst\\model\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE1D9B9-EFC9-FB2A-E9A8-99A28F17ADC8}|ArtCodeFirst.csproj|solutionrelative:model\\challenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Challenge.cs",
+              "DocumentMoniker": "C:\\Users\\rajesh.v\\Desktop\\RIX training\\Repo_git\\RelevantzRIX2024\\Assessment\\ArtCodeFirst\\Model\\Challenge.cs",
+              "RelativeDocumentMoniker": "Model\\Challenge.cs",
+              "ToolTip": "C:\\Users\\rajesh.v\\Desktop\\RIX training\\Repo_git\\RelevantzRIX2024\\Assessment\\ArtCodeFirst\\Model\\Challenge.cs",
+              "RelativeToolTip": "Model\\Challenge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:14:06.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
