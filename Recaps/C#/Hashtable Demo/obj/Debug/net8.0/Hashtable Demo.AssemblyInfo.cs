@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hashtable Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+154829fa3158946b17eb73de07e6e76fc760ca16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7844d773fe8984a1104d38c896d5b75b14f2fc76")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hashtable Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hashtable Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

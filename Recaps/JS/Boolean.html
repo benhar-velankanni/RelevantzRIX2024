@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Boolean Methods Demo</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        background-color: #f4f4f9;
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      .section {
+        margin-bottom: 20px;
+        padding: 15px;
+        background: #fff;
+        border-left: 5px solid #4caf50;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+      }
+      .section h2 {
+        margin-top: 0;
+        color: #4caf50;
+      }
+      .output {
+        background-color: #f9f9f9;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        white-space: pre-wrap;
+        font-family: monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript Boolean Methods Demo</h1>
+
+    <div class="section">
+      <h2>Boolean Values</h2>
+      <div class="output" id="booleanValuesOutput"></div>
+    </div>
+    <div class="section">
+      <h2>Boolean Comparisons</h2>
+      <div class="output" id="booleanComparisonsOutput"></div>
+    </div>
+    <div class="section">
+      <h2>Logical Operators</h2>
+      <div class="output" id="logicalOperatorsOutput"></div>
+    </div>
+
+    <script>
+      // Boolean Values
+      let boolTrue = true;
+      let boolFalse = false;
+      document.getElementById("booleanValuesOutput").textContent =
+        `Boolean true: ${boolTrue}\n` + `Boolean false: ${boolFalse}`;
+
+      // Boolean Comparisons
+      let num1 = 5;
+      let num2 = 10;
+      document.getElementById("booleanComparisonsOutput").textContent =
+        `5 > 10: ${num1 > num2}\n` +
+        `5 < 10: ${num1 < num2}\n` +
+        `5 == 10: ${num1 == num2}\n` +
+        `5 != 10: ${num1 != num2}\n` +
+        `5 >= 5: ${num1 >= num1}\n` +
+        `5 <= 10: ${num1 <= num2}`;
+
+      // Logical Operators
+      let a = true;
+      let b = false;
+      document.getElementById("logicalOperatorsOutput").textContent =
+        `true && false: ${a && b}\n` +
+        `true || false: ${a || b}\n` +
+        `!true: ${!a}\n` +
+        `!false: ${!b}`;
+    </script>
+  </body>
+</html>

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Box Model</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: white;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      .diagram-container {
+        position: relative;
+        display: inline-block;
+      }
+
+      /* Margin layer - outermost light gray box */
+      .margin-layer {
+        width: 410px;
+        height: 210px;
+        background-color: black;
+        border: 2px solid #999;
+        position: relative;
+      }
+
+      /* Border layer - dark gray/black border */
+      .border-layer {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        width: 390px;
+        height: 190px;
+        background-color: gray;
+      }
+
+      /* Padding layer - lighter gray inside border */
+      .padding-layer {
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        width: 380px;
+        height: 180px;
+        background-color: pink;
+      }
+
+      /* Content layer - green center */
+      .content-layer {
+        position: absolute;
+        top: 4px;
+        left: 4px;
+        width: 370px;
+        height: 170px;
+        background-color: purple;
+      }
+
+      /* Width label */
+      .width-label {
+        position: absolute;
+        top: -25px;
+        left: 150px;
+        font-size: 14px;
+        color: #333;
+        text-decoration: underline;
+      }
+
+      /* Height label */
+      .height-label {
+        position: absolute;
+        right: -90px;
+        top: 50%;
+        transform: rotate(90deg);
+        transform-origin: center;
+        font-size: 14px;
+        color: #333;
+        text-decoration: underline;
+        white-space: nowrap;
+      }
+
+      /* Legend */
+      .legend {
+        position: absolute;
+        top: 30px;
+        right: -120px;
+        font-size: 12px;
+      }
+
+      .legend-item {
+        display: flex;
+        align-items: center;
+        margin-bottom: 6px;
+      }
+
+      .legend-checkbox {
+        width: 12px;
+        height: 12px;
+        margin-right: 6px;
+        border: 1px solid #666;
+      }
+
+      .margin-check {
+        background-color: black;
+      }
+      .border-check {
+        background-color: gray;
+      }
+      .padding-check {
+        background-color: pink;
+      }
+      .content-check {
+        background-color: purple;
+      }
+
+      .legend-text {
+        color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="diagram-container">
+      <div class="width-label">Total Width: 410px</div>
+      <div class="height-label">Total Height: 210px</div>
+
+      <div class="legend">
+        <div class="legend-item">
+          <div class="legend-checkbox margin-check"></div>
+          <span class="legend-text">Margin</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-checkbox border-check"></div>
+          <span class="legend-text">Border</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-checkbox padding-check"></div>
+          <span class="legend-text">Padding</span>
+        </div>
+        <div class="legend-item">
+          <div class="legend-checkbox content-check"></div>
+          <span class="legend-text">Content</span>
+        </div>
+      </div>
+
+      <div class="margin-layer">
+        <div class="border-layer">
+          <div class="padding-layer">
+            <div class="content-layer"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

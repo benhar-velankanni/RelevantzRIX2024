@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript String Methods Demo</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        background-color: #f4f4f9;
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      .section {
+        margin-bottom: 20px;
+        padding: 15px;
+        background: #fff;
+        border-left: 5px solid #4caf50;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+      }
+      .section h2 {
+        margin-top: 0;
+        color: #4caf50;
+      }
+      .output {
+        background-color: #f9f9f9;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        white-space: pre-wrap;
+        font-family: monospace;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript String Methods Demo</h1>
+
+    <div class="section">
+      <h2>String Lengths</h2>
+      <div class="output" id="lengthsOutput"></div>
+    </div>
+    <div class="section">
+      <h2>Character Access</h2>
+      <div class="output" id="charAccessOutput"></div>
+    </div>
+    <div class="section">
+      <h2>String Concatenation</h2>
+      <div class="output" id="concatOutput"></div>
+    </div>
+    <div class="section">
+      <h2>Substring Extraction</h2>
+      <div class="output" id="substringOutput"></div>
+    </div>
+    <div class="section">
+      <h2>String Splitting</h2>
+      <div class="output" id="splitOutput"></div>
+    </div>
+    <div class="section">
+      <h2>String Replacement</h2>
+      <div class="output" id="replaceOutput"></div>
+    </div>
+    <div class="section">
+      <h2>Case Conversion</h2>
+      <div class="output" id="caseOutput"></div>
+    </div>
+    <div class="section">
+      <h2>String Trimming</h2>
+      <div class="output" id="trimOutput"></div>
+    </div>
+    <div class="section">
+      <h2>String Search</h2>
+      <div class="output" id="searchOutput"></div>
+    </div>
+    <div class="section">
+      <h2>String Includes</h2>
+      <div class="output" id="includesOutput"></div>
+    </div>
+    <div class="section">
+      <h2>StartsWith & EndsWith</h2>
+      <div class="output" id="startEndOutput"></div>
+    </div>
+    <div class="section">
+      <h2>String Repeat</h2>
+      <div class="output" id="repeatOutput"></div>
+    </div>
+
+    <script>
+      let str1 = "Hello, World!";
+      let str2 = "JavaScript is awesome!";
+      let str3 = `This is a string with backticks.`;
+
+      document.getElementById("lengthsOutput").textContent =
+        `Length of str1: ${str1.length}\n` +
+        `Length of str2: ${str2.length}\n` +
+        `Length of str3: ${str3.length}`;
+
+      document.getElementById("charAccessOutput").textContent =
+        `First character of str1: ${str1.charAt(0)}\n` +
+        `First character of str2: ${str2[0]}`;
+
+      let concatenatedStr = str1.concat(" ", str2);
+      document.getElementById(
+        "concatOutput"
+      ).textContent = `Concatenated string:\n${concatenatedStr}`;
+
+      let substring = str1.substring(0, 5);
+      document.getElementById(
+        "substringOutput"
+      ).textContent = `Substring of str1: ${substring}`;
+
+      let splitStr = str2.split(" ");
+      document.getElementById(
+        "splitOutput"
+      ).textContent = `Split str2: ${splitStr.join(", ")}`;
+
+      let replacedStr = str2.replace("awesome", "fantastic");
+      document.getElementById(
+        "replaceOutput"
+      ).textContent = `Replaced str2:\n${replacedStr}`;
+
+      let upperStr = str1.toUpperCase();
+      let lowerStr = str2.toLowerCase();
+      document.getElementById("caseOutput").textContent =
+        `Uppercase str1:\n${upperStr}\n` + `Lowercase str2:\n${lowerStr}`;
+
+      let str4 = "   Trim me!   ";
+      let trimmedStr = str4.trim();
+      document.getElementById(
+        "trimOutput"
+      ).textContent = `Trimmed str4:\n"${trimmedStr}"`;
+
+      let searchIndex = str2.indexOf("is");
+      document.getElementById(
+        "searchOutput"
+      ).textContent = `Index of 'is' in str2: ${searchIndex}`;
+
+      let includesStr = str2.includes("JavaScript");
+      document.getElementById(
+        "includesOutput"
+      ).textContent = `Does str2 include 'JavaScript'? -> ${includesStr}`;
+
+      let startsWithStr = str1.startsWith("Hello");
+      let endsWithStr = str2.endsWith("awesome!");
+      document.getElementById("startEndOutput").textContent =
+        `Does str1 start with 'Hello'? -> ${startsWithStr}\n` +
+        `Does str2 end with 'awesome!'? -> ${endsWithStr}`;
+
+      let repeatedStr = str1.repeat(3);
+      document.getElementById(
+        "repeatOutput"
+      ).textContent = `Repeated str1:\n${repeatedStr}`;
+    </script>
+  </body>
+</html>

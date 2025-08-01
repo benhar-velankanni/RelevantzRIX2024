@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Dialog Boxes Demo</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 20px;
+        background-color: #f4f4f9;
+      }
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+      .section {
+        margin-bottom: 20px;
+        padding: 15px;
+        background: #fff;
+        border-left: 5px solid #4caf50;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        border-radius: 5px;
+      }
+      .section h2 {
+        margin-top: 0;
+        color: #4caf50;
+      }
+      .output {
+        background-color: #f9f9f9;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        white-space: pre-wrap;
+        font-family: monospace;
+      }
+      button {
+        padding: 10px 15px;
+        margin: 5px;
+        border: none;
+        border-radius: 5px;
+        background-color: #4caf50;
+        color: white;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #45a049;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript Dialog Boxes Demo</h1>
+
+    <div class="section">
+      <h2>Alert Box</h2>
+      <button onclick="showAlert()">Show Alert</button>
+    </div>
+
+    <div class="section">
+      <h2>Confirm Box</h2>
+      <button onclick="showConfirm()">Show Confirm</button>
+      <div class="output" id="confirmOutput"></div>
+    </div>
+
+    <div class="section">
+      <h2>Prompt Box</h2>
+      <button onclick="showPrompt()">Show Prompt</button>
+      <div class="output" id="promptOutput"></div>
+    </div>
+
+    <script>
+      function showAlert() {
+        alert("This is an alert box!");
+      }
+
+      function showConfirm() {
+        let result = confirm("Do you confirm this action?");
+        document.getElementById("confirmOutput").textContent =
+          "Confirm result: " + result;
+      }
+
+      function showPrompt() {
+        let result = prompt("Please enter your name:", "Your name here");
+        document.getElementById("promptOutput").textContent =
+          "Prompt result: " + result;
+      }
+    </script>
+  </body>
+</html>
