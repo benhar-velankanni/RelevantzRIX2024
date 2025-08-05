@@ -1,0 +1,17 @@
+									    Project name : Online Salon Management System
+    Module Name : CRUD
+    Reference Document : Admin Registration Guide v1.0
+    Created by : Rishi Kesava Vigneshver Manisekaran
+    Date of creation : 5/8/2025
+    Date of review : 5/15/2025
+    Test Case ID	          Test Scenarios 	     Test Case Title / Test Case Name	Test Steps 	Precondition/Test Data	Expected Result	Actual Result	Status	Comments
+    1Admin Registration	Verify Admin can register successfully	1. Navigate to the Registration page. 2. Fill in the required fields. 3. Submit the form.	Admin page should be accessible.	Admin should be registered successfully.	Admin registered successfully.	Passed	-
+    2 Admin Registration with invalid data	Verify error messages for invalid data	1. Navigate to the Registration page. 2. Enter invalid data in fields. 3. Submit the form.	Admin page should be accessible.	Error messages should appear.	Error messages appeared.	Passed	-
+    3 Admin Login	Verify Admin can login successfully	1. Navigate to the Login page. 2. Enter valid credentials. 3. Submit the form.	Admin page should be accessible. 	Admin should be logged in successfully.	Admin logged in successfully.	Passed	-
+    4 Admin Login with invalid data	Verify error messages for invalid data	1. Navigate to the Login page. 2. Enter invalid data in fields. 3. Submit the form.	Admin page should be accessible.	Error messages should appear.	Error messages appeared.	Passed	-
+    5 Admin Dashboard	Verify Admin can access dashboard successfully	1. Navigate to the Login page. 2. Enter valid credentials. 3. Submit the form.	Admin page should be accessible. 	Admin should be able to access dashboard successfully.	Admin accessed dashboard successfully.	Passed	-
+    6 Admin Dashboard with invalid data	Verify error messages for invalid data	1. Navigate to the Login page. 2. Enter invalid data in fields. 3. Submit the form.	Admin page should be accessible.	Error messages should appear.	Error messages appeared.	Passed	-
+    7 Admin Profile Management	Verify Admin can update profile successfully	1. Navigate to the Profile page. 2. Update the required fields. 3. Submit the form.	Admin page should be accessible. 	Admin should be able to update profile successfully.	Admin updated profile successfully.	Passed	-
+    8 Admin Profile Management with invalid data	Verify error messages for invalid data	1. Navigate to the Profile page. 2. Enter invalid data in fields. 3. Submit the form.	Admin page should be accessible.	Error messages should appear.	Error messages appeared.	Passed	-
+    9 Admin Logout	Verify Admin can logout successfully	1. Navigate to the Logout page. 2. Submit the form.	Admin page should be accessible. 	Admin should be logged out successfully.	Admin logged out successfully.	Passed	-
+

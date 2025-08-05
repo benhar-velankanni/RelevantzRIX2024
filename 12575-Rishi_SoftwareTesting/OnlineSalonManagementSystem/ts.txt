@@ -1,0 +1,130 @@
+CREATE TABLE Salons (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Address VARCHAR(255) NOT NULL,
+    Phone VARCHAR(20) NOT NULL,
+    Email VARCHAR(255) NOT NULL,
+    Website VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Services (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Description VARCHAR(255) NOT NULL,
+    Price DECIMAL(10,2) NOT NULL,
+    SalonId INT NOT NULL,
+    FOREIGN KEY (SalonId) REFERENCES Salons(Id)
+);
+
+CREATE TABLE Staffs (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Email VARCHAR(255) NOT NULL,
+    Phone VARCHAR(20) NOT NULL,
+    Role VARCHAR(255) NOT NULL,
+    SalonId INT NOT NULL,
+    FOREIGN KEY (SalonId) REFERENCES Salons(Id)
+);
+
+CREATE TABLE Customers (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Email VARCHAR(255) NOT NULL,
+    Phone VARCHAR(20) NOT NULL
+);
+
+CREATE TABLE Appointments (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Date DATETIME NOT NULL,
+    ServiceId INT NOT NULL,
+    FOREIGN KEY (ServiceId) REFERENCES Services(Id),
+    CustomerId INT NOT NULL,
+    FOREIGN KEY (CustomerId) REFERENCES Customers(Id),
+    StaffId INT NOT NULL,
+    FOREIGN KEY (StaffId) REFERENCES Staffs(Id)
+);
+
+CREATE TABLE Inventories (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Quantity INT NOT NULL,
+    SalonId INT NOT NULL,
+    FOREIGN KEY (SalonId) REFERENCES Salons(Id)
+);
+
+Create Table AdminLog(
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Email VARCHAR(255) NOT NULL,
+    Password VARCHAR(255) NOT NULL
+);
+
+INSERT INTO Salons(Id,Name,Address,Phone,Email,Website) VALUES
+(3,'Sri Vinayaga Beauty Parlor','No.12,Main Road,Chennai','044-25555555','svbp@gmail.com','www.svbp.com'),
+(4,'Senthil Hair Styles','No.34,Thiruvalluvar Street,Chennai','044-26666666','shs@gmail.com','www.shs.com'),
+(5,'Sri Devi Beauty Saloon','No.56,Anna Nagar,Chennai','044-37777777','sri.devi@gmail.com','www.sri.devi.com'),
+(6,'Saravana Hair Dresser','No.77,North Usman Street,Chennai','044-48888888','saravana.hd@gmail.com','www.saravana.hd.com'),
+(7,'Sri Ganapathy Saloon','No.98,South Usman Street,Chennai','044-59999999','sri.ganapathy@gmail.com','www.sri.ganapathy.com'),
+(8,'Sri Murugan Hair Styles','No.123,Mount Road,Chennai','044-65555555','sri.murugan@gmail.com','www.sri.murugan.com'),
+(9,'Senthil Kumaran Saloon','No.149,Anna Salai,Chennai','044-72222222','senthil.kumaran@gmail.com','www.senthil.kumaran.com'),
+(10,'Sri Sai Saloon','No.168,Chennai-Bangalore Highway,Chennai','044-78888888','sri.sai@gmail.com','www.sri.sai.com');
+
+INSERT INTO Services(Id,Name,Description,Price,SalonId) VALUES
+(3,'Hair Cut','Stylish hair cut with shampoo and conditioner',100,3),
+(4,'Facial','Complete facial with face mask and skin care',500,4),
+(5,'Body Massage','Full body massage with oil and aroma therapy',800,5),
+(6,'Hair Spa','Hair spa treatment with hair mask and hair care',600,6),
+(7,'Manicure and Pedicure','Complete nail care with nail polish and nail art',300,7),
+(8,'Threading','Eyebrow and facial threading',50,8),
+(9,'Waxing','Full body waxing with hair removal cream',400,9),
+(10,'Tattoo','Temporary tattoo with henna and body art',200,10);
+
+INSERT INTO Staffs(Id,Name,Email,Phone,Role,SalonId) VALUES
+(3,'Senthil','senthil@gmail.com','044-25555555','Stylist',3),
+(4,'Saravana','saravana@gmail.com','044-26666666','Hairstylist',4),
+(5,'Sri Devi','sri.devi@gmail.com','044-37777777','Stylist',5),
+(6,'Sri Ganapathy','sri.ganapathy@gmail.com','044-48888888','Hairstylist',6),
+(7,'Senthil Kumaran','senthil.kumaran@gmail.com','044-59999999','Stylist',7),
+(8,'Sri Murugan','sri.murugan@gmail.com','044-65555555','Hairstylist',8),
+(9,'Sri Sai','sri.sai@gmail.com','044-72222222','Stylist',9),
+(10,'Sri Vinayaga','sri.vinayaga@gmail.com','044-78888888','Hairstylist',10);
+
+INSERT INTO Customers(Id,Name,Email,Phone) VALUES
+(3,'Sri Lakshmi','sri.lakshmi@gmail.com','044-25555555'),
+(4,'Senthil Kumar','senthil.kumar@gmail.com','044-26666666'),
+(5,'Sri Devi Priya','sri.devi.priya@gmail.com','044-37777777'),
+(6,'Sri Ganapathy Raman','sri.ganapathy.raman@gmail.com','044-48888888'),
+(7,'Senthil Kumaran Rajan','senthil.kumaran.rajan@gmail.com','044-59999999'),
+(8,'Sri Murugan Prasath','sri.murugan.prasath@gmail.com','044-65555555'),
+(9,'Sri Sai Ram','sri.sai.ram@gmail.com','044-72222222'),
+(10,'Sri Vinayaga Rajendran','sri.vinayaga.rajendran@gmail.com','044-78888888');
+
+INSERT INTO Appointments(Id,Date,ServiceId,CustomerId,StaffId) VALUES
+(3,'2023-01-01 10:00:00',3,3,3),
+(4,'2023-01-02 11:00:00',4,4,4),
+(5,'2023-01-03 12:00:00',5,5,5),
+(6,'2023-01-04 13:00:00',6,6,6),
+(7,'2023-01-05 14:00:00',7,7,7),
+(8,'2023-01-06 15:00:00',8,8,8),
+(9,'2023-01-07 16:00:00',9,9,9),
+(10,'2023-01-08 17:00:00',10,10,10);
+
+INSERT INTO Inventories(Id,Name,Quantity,SalonId) VALUES
+(3,'Hair Gel',10,3),
+(4,'Hair Oil',20,4),
+(5,'Face Cream',30,5),
+(6,'Shampoo',40,6),
+(7,'Conditioner',50,7),
+(8,'Hair Brush',60,8),
+(9,'Hair Tie',70,9),
+(10,'Hair Clip',80,10);
+
+INSERT INTO AdminLog(Id,Name,Email,Password) VALUES
+(3,'Senthil','senthil@gmail.com','senthil123'),
+(4,'Saravana','saravana@gmail.com','saravana123'),
+(5,'Sri Devi','sri.devi@gmail.com','sri.devi123'),
+(6,'Sri Ganapathy','sri.ganapathy@gmail.com','sri.ganapathy123'),
+(7,'Senthil Kumaran','senthil.kumaran@gmail.com','senthil.kumaran123'),
+(8,'Sri Murugan','sri.murugan@gmail.com','sri.murugan123'),
+(9,'Sri Sai','sri.sai@gmail.com','sri.sai123'),
+(10,'Sri Vinayaga','sri.vinayaga@gmail.com','sri.vinayaga123');

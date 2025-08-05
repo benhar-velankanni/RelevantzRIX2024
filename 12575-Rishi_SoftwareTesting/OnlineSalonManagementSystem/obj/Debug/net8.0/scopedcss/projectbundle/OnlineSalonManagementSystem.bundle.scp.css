@@ -1,0 +1,124 @@
+/* _content/OnlineSalonManagementSystem/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-fevipd33fw] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-fevipd33fw] {
+  color: #0077cc;
+}
+
+.btn-primary[b-fevipd33fw] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+
+.nav-pills .nav-link.active[b-fevipd33fw], .nav-pills .show > .nav-link[b-fevipd33fw] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-fevipd33fw] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-fevipd33fw] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-fevipd33fw] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-fevipd33fw] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-fevipd33fw] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  
+}
+    body[b-fevipd33fw] {
+      background-color: #f0e68c;
+    }
+
+    .navbar[b-fevipd33fw] {
+        background-color: #007bff;
+    }
+    .bg-white[b-fevipd33fw]{
+      background-color:#007bff
+  }
+
+    .navbar-brand[b-fevipd33fw] {
+        color: #fff;
+    }
+
+    .navbar-nav .nav-link[b-fevipd33fw] {
+        color: #fff;
+    }
+
+    .navbar-nav .nav-link:hover[b-fevipd33fw] {
+        background-color: #0069d9;
+    }
+
+    .navbar-nav .nav-link.active[b-fevipd33fw] {
+        background-color: #0056b3;
+    }
+
+    .container[b-fevipd33fw] {
+      
+        background-color: #f0e68c;
+        color: black;
+        padding: 20px;
+        margin-top: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+    }
+
+    .footer[b-fevipd33fw] {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+    .footer a[b-fevipd33fw] {
+        color: #fff;
+    }
+
+    .footer a:hover[b-fevipd33fw] {
+        color: #ccc;
+    }
+
+    .row[b-fevipd33fw] {
+        margin: 0;
+    }
+
+    .col-md-4[b-fevipd33fw] {
+        padding: 0;
+    }
+
+    h6[b-fevipd33fw] {
+        color: #fff;
+    }
+
+    p[b-fevipd33fw] {
+        margin-bottom: 0;
+    }
+a[b-fevipd33fw],h6[b-fevipd33fw],p[b-fevipd33fw]{
+  color: black;
+  text-decoration: black;
+  
+}
+#ji[b-fevipd33fw]{
+  color: black;
+  text-decoration: black;
+}
