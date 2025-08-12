@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineSalonManagementSystem", "OnlineSalonManagementSystem.csproj", "{EFF361FB-586F-9D9D-310C-C224BC010DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Online_Salon_NUNIT_Test", "..\Online_Salon_NUNIT_Test\Online_Salon_NUNIT_Test.csproj", "{AC5961DB-6E21-348A-65DC-400DB10E791C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF361FB-586F-9D9D-310C-C224BC010DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF361FB-586F-9D9D-310C-C224BC010DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF361FB-586F-9D9D-310C-C224BC010DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF361FB-586F-9D9D-310C-C224BC010DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC5961DB-6E21-348A-65DC-400DB10E791C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5961DB-6E21-348A-65DC-400DB10E791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5961DB-6E21-348A-65DC-400DB10E791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5961DB-6E21-348A-65DC-400DB10E791C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9FB1BDD-8A8A-470B-A64E-699D2307CFA2}
+	EndGlobalSection
+EndGlobal

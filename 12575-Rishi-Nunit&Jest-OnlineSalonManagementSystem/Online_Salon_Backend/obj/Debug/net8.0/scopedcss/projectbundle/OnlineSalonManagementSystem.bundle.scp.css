@@ -1,0 +1,124 @@
+/* _content/OnlineSalonManagementSystem/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-c117wt9bj9] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-c117wt9bj9] {
+  color: #0077cc;
+}
+
+.btn-primary[b-c117wt9bj9] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+
+.nav-pills .nav-link.active[b-c117wt9bj9], .nav-pills .show > .nav-link[b-c117wt9bj9] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-c117wt9bj9] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-c117wt9bj9] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-c117wt9bj9] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-c117wt9bj9] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-c117wt9bj9] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  
+}
+    body[b-c117wt9bj9] {
+      background-color: #f0e68c;
+    }
+
+    .navbar[b-c117wt9bj9] {
+        background-color: #007bff;
+    }
+    .bg-white[b-c117wt9bj9]{
+      background-color:#007bff
+  }
+
+    .navbar-brand[b-c117wt9bj9] {
+        color: #fff;
+    }
+
+    .navbar-nav .nav-link[b-c117wt9bj9] {
+        color: #fff;
+    }
+
+    .navbar-nav .nav-link:hover[b-c117wt9bj9] {
+        background-color: #0069d9;
+    }
+
+    .navbar-nav .nav-link.active[b-c117wt9bj9] {
+        background-color: #0056b3;
+    }
+
+    .container[b-c117wt9bj9] {
+      
+        background-color: #f0e68c;
+        color: black;
+        padding: 20px;
+        margin-top: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+    }
+
+    .footer[b-c117wt9bj9] {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+    .footer a[b-c117wt9bj9] {
+        color: #fff;
+    }
+
+    .footer a:hover[b-c117wt9bj9] {
+        color: #ccc;
+    }
+
+    .row[b-c117wt9bj9] {
+        margin: 0;
+    }
+
+    .col-md-4[b-c117wt9bj9] {
+        padding: 0;
+    }
+
+    h6[b-c117wt9bj9] {
+        color: #fff;
+    }
+
+    p[b-c117wt9bj9] {
+        margin-bottom: 0;
+    }
+a[b-c117wt9bj9],h6[b-c117wt9bj9],p[b-c117wt9bj9]{
+  color: black;
+  text-decoration: black;
+  
+}
+#ji[b-c117wt9bj9]{
+  color: black;
+  text-decoration: black;
+}

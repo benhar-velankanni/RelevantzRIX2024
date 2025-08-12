@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5961DB-6E21-348A-65DC-400DB10E791C}|..\\Online_Salon_NUNIT_Test\\Online_Salon_NUNIT_Test.csproj|d:\\asp\\onlinesalonmanagementsystem\\online_salon_nunit_test\\saloncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5961DB-6E21-348A-65DC-400DB10E791C}|..\\Online_Salon_NUNIT_Test\\Online_Salon_NUNIT_Test.csproj|d:\\asp\\onlinesalonmanagementsystem\\online_salon_nunit_test\\servicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF361FB-586F-9D9D-310C-C224BC010DA5}|OnlineSalonManagementSystem.csproj|d:\\asp\\onlinesalonmanagementsystem\\online_salon_backend\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF361FB-586F-9D9D-310C-C224BC010DA5}|OnlineSalonManagementSystem.csproj|solutionrelative:controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF361FB-586F-9D9D-310C-C224BC010DA5}|OnlineSalonManagementSystem.csproj|d:\\asp\\onlinesalonmanagementsystem\\online_salon_backend\\controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF361FB-586F-9D9D-310C-C224BC010DA5}|OnlineSalonManagementSystem.csproj|solutionrelative:controllers\\saloncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5961DB-6E21-348A-65DC-400DB10E791C}|..\\Online_Salon_NUNIT_Test\\Online_Salon_NUNIT_Test.csproj|d:\\asp\\onlinesalonmanagementsystem\\online_salon_nunit_test\\inventorycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_Backend\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceController.cs",
+              "ToolTip": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_Backend\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowEoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:23:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceControllerTests.cs",
+              "DocumentMoniker": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_NUNIT_Test\\ServiceControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Online_Salon_NUNIT_Test\\ServiceControllerTests.cs",
+              "ToolTip": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_NUNIT_Test\\ServiceControllerTests.cs",
+              "RelativeToolTip": "..\\Online_Salon_NUNIT_Test\\ServiceControllerTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:23:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalonControllerTests.cs",
+              "DocumentMoniker": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_NUNIT_Test\\SalonControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Online_Salon_NUNIT_Test\\SalonControllerTests.cs",
+              "ToolTip": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_NUNIT_Test\\SalonControllerTests.cs",
+              "RelativeToolTip": "..\\Online_Salon_NUNIT_Test\\SalonControllerTests.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwFsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:11:00.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalonController.cs",
+              "DocumentMoniker": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_Backend\\Controllers\\SalonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalonController.cs",
+              "ToolTip": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_Backend\\Controllers\\SalonController.cs",
+              "RelativeToolTip": "Controllers\\SalonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T09:11:27.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryControllerTests.cs",
+              "DocumentMoniker": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_NUNIT_Test\\InventoryControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Online_Salon_NUNIT_Test\\InventoryControllerTests.cs",
+              "ToolTip": "D:\\Asp\\OnlineSalonManagementSystem\\Online_Salon_NUNIT_Test\\InventoryControllerTests.cs",
+              "RelativeToolTip": "..\\Online_Salon_NUNIT_Test\\InventoryControllerTests.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAcwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T08:56:56.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
