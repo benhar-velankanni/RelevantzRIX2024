@@ -1,0 +1,20 @@
+Algorithm:
+
+1. Start Program.
+2. Open the online bus booking portal.
+3. Enter the departure city.
+4. Enter the destination city.
+5. Select the travel date.
+6. Search for available buses.
+7. Display the list of available buses.
+8. Select the desired bus.
+    IF bus not available, then go to step 8.
+9. Select the seat(s).
+    IF seats not available, then go to step 9.
+10. Enter passenger details (name, age, contact information).
+11. Proceed to payment.
+12. Enter payment details (credit card, debit card, net banking, etc.).
+13. Confirm payment.
+14. Generate the ticket.
+15. Send ticket details to the passenger via email/SMS.
+16. Stop Program.

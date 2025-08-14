@@ -1,0 +1,64 @@
+form {
+  width: 50%;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: lightpink;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: pink;
+  border: 1px solid black;
+}
+
+td {
+  padding: 10px;
+  text-align: left;
+}
+
+label {
+  text-align: left;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: pink;
+  border: 1px solid black;
+}
+
+checkbox {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: pink;
+  border: 1px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+::placeholder {
+  color: lightslategrey;
+}
+
+.Reset {
+  float: right;
+  margin-top: 30px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: pink;
+  border: 1px solid black;
+}
+
+.Submit {
+  margin-top: 30px;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: pink;
+  border: 1px solid black;
+}

@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\bin\Debug\net8.0\Inventory.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\bin\Debug\net8.0\Inventory.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\bin\Debug\net8.0\Inventory.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\bin\Debug\net8.0\Inventory.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\bin\Debug\net8.0\Inventory.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\Inventory.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\refint\Inventory.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\Inventory.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\Inventory.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Inventory\obj\Debug\net8.0\ref\Inventory.dll

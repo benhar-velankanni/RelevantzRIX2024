@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "NameService.Controllers.NameServiceController",
+    "Method": "GetAll",
+    "RelativePath": "api/NameService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NameService.Controllers.NameServiceController",
+    "Method": "Create",
+    "RelativePath": "api/NameService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nameItem",
+        "Type": "NameService.Model.Name",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NameService.Controllers.NameServiceController",
+    "Method": "Get",
+    "RelativePath": "api/NameService/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NameService.Controllers.NameServiceController",
+    "Method": "Update",
+    "RelativePath": "api/NameService/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "nameItem",
+        "Type": "NameService.Model.Name",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NameService.Controllers.NameServiceController",
+    "Method": "Delete",
+    "RelativePath": "api/NameService/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+Algorithm:
+
+1. Start Program.
+2. Obtain size of the array from the user.
+3. Initiate an array of the given size.
+4. Using a loop, obtain the values to fill the array.
+5. Initialize (min) to be the 1st number of the array.
+6. For each number in te array (using a loop), from the 2nd number of the array,
+    IF the number is smaller than (min), then update (min).
+    ELSE continue to next number, till the end of the array.
+7. Print (min)
+8. Stop Program.

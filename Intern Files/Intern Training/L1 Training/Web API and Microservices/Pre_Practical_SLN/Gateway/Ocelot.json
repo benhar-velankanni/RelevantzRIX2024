@@ -1,0 +1,30 @@
+//Ocelot.json
+
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/StudentAPI",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamPathTemplate": "/api/StudentAPI",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5082
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/StudentAPI/{id}",
+      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+      "DownstreamPathTemplate": "/api/StudentAPI/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5082
+        }
+      ]
+    }
+  ]
+}

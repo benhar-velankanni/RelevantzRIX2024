@@ -1,0 +1,10 @@
+Algorithm:
+
+1. Start Program.
+2. Open the YouTube application or website.
+3. Locate the search bar.
+4. Type "Java Tutorial" into the search bar.
+5. Click the search button.
+6. Display the search results.
+7. Optionally, select a specific video from the search results.
+8. End Program.

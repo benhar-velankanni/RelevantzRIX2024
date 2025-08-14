@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D89834-44B3-4FAA-B0FA-BF01EC9E1D91}|ProductManagement.Tests\\ProductManagement.Tests.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagement.tests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D89834-44B3-4FAA-B0FA-BF01EC9E1D91}|ProductManagement.Tests\\ProductManagement.Tests.csproj|solutionrelative:productmanagement.tests\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9D89834-44B3-4FAA-B0FA-BF01EC9E1D91}|ProductManagement.Tests\\ProductManagement.Tests.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagement.tests\\productmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9D89834-44B3-4FAA-B0FA-BF01EC9E1D91}|ProductManagement.Tests\\ProductManagement.Tests.csproj|solutionrelative:productmanagement.tests\\productmanagement.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagementsystem\\productmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\productmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\productmanagementsystem\\productmanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E89F9FFC-3D17-4273-ACA0-1207B0D07FBC}|ProductManagementSystem\\ProductManagementSystem.csproj|solutionrelative:productmanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagementSystem",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\ProductManagementSystem.csproj",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\ProductManagementSystem.csproj",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\ProductManagementSystem.csproj",
+              "RelativeToolTip": "ProductManagementSystem\\ProductManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T04:07:20.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagement.Tests",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagement.Tests\\ProductManagement.Tests.csproj",
+              "RelativeDocumentMoniker": "ProductManagement.Tests\\ProductManagement.Tests.csproj",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagement.Tests\\ProductManagement.Tests.csproj",
+              "RelativeToolTip": "ProductManagement.Tests\\ProductManagement.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T04:06:53.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagement.Tests\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "ProductManagement.Tests\\ProductsControllerTests.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagement.Tests\\ProductsControllerTests.cs",
+              "RelativeToolTip": "ProductManagement.Tests\\ProductsControllerTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:04:41.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Program.cs",
+              "RelativeToolTip": "ProductManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:01:32.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\appsettings.json",
+              "RelativeToolTip": "ProductManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T04:01:21.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T03:58:31.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductManagementSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T03:58:11.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem\\Models\\Product.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\ProductManagementSystem\\ProductManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T03:57:58.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

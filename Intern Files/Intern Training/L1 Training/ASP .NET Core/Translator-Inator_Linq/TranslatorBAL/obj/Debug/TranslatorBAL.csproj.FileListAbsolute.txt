@@ -1,0 +1,15 @@
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\obj\Debug\TranslatorBAL.csproj.AssemblyReference.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\obj\Debug\TranslatorBAL.csproj.CoreCompileInputs.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorBAL.dll.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorBAL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorBAL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorDAL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorMD.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\EntityFramework.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorDAL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorDAL.dll.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\TranslatorMD.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\bin\Debug\EntityFramework.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\obj\Debug\Translat.3B37BD2F.Up2Date
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\obj\Debug\TranslatorBAL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorBAL\obj\Debug\TranslatorBAL.pdb

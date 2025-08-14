@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "CatalogServices.Controllers.CatalogController",
+    "Method": "GetAll",
+    "RelativePath": "api/Catalog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogServices.Controllers.CatalogController",
+    "Method": "Create",
+    "RelativePath": "api/Catalog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "catalog",
+        "Type": "CatalogServices.Model.Catalog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogServices.Controllers.CatalogController",
+    "Method": "Get",
+    "RelativePath": "api/Catalog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogServices.Controllers.CatalogController",
+    "Method": "Update",
+    "RelativePath": "api/Catalog/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "catalog",
+        "Type": "CatalogServices.Model.Catalog",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CatalogServices.Controllers.CatalogController",
+    "Method": "Delete",
+    "RelativePath": "api/Catalog/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

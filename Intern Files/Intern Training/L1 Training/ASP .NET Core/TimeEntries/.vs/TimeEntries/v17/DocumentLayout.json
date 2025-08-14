@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\TimeEntries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62D0F10E-25B5-475B-986C-A4D853843C8F}|TimeEntries\\TimeEntries.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\timeentries\\timeentries\\entity\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D0F10E-25B5-475B-986C-A4D853843C8F}|TimeEntries\\TimeEntries.csproj|solutionrelative:timeentries\\entity\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D0F10E-25B5-475B-986C-A4D853843C8F}|TimeEntries\\TimeEntries.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\timeentries\\timeentries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D0F10E-25B5-475B-986C-A4D853843C8F}|TimeEntries\\TimeEntries.csproj|solutionrelative:timeentries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D0F10E-25B5-475B-986C-A4D853843C8F}|TimeEntries\\TimeEntries.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\timeentries\\timeentries\\controllers\\timeentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D0F10E-25B5-475B-986C-A4D853843C8F}|TimeEntries\\TimeEntries.csproj|solutionrelative:timeentries\\controllers\\timeentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\TimeEntries\\TimeEntries\\Program.cs",
+              "RelativeDocumentMoniker": "TimeEntries\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\TimeEntries\\TimeEntries\\Program.cs",
+              "RelativeToolTip": "TimeEntries\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:16:15.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeEntryController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\TimeEntries\\TimeEntries\\Controllers\\TimeEntryController.cs",
+              "RelativeDocumentMoniker": "TimeEntries\\Controllers\\TimeEntryController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\TimeEntries\\TimeEntries\\Controllers\\TimeEntryController.cs",
+              "RelativeToolTip": "TimeEntries\\Controllers\\TimeEntryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:01:27.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimeEntry.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\TimeEntries\\TimeEntries\\Entity\\TimeEntry.cs",
+              "RelativeDocumentMoniker": "TimeEntries\\Entity\\TimeEntry.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\TimeEntries\\TimeEntries\\Entity\\TimeEntry.cs",
+              "RelativeToolTip": "TimeEntries\\Entity\\TimeEntry.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T04:51:06.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

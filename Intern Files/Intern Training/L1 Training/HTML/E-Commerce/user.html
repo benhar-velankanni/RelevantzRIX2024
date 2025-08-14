@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Z-Commerce Store</title>
+    <link rel="stylesheet" href="user.css">
+</head>
+<body>
+    <div class="nav-bar">
+        <h1>Z-COMMERCE STORE</h1>
+        <a href="index.html">LOGOUT</a>
+    </div>
+    
+    <div class="filter">
+        <label for="category-filter">FILTER: </label>
+        <select id="category-filter">
+            <option value="all">All</option>
+            <option value="electronics">Electronics</option>
+            <option value="accessories">Accessories</option>
+            <option value="appliances">Appliances</option>
+            <option value="beauty">Beauty</option>
+            <option value="food">Food</option>
+            <option value="toys">Toys</option>
+        </select>
+    </div>
+
+    <div class="products">
+        <div class="product-card" data-category="electronics">
+            <img src="./img/watch.png" alt="Watch">
+            <div class="info">
+                <h3>Watch</h3>
+                <p>₹2,000</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+
+        <div class="product-card" data-category="accessories">
+            <img src="./img/s.jfif" alt="Shoes">
+            <div class="info">
+                <h3>Shoes</h3>
+                <p>₹1,500</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+
+        <div class="product-card" data-category="electronics">
+            <img src="./img/ip.jfif" alt="iPhone">
+            <div class="info">
+                <h3>iPhone</h3>
+                <p>₹1,50,000</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+
+        <div class="product-card" data-category="toys">
+            <img src="./img/toy_2.jfif" alt="Goku Figurine">
+            <div class="info">
+                <h3>Goku Figurine</h3>
+                <p>₹17,001</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+
+        <div class="product-card" data-category="appliances">
+            <img src="./img/micro.jfif" alt="Microwave">
+            <div class="info">
+                <h3>Microwave</h3>
+                <p>₹10,000</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+
+        <div class="product-card" data-category="accessories">
+            <img src="./img/wallet.jfif" alt="Wallet">
+            <div class="info">
+                <h3>Wallet</h3>
+                <p>₹1,000</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+
+        <div class="product-card" data-category="beauty">
+            <img src="./img/straight.jfif" alt="Hair Straightener">
+            <div class="info">
+                <h3>Hair Straightener</h3>
+                <p>₹5,000</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+
+        <div class="product-card" data-category="food">
+            <img src="./img/Oil.jfif" alt="Sunflower Oil">
+            <div class="info">
+                <h3>Sunflower Oil</h3>
+                <p>₹152</p>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+        <div class="product-card" data-category="beauty"> <img src="./img/lash.jfif" alt="Product 4"> <div class="info"> <h3>Eye Lashes</h3> <p>₹225</p> <button>Add to Cart</button> </div> </div> <div class="product-card"> <img src="./img/curl.jfif" alt="Product 4"> <div class="info"> <h3>Hair Curler</h3> <p>₹2,500</p> <button>Add to Cart</button> </div> </div> <div class="product-card"data-category="food"> <img src="./img/Coffee.jfif" alt="Product 4"> <div class="info"> <h3>Coffee</h3> <p>₹300</p> <button>Add to Cart</button> </div> </div> <div class="product-card" data-category="beauty"> <img src="./img/foundation.jfif" alt="Product 4"> <div class="info"> <h3>Foundation</h3> <p>₹1,500</p> <button>Add to Cart</button> </div> </div> </div>
+        
+    </div>
+
+    <script>
+        const filterDropdown = document.getElementById('category-filter');
+const productCards = document.querySelectorAll('.product-card');
+
+filterDropdown.addEventListener('change', function () {
+    const selectedCategory = filterDropdown.value;
+
+    productCards.forEach(card => {
+        if (selectedCategory === 'all' || card.dataset.category === selectedCategory) {
+            card.style.display = 'block';
+        } else {
+            card.style.display = 'none'; 
+        }
+    });
+});
+    </script>
+</body>
+</html>

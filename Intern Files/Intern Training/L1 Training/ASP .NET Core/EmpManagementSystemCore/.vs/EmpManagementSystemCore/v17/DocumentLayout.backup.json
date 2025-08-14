@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\repository\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\empmanagementsystemcore\\empmanagementsystemcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDC5D5B-267E-42A1-83EF-ABDD51E6D5DF}|EmpManagementSystemCore\\EmpManagementSystemCore.csproj|solutionrelative:empmanagementsystemcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmpManagementSystemCore\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-21T06:58:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EmpManagementSystemCore\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-21T06:57:30.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmpManagementSystemCore\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-21T06:55:24.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmpManagementSystemCore\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-21T06:48:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmpManagementSystemCore\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:29:15.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmpManagementSystemCore\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:34:56.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Program.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Program.cs",
+              "RelativeToolTip": "EmpManagementSystemCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:19:29.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\appsettings.json",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\appsettings.json",
+              "RelativeToolTip": "EmpManagementSystemCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-21T05:18:07.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmpManagementSystemCore\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:17:21.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Repository\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Repository\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Repository\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmpManagementSystemCore\\Repository\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:04:13.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "EmpManagementSystemCore\\Entity\\Employee.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmpManagementSystemCore\\EmpManagementSystemCore\\Entity\\Employee.cs",
+              "RelativeToolTip": "EmpManagementSystemCore\\Entity\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:02:18.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

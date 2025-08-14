@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\bin\Debug\net8.0\Mobile.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\bin\Debug\net8.0\Mobile.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\bin\Debug\net8.0\Mobile.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\bin\Debug\net8.0\Mobile.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\bin\Debug\net8.0\Mobile.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\Mobile.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\Mobile.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\Mobile.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\Mobile.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\refint\Mobile.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\Mobile.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\Mobile.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Mobile\obj\Debug\net8.0\ref\Mobile.dll

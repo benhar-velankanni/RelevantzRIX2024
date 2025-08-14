@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\bin\Debug\net8.0\Shapes_2.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\bin\Debug\net8.0\Shapes_2.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\bin\Debug\net8.0\Shapes_2.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\bin\Debug\net8.0\Shapes_2.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\bin\Debug\net8.0\Shapes_2.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\Shapes_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\Shapes_2.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\Shapes_2.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\Shapes_2.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\Shapes_2.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\refint\Shapes_2.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\Shapes_2.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\Shapes_2.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Shapes_2\obj\Debug\net8.0\ref\Shapes_2.dll

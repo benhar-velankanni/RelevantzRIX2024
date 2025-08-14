@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Page</title>
+    <link rel="stylesheet" href="admin.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+
+    <div class="nav-bar">
+        <h1>ADMIN DASHBOARD</h1>
+        <a href="index.html">LOGOUT</a>
+    </div>
+    
+    <div class="container">
+        <h2>Manage Products</h2>
+
+
+        <table class="product-table">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Product Name</th>
+                    <th>Price</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="./img/watch.png" alt="Product 1"></td>
+                    <td>Watch</td>
+                    <td>₹2,000</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/s.jfif" alt="Product 2"></td>
+                    <td>Shoes</td>
+                    <td>₹1,500</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/ip.jfif" alt="Product 3"></td>
+                    <td>iPhone</td>
+                    <td>₹1,50,000</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/toy_2.jfif" alt="Product 4"></td>
+                    <td>Gofu Figurine</td>
+                    <td>₹17,000</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/micro.jfif" alt="Product 4"></td>
+                    <td>Micro Wave</td>
+                    <td>₹10,000</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/wallet.jfif" alt="Product 4"></td>
+                    <td>Wallet</td>
+                    <td>₹1,000</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/straight.jfif" alt="Product 4"></td>
+                    <td>Hair Straightner</td>
+                    <td>₹5,000</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/Oil.jfif" alt="Product 4"></td>
+                    <td>SunFlower Oil</td>
+                    <td>₹152</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/lash.jfif" alt="Product 4"></td>
+                    <td>Eye Lashes</td>
+                    <td>₹325</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/curl.jfif" alt="Product 4"></td>
+                    <td>Hair Curler</td>
+                    <td>₹2,500</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td><img src="./img/Coffee.jfif" alt="Product 4"></td>
+                    <td>Coffee</td>
+                    <td>₹300</td>
+                    <td>
+                        <button class="editbtn">Edit</button>
+                        <button class="deletebtn">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <h3>Add New Product</h3>
+        <form id="add-product-form">
+            <div class="form-group">
+                <label for="product-name">Product Name:</label>
+                <input type="text" id="product-name" name="product-name" required>
+            </div>
+            <div class="form-group">
+                <label for="product-price">Price:</label>
+                <input type="text" id="product-price" name="product-price" required>
+            </div>
+            <div class="form-group">
+                <label for="product-image">Image URL:</label>
+                <input type="text" id="product-image" name="product-image" required>
+            </div>
+            <div class="form-group">
+                <button type="submit">Add Product</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

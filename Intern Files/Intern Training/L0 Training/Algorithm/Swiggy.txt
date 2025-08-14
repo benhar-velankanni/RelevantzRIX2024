@@ -1,0 +1,17 @@
+Algorithm:
+
+1. Start Program.
+2. Open the Swiggy app.
+3. Log in to your account (if not already logged in).
+4. Search for the desired restaurant or type of cuisine.
+5. Browse the menu.
+6. Select the favorite food item.
+7. Add the selected item to the cart.
+8. Review the cart and make any necessary modifications.
+9. Proceed to checkout
+10. Enter delivery address or select a saved address.
+11. Choose the payment method.
+12. Complete the payment process.
+13. Confirm the order.
+14. Wait for order confirmation and estimated delivery time.
+15. End Program.

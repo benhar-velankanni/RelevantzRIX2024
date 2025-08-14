@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Details Form</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .form-container {
+            background: #fff;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .btn-custom {
+            background-color: #8133fe;
+            color: white;
+            transition: 0.3s;
+        }
+        .btn-custom:hover {
+            background-color: #681ea9;
+            color: white;
+        }
+
+        video{
+            z-index: -1;
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 150vh;
+        }
+    </style>
+</head>
+<body>
+    <video autoplay muted loop src="./Media/BackgroundVideo.mp4"></video>
+    <div class="container mt-5">
+        <div class="form-container mx-auto">
+            <h2 class="text-center mb-4">Employee Details Form</h2>
+            <form>
+                <div class="mb-3">
+                    <label for="employeeName" class="form-label">Employee Name</label>
+                    <input type="text" class="form-control" id="employeeName" placeholder="Enter full name" required pattern="[A-Za-z\s]+" title="Name should only contain letters and spaces">
+                </div>
+                <div class="mb-3">
+                    <label for="employeeEmail" class="form-label">Email Address</label>
+                    <input type="email" class="form-control" id="employeeEmail" placeholder="Enter email" required>
+                </div>
+                <div class="mb-3">
+                    <label for="employeePhone" class="form-label">Phone Number</label>
+                    <input type="tel" class="form-control" id="employeePhone" placeholder="Enter phone number" required pattern="\d{10}" title="Phone number must be 10 digits">
+                </div>
+                <div class="mb-3">
+                    <label for="employeePosition" class="form-label">Position</label>
+                    <input type="text" class="form-control" id="employeePosition" placeholder="Enter job position" required>
+                </div>
+                <div class="mb-3">
+                    <label for="employeeDepartment" class="form-label">Department</label>
+                    <select class="form-select" id="employeeDepartment" required>
+                        <option value="" selected disabled>Select department</option>
+                        <option value="HR">HR</option>
+                        <option value="Finance">Finance</option>
+                        <option value="Development">Development</option>
+                        <option value="Sales">Sales</option>
+                    </select>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="agreement" required>
+                    <label class="form-check-label" for="agreement">I confirm the above details are correct</label>
+                </div>
+                <button type="submit" class="btn btn-custom w-100">Submit</button>
+            </form>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

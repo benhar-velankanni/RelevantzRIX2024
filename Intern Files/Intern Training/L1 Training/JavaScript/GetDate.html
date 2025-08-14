@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Today's Date</title>
+  </head>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: black;
+      font: 14px Arial, sans-serif;
+      font-weight: bold;
+    }
+
+    #end_result {
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid white;
+      border-radius: 5px;
+      outline: none;
+      color: black;
+      background-color: white;
+      font: 14px Arial, sans-serif;
+      font-weight: bold;
+    }
+
+    button {
+      margin: 5px;
+      padding: 10px 10px;
+      font-size: 16px;
+      border: 1px solid white;
+      border-radius: 5px;
+      background-color: white;
+      color: black;
+      cursor: pointer;
+      transition: 0.3s;
+      font: 14px Arial, sans-serif;
+      font-weight: bold;
+    }
+
+    button:hover {
+      background-color: black;
+      color: white;
+      border: 1px solid white;
+    }
+  </style>
+  <body>
+    <table>
+      <tr>
+        <td>
+          <input type="text" id="end_result" placeholder="Output" disabled />
+        </td>
+        <td><button onclick="GetToday()">Get Date</button></td>
+        <td><button onclick="ResetInput()">Reset</button></td>
+      </tr>
+    </table>
+  </body>
+</html>
+<script>
+  function ResetInput() {
+    document.getElementById("end_result").value = "";
+  }
+
+  function GetToday() {
+    const d = new Date();
+    document.getElementById("end_result").value =
+      d.getDate() + "/" + (d.getMonth()+1) + "/" + d.getFullYear();
+  }
+</script>

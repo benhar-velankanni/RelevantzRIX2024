@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "APIs",
+    "Projects": [
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "LanguageDetectionService\\LanguageDetectionService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "TranslationEngineService\\TranslationEngineService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "GlossaryManagementService\\GlossaryManagementService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+﻿@page
+@model DemoRazor.Pages.RegistrationModel
+@{
+
+    ViewData["Title"] = "User Registration";
+
+}
+
+
+
+<div class="container mt-5">
+    <h2>User Registration</h2>
+    <form method="post">
+        <div class="mb-3">
+            <label asp-for="User.Username" class="form-label">Username</label>
+            <input asp-for="User.Username" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="User.Email" class="form-label">Email</label>
+            <input asp-for="User.Email" class="form-control" type="email" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="User.Password" class="form-label">Password</label>
+            <input asp-for="User.Password" class="form-control" type="password" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="User.ConfirmPassword" class="form-label">Confirm Password</label>
+            <input asp-for="User.ConfirmPassword" class="form-control" type="password" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="User.DateOfBirth" class="form-label">Date of Birth</label>
+            <input asp-for="User.DateOfBirth" class="form-control" type="date" />
+        </div>
+        <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+</div>
+

@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\libraryapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\libraryapi\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|solutionrelative:model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\libraryapi\\libraryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|solutionrelative:libraryapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\libraryapi\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4A8538-82A3-40B5-B566-49E336D804AC}|LibraryApi.csproj|solutionrelative:controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryApi.http",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\LibraryApi.http",
+              "RelativeDocumentMoniker": "LibraryApi.http",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\LibraryApi.http",
+              "RelativeToolTip": "LibraryApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-04T05:32:39.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Model\\LoginModel.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Model\\LoginModel.cs",
+              "RelativeToolTip": "Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:31:07.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:24:49.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:23:53.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecureController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\LibraryApi\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:23:07.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

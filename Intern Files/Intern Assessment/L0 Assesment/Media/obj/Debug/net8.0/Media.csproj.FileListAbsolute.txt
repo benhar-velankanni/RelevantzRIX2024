@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\bin\Debug\net8.0\Media.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\bin\Debug\net8.0\Media.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\bin\Debug\net8.0\Media.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\bin\Debug\net8.0\Media.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\bin\Debug\net8.0\Media.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\Media.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\Media.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\Media.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\refint\Media.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\Media.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\Media.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Media\obj\Debug\net8.0\ref\Media.dll

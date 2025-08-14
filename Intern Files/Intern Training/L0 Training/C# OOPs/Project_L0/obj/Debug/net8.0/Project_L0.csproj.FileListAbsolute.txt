@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\bin\Debug\net8.0\Project_L0.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\bin\Debug\net8.0\Project_L0.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\bin\Debug\net8.0\Project_L0.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\bin\Debug\net8.0\Project_L0.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\bin\Debug\net8.0\Project_L0.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\Project_L0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\Project_L0.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\Project_L0.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\Project_L0.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\Project_L0.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\refint\Project_L0.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\Project_L0.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\Project_L0.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Project_L0\obj\Debug\net8.0\ref\Project_L0.dll

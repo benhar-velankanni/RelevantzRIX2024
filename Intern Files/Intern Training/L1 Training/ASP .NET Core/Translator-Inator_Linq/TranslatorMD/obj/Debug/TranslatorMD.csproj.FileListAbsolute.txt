@@ -1,0 +1,6 @@
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorMD\obj\Debug\TranslatorMD.csproj.AssemblyReference.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorMD\obj\Debug\TranslatorMD.csproj.CoreCompileInputs.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorMD\bin\Debug\TranslatorMD.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorMD\bin\Debug\TranslatorMD.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorMD\obj\Debug\TranslatorMD.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\Translator-Inator_Linq\TranslatorMD\obj\Debug\TranslatorMD.pdb

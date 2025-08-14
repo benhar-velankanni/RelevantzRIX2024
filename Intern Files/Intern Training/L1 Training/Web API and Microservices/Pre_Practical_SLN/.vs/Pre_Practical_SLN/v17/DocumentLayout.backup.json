@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C85E3-3CD0-4EF2-8919-21670BF4B44A}|Gateway\\Gateway.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C85E3-3CD0-4EF2-8919-21670BF4B44A}|Gateway\\Gateway.csproj|solutionrelative:gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\student_frontend\\src\\pages\\studentpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|solutionrelative:student_frontend\\src\\pages\\studentpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\student_frontend\\src\\components\\studentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|solutionrelative:student_frontend\\src\\components\\studentform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\student_frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|solutionrelative:student_frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\student_frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|solutionrelative:student_frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\student_frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|solutionrelative:student_frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\studentapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\student_frontend\\src\\components\\studentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D947BA93-C7FC-2B07-2A9B-CC05EE84FFC5}|Student_FrontEnd\\student_frontend.esproj|solutionrelative:student_frontend\\src\\components\\studentlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C85E3-3CD0-4EF2-8919-21670BF4B44A}|Gateway\\Gateway.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{094C85E3-3CD0-4EF2-8919-21670BF4B44A}|Gateway\\Gateway.csproj|solutionrelative:gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\studentapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\pre_practical_sln\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0216FFBE-8EFB-4CC2-8D39-57EE82ED5CD7}|StudentAPI\\StudentAPI.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "student_frontend\\src\\main.jsx",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\main.jsx",
+              "RelativeToolTip": "student_frontend\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-09T15:56:57.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.jsx",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "student_frontend\\src\\App.jsx",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\App.jsx",
+              "RelativeToolTip": "student_frontend\\src\\App.jsx",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-09T15:46:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "student_frontend\\src\\App.css",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\App.css",
+              "RelativeToolTip": "student_frontend\\src\\App.css",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-09T15:45:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentPage.jsx",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\pages\\StudentPage.jsx",
+              "RelativeDocumentMoniker": "student_frontend\\src\\pages\\StudentPage.jsx",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\pages\\StudentPage.jsx",
+              "RelativeToolTip": "student_frontend\\src\\pages\\StudentPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-09T15:45:40.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentForm.jsx",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\components\\StudentForm.jsx",
+              "RelativeDocumentMoniker": "student_frontend\\src\\components\\StudentForm.jsx",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\components\\StudentForm.jsx",
+              "RelativeToolTip": "student_frontend\\src\\components\\StudentForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-09T15:45:23.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "StudentAPI\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:41:27.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Gateway\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\Gateway\\Program.cs",
+              "RelativeToolTip": "Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:44:52.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Program.cs",
+              "RelativeToolTip": "StudentAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:42:44.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentList.jsx",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\components\\StudentList.jsx",
+              "RelativeDocumentMoniker": "student_frontend\\src\\components\\StudentList.jsx",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\student_frontend\\src\\components\\StudentList.jsx",
+              "RelativeToolTip": "student_frontend\\src\\components\\StudentList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-07-09T15:45:09.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\Gateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "Gateway\\Ocelot.json",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\Gateway\\Ocelot.json",
+              "RelativeToolTip": "Gateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T15:43:56.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAPI\\appsettings.json",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\appsettings.json",
+              "RelativeToolTip": "StudentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T15:40:56.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:40:45.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAPI\\Model\\Student.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\Pre_Practical_SLN\\StudentAPI\\Model\\Student.cs",
+              "RelativeToolTip": "StudentAPI\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:37:55.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

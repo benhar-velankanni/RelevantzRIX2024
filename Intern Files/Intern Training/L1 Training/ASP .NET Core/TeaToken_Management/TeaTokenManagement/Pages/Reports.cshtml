@@ -1,0 +1,42 @@
+﻿@page
+@model ReportsModel
+@{
+    ViewData["Title"] = "Daily Report";
+}
+
+<h2>Daily Report</h2>
+
+<form method="get" class="form-inline mb-3">
+    <label>Date:</label>
+    <input type="date" asp-for="ReportDate" class="form-control mx-2" />
+    <label>Session:</label>
+    <select asp-for="Session" class="form-control mx-2">
+        <option>Morning</option>
+        <option>Evening</option>
+    </select>
+    <button type="submit" class="btn btn-success">View</button>
+</form>
+
+@if (Model.ReportGenerated)
+{
+    <h4>✅ Consumed</h4>
+    <ul>
+        @foreach (var log in Model.Consumed)
+        {
+            <li class="fs-5">
+                @log.Employee.Name - @log.DrinkType =>
+                <a asp-page="/EditToken" asp-route-id="@log.TeaTokenLogId" class="btn btn-outline-primary">Edit</a> |
+                <a asp-page="/DeleteToken" asp-route-id="@log.TeaTokenLogId" class="btn btn-outline-danger">Delete</a>
+            </li>
+            
+        }
+    </ul>
+
+    <h4>❌ Not Consumed</h4>
+    <ul>
+        @foreach (var emp in Model.NotConsumed)
+        {
+            <li>@emp.Name</li>
+        }
+    </ul>
+}

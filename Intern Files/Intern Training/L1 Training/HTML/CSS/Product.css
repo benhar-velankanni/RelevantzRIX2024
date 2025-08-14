@@ -1,0 +1,56 @@
+body {
+  background-size: cover;
+  background-color: black;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.form-container {
+  max-width: 500px;
+  margin: auto;
+  border: 3px solid gray;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.form-container input,
+.form-container select,
+.form-container textarea {
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.Reset {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: gray;
+  border: 1px solid black;
+}
+
+.Reset:hover {
+  background-color: black;
+  color: white;
+}
+
+.Submit {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: gray;
+  border: 1px solid black;
+}
+
+.Submit:hover {
+  background-color: black;
+  color: white;
+}

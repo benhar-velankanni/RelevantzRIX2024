@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\bin\Debug\net8.0\CollegeInherit.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\bin\Debug\net8.0\CollegeInherit.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\bin\Debug\net8.0\CollegeInherit.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\bin\Debug\net8.0\CollegeInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\bin\Debug\net8.0\CollegeInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\CollegeInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\CollegeInherit.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\CollegeInherit.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\CollegeInherit.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\CollegeInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\refint\CollegeInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\CollegeInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\CollegeInherit.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\CollegeInherit\obj\Debug\net8.0\ref\CollegeInherit.dll

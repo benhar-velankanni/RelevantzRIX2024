@@ -1,0 +1,147 @@
+//{
+//  "Routes": [
+//    {
+//      "DownstreamPathTemplate": "/api/ShippingService",
+//      "DownstreamScheme": "https",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 7206
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/shipping/api/ShippingService",
+//      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+//      "SwaggerKey": "shipping"
+//    },
+//    {
+//      "DownstreamPathTemplate": "/api/ShippingService/{id}",
+//      "DownstreamScheme": "https",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 7206
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/shipping/api/ShippingService/{id}",
+//      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+//      "SwaggerKey": "shipping"
+//    },
+//    {
+//      "DownstreamPathTemplate": "/api/Catalog",
+//      "DownstreamScheme": "https",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 7065
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/usingcatalog/api/Catalog",
+//      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+//      "SwaggerKey": "usingcatalog"
+//    },
+//    {
+//      "DownstreamPathTemplate": "/api/Catalog/{id}",
+//      "DownstreamScheme": "https",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 7065
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/usingcatalog/api/Catalog/{id}",
+//      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+//      "SwaggerKey": "usingcatalog"
+//    },
+//    {
+//      "DownstreamPathTemplate": "/api/CustomerService",
+//      "DownstreamScheme": "https",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 7141
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/api/CustomerService",
+//      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
+//      "SwaggerKey": "customer"
+//    },
+//    {
+//      "DownstreamPathTemplate": "/api/CustomerService/{id}",
+//      "DownstreamScheme": "https",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "localhost",
+//          "Port": 7141
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/api/CustomerService/{id}",
+//      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+//      "SwaggerKey": "customer"
+//    }
+//  ],
+//  "SwaggerEndPoints": [
+//    {
+//      "Key": "shipping",
+//      "Config": [
+//        {
+//          "Name": "Shipping Service",
+//          "Version": "v1",
+//          "URL": "http://localhost:5092/swagger/v1/swagger.json"
+//        }
+//      ]
+//    },
+//    {
+//      "Key": "usingcatalog",
+//      "Config": [
+//        {
+//          "Name": "Catalog Service",
+//          "Version": "v1",
+//          "URL": "http://localhost:5088/swagger/v1/swagger.json"
+//        }
+//      ]
+//    },
+//    {
+//      "Key": "customer",
+//      "Config": [
+//        {
+//          "Name": "Customer Service",
+//          "Version": "v1",
+//          "URL": "http://localhost:5152/swagger/v1/swagger.json"
+//        }
+//      ]
+//    }
+//  ],
+//  "GlobalConfiguration": {
+//    "BaseUrl": "https://localhost:7219"
+//  }
+//}
+
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/ShippingService",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamPathTemplate": "/api/ShippingService",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7206
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/ShippingService/{id}",
+      "UpstreamHttpMethod": [ "GET", "PUT","DELETE" ],
+      "DownstreamPathTemplate": "/api/ShippingService/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7206
+        }
+      ]
+    }
+  ]
+}
+ 

@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\bin\Debug\net8.0\Task Manager.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\bin\Debug\net8.0\Task Manager.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\bin\Debug\net8.0\Task Manager.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\bin\Debug\net8.0\Task Manager.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\bin\Debug\net8.0\Task Manager.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\Task Manager.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\Task Manager.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\Task Manager.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\refint\Task Manager.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\Task Manager.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\Task Manager.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\Final Assessment\Task Manager\obj\Debug\net8.0\ref\Task Manager.dll

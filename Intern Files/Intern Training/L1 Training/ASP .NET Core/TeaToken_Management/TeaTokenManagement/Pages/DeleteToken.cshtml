@@ -1,0 +1,23 @@
+﻿@page "{id:int}"
+@model DeleteTokenModel
+@{
+    ViewData["Title"] = "Delete Token";
+}
+
+<h2>Delete Token Entry</h2>
+
+<div class="alert alert-warning">
+    Are you sure you want to delete this entry?
+</div>
+
+<form method="post">
+    <input type="hidden" asp-for="TokenLog.TeaTokenLogId" />
+
+    <p><strong>Employee:</strong> @Model.TokenLog.Employee?.Name</p>
+    <p><strong>Date:</strong> @Model.TokenLog.Date.ToShortDateString()</p>
+    <p><strong>Session:</strong> @Model.TokenLog.Session</p>
+    <p><strong>Drink:</strong> @Model.TokenLog.DrinkType</p>
+
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-page="/Reports" class="btn btn-secondary">Cancel</a>
+</form>

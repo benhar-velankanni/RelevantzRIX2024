@@ -1,0 +1,12 @@
+Algorithm:
+
+1. Start Program.
+2. Obtain size of the array from the user.
+3. Initiate an array of the given size.
+4. Using a loop, obtain the values to fill the array.
+5. Initiate a variable "sum", with the value "0".
+6. Using loop traversal, acess every array element and add element to the "sum" variable.
+7. Initate a variable called "avg".
+8. Calculate the average by dividing the value of "sum" with the size of the array, and store the value in "avg".
+9. Print "sum" and "avg".
+10. Stop Program.

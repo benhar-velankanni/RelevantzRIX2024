@@ -1,0 +1,12 @@
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\bin\Debug\EmployeeManagementSystemMD.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\bin\Debug\EmployeeManagementSystemMD.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.csproj.AssemblyReference.cache
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.csproj.CoreCompileInputs.cache
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\bin\Debug\EmployeeManagementSystemMD.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\bin\Debug\EmployeeManagementSystemMD.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.csproj.AssemblyReference.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.csproj.CoreCompileInputs.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemMD\obj\Debug\EmployeeManagementSystemMD.pdb

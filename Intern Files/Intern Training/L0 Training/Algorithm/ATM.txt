@@ -1,0 +1,11 @@
+Algorithm:
+
+1. Start Program.
+2. Initiate an integer called balance with the current balance of the account.
+3. Obtain the withdrawal amount from the user, and store it in an integer called withdrawAmount.
+4. Check if withdrawAmount is greater than balance: 4.1 If true,
+	print "Insufficient funds." 4.2 If false, proceed to the next step.
+5. Subtract withdrawAmount from balance.
+6. Dispense the withdrawAmount in cash.
+7. Print the new balance.
+8. Stop Program.

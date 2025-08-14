@@ -1,0 +1,35 @@
+﻿@model OnlineTraining.Models.Training
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<link href="https://cdn.jsdelivr.net/npm.3.0/dist/css/bootstrap.min.css />
+
+<div class="container mt-4">
+    <h2>Delete Training</h2>
+
+    <div class="alert alert-warning">
+        <strong>Are you sure you want to delete this?</strong>
+    </div>
+
+    <div class="mb-4">
+        <dl class="row">
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Title)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Title)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Description)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Description)</dd>
+
+            <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Date)</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Date)</dd>
+        </dl>
+    </div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn btn-danger">Delete</button>
+        <a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>
+    }
+</div>

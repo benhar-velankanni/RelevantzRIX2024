@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B88BFE0-4199-4ABA-B839-5B3DD3F072F0}|DemoApp\\DemoApp.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\demoapp\\demoapp\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8B88BFE0-4199-4ABA-B839-5B3DD3F072F0}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B88BFE0-4199-4ABA-B839-5B3DD3F072F0}|DemoApp\\DemoApp.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\demoapp\\demoapp\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B88BFE0-4199-4ABA-B839-5B3DD3F072F0}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\DemoApp\\DemoApp\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Register.aspx.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\DemoApp\\DemoApp\\Register.aspx.cs",
+              "RelativeToolTip": "DemoApp\\Register.aspx.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T06:07:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\DemoApp\\DemoApp\\Register.aspx",
+              "RelativeDocumentMoniker": "DemoApp\\Register.aspx",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\DemoApp\\DemoApp\\Register.aspx",
+              "RelativeToolTip": "DemoApp\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-12T06:07:25.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

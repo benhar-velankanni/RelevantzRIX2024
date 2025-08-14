@@ -1,0 +1,17 @@
+Playing a Video: Write an algorithm and draw a flowchart for playing a video on a streaming platform. 
+
+Algorithm:
+
+1. Start.
+2. Log in:
+    2.1 IF existing member, Log in to the streaming platform.
+    2.2 ELSE: 2.2.1 Get user details
+        	 2.2.2 Create Account.
+3. Get Video_details.
+4. Search for Video.
+5. Select Video.
+6. Play Video.
+    6.1 IF Exit Platform, then go to step 7.
+    6.2 ELSE IF Select Different Video, go to step 3.
+    6.2 ELSE go to step 6.
+7. Stop.

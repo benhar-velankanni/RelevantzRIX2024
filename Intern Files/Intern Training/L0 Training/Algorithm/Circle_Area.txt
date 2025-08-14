@@ -1,0 +1,10 @@
+Algorithm:
+
+1. Start Program.
+2. Initialize (radius), with the value 27 (here).
+3. Initialize (pi), with the value 3.14.
+4. Initialize and calculate (area) value as: pi * radius * radius
+5. Initialize and calculate (circumference) value as: 2 * pi * radius
+6. Print (area).
+7. Print (circumference).
+8. Stop Program.

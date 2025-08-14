@@ -1,0 +1,18 @@
+Algorithm:
+
+1. Start Program.
+2. Log in to the IniaPro website with user credentials.
+3. Navigate to the "Timesheet" section.
+4. For each business day (8 hours):
+	4.1 Select the date for which you want to enter the timesheet.
+	4.2 Review the list of projects assigned to you.
+	4.3 For each project:
+		4.3.1 If you have existing issues, select the issue and allocate time spent on it.
+		4.3.2 If you need to create a new issue:
+			4.3.2.1 Enter the issue details (title, description, etc.).
+			4.3.2.2 Allocate time spent on the new issue.
+	4.4 Confirm the total time allocated is 8 hours.
+	4.5 Save the timesheet entry for the selected date.
+5. Review and submit the timesheet for the week/month, as required.
+6. Log out from the IniaPro website.
+7. Stop Program.

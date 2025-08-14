@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Routing matches snapshot for AdminDashboard 1`] = `
+<DocumentFragment>
+  <div>
+    Admin Dashboard
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Routing matches snapshot for Login page 1`] = `
+<DocumentFragment>
+  <div>
+    Login Page
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Routing matches snapshot for Register page 1`] = `
+<DocumentFragment>
+  <div>
+    Register Page
+  </div>
+</DocumentFragment>
+`;
+
+exports[`App Routing matches snapshot for UserDashboard 1`] = `
+<DocumentFragment>
+  <div>
+    User Dashboard
+  </div>
+</DocumentFragment>
+`;

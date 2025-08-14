@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vowel Counter</title>
+  </head>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: black;
+      font: 14px Arial, sans-serif;
+      font-weight: bold;
+    }
+
+    #user_input,
+    #vowel_count {
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid white;
+      border-radius: 5px;
+      outline: none;
+      color: black;
+      background-color: white;
+      font: 14px Arial, sans-serif;
+      font-weight: bold;
+    }
+
+    button {
+      margin: 5px;
+      padding: 10px 10px;
+      font-size: 16px;
+      border: 1px solid white;
+      border-radius: 5px;
+      background-color: white;
+      color: black;
+      cursor: pointer;
+      transition: 0.3s;
+      font: 14px Arial, sans-serif;
+      font-weight: bold;
+    }
+
+    button:hover {
+      background-color: black;
+      color: white;
+      border: 1px solid white;
+    }
+  </style>
+  <body>
+    <table>
+      <tr>
+        <td>
+          <input type="text" id="user_input" placeholder="Input" />
+        </td>
+        <td><button onclick="countVowels()">Count Vowels</button></td>
+        <td><button onclick="ResetInput()">Reset</button></td>
+      </tr>
+      <tr>
+        <td>
+          <input
+            type="text"
+            id="vowel_count"
+            placeholder="Output"
+            disabled
+          />
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+<script>
+    function ResetInput() {
+        document.getElementById("user_input").value = "";
+        document.getElementById("vowel_count").value = "";
+    }
+
+    function countVowels(){
+        const inputString = document.getElementById("user_input").value;
+        const vowels = ['a', 'e', 'i', 'o', 'u'];
+        let count = 0;
+        for(let i = 0; i < inputString.length; i++){
+            if(vowels.includes(inputString[i].toLowerCase())){
+                count++;
+            }
+        }
+        document.getElementById("vowel_count").value = count;
+    }
+</script>

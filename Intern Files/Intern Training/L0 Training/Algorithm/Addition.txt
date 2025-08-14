@@ -1,0 +1,8 @@
+Algorithm:
+
+1. Start Program.
+2. Obtain the value of first integer from the user and store it in a variable "a".
+3. Obtain the value of the second integer from the user and store it in a variable "b".
+4. Add the two values "a" and "b", and store it in a variable called "sum."
+5. Print the sum.
+6. Stop Program. 

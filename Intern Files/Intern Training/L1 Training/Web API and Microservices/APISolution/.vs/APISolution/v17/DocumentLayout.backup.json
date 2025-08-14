@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FE468C-624D-4881-92AD-F3882DC53FA3}|APIGateway\\APIGateway.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\apisolution\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5FE468C-624D-4881-92AD-F3882DC53FA3}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FE468C-624D-4881-92AD-F3882DC53FA3}|APIGateway\\APIGateway.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\apisolution\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FE468C-624D-4881-92AD-F3882DC53FA3}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\apisolution\\nameservice\\controllers\\nameservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|solutionrelative:nameservice\\controllers\\nameservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\apisolution\\nameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|solutionrelative:nameservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\apisolution\\nameservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|solutionrelative:nameservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|d:\\intern files\\intern training\\l1 training\\asp .net\\apisolution\\nameservice\\model\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3A9BA6-7757-450D-959E-168D71E74E97}|NameService\\NameService.csproj|solutionrelative:nameservice\\model\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "NameService\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "NameService\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:15:34.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\APIGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\Ocelot.json",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\APIGateway\\Ocelot.json",
+              "RelativeToolTip": "APIGateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T06:42:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:41:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Name.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Model\\Name.cs",
+              "RelativeDocumentMoniker": "NameService\\Model\\Name.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Model\\Name.cs",
+              "RelativeToolTip": "NameService\\Model\\Name.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:32:41.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameServiceController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Controllers\\NameServiceController.cs",
+              "RelativeDocumentMoniker": "NameService\\Controllers\\NameServiceController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Controllers\\NameServiceController.cs",
+              "RelativeToolTip": "NameService\\Controllers\\NameServiceController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:27:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Program.cs",
+              "RelativeDocumentMoniker": "NameService\\Program.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET\\APISolution\\NameService\\Program.cs",
+              "RelativeToolTip": "NameService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:25:32.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

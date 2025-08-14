@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\bin\Debug\net8.0\ShapesInherit.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\bin\Debug\net8.0\ShapesInherit.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\bin\Debug\net8.0\ShapesInherit.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\bin\Debug\net8.0\ShapesInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\bin\Debug\net8.0\ShapesInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ShapesInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ShapesInherit.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ShapesInherit.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ShapesInherit.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ShapesInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\refint\ShapesInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ShapesInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ShapesInherit.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ShapesInherit\obj\Debug\net8.0\ref\ShapesInherit.dll

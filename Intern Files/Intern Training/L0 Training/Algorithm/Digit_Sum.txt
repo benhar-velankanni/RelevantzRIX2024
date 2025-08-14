@@ -1,0 +1,13 @@
+Algorith:
+
+1. Start Program.
+2. Initiate an interger called "num", and obtain the value from the user.
+3. Initiate an interger called "copy", and assign it the same value as num.
+4. Initiate an interger called "sum", with the value "0".
+5. Using a while loop, with the condition that "copy" can NOT be 0:
+	5.1 Initiate an interger called "digit", and assign it as "copy" mod 10.
+	5.2 Add "digit" to the existing value of "sum".
+	5.3 Perform interger division by 10 on "copy".
+	5.4 Steps from 5.1 to 5.3 will repeat till "copy" is "0".
+6. Print "sum".
+7. Stop Program.

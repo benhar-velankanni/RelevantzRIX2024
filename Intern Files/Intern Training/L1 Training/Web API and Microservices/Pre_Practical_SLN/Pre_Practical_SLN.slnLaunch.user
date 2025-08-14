@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "APIs",
+    "Projects": [
+      {
+        "Path": "StudentAPI\\StudentAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

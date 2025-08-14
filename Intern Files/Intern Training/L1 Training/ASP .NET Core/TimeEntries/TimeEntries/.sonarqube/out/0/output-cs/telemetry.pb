@@ -1,0 +1,1 @@
+zRdD:\Intern Files\Intern Training\L1 Training\ASP .NET Core\TimeEntries\TimeEntries\TimeEntries.csproj¢net8.0òCSharp12

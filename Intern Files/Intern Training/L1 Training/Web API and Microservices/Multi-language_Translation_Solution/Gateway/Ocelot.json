@@ -1,0 +1,78 @@
+//Ocelot.json
+
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/GlossaryManagement",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamPathTemplate": "/api/GlossaryManagement",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5276
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/GlossaryManagement/{id}",
+      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+      "DownstreamPathTemplate": "/api/GlossaryManagement/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5276
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/LanguageDetection",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamPathTemplate": "/api/LanguageDetection",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5194
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/LanguageDetection/{id}",
+      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+      "DownstreamPathTemplate": "/api/LanguageDetection/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5194
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/TranslationEngine",
+      "UpstreamHttpMethod": [ "GET", "POST" ],
+      "DownstreamPathTemplate": "/api/TranslationEngine",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5233
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/TranslationEngine/{id}",
+      "UpstreamHttpMethod": [ "GET", "PUT", "DELETE" ],
+      "DownstreamPathTemplate": "/api/TranslationEngine/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5233
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "LanguageDetectionService.Controllers.LanguageDetectionController",
+    "Method": "GetAll",
+    "RelativePath": "api/LanguageDetection",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LanguageDetectionService.Controllers.LanguageDetectionController",
+    "Method": "Create",
+    "RelativePath": "api/LanguageDetection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "languageItem",
+        "Type": "LanguageDetectionService.Model.LanguageDetection",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LanguageDetectionService.Controllers.LanguageDetectionController",
+    "Method": "Get",
+    "RelativePath": "api/LanguageDetection/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LanguageDetectionService.Controllers.LanguageDetectionController",
+    "Method": "Update",
+    "RelativePath": "api/LanguageDetection/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "languageItem",
+        "Type": "LanguageDetectionService.Model.LanguageDetection",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LanguageDetectionService.Controllers.LanguageDetectionController",
+    "Method": "Delete",
+    "RelativePath": "api/LanguageDetection/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

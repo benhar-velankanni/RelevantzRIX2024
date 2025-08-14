@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Biodata Registration Page</title>
+    <link rel="stylesheet" href="./CSS/Biodata.css" />
+  </head>
+  <body>
+    <video
+      muted
+      autoplay
+      loop
+      src="./Media/BackgroundVideo.mp4"
+    ></video>
+    <h2 style="text-align: center; color: white">BIODATA REGISTRATION FORM</h2>
+    <div class="form-container">
+      <form>
+        <table>
+          <tr>
+            <td><label for="name">Full Name:</label></td>
+            <td>
+              <input
+                type="text"
+                id="name"
+                name="name"
+                placeholder="Enter Name"
+                required
+              />
+            </td>
+          </tr>
+          <tr>
+            <td><label for="dob">Date of Birth:</label></td>
+            <td>
+              <input
+                type="date"
+                id="dob"
+                name="dob"
+                placeholder="Enter DOB"
+                required
+              />
+            </td>
+          </tr>
+          <tr>
+            <td><label for="gender">Gender:</label></td>
+            <td>
+              <select
+                id="gender"
+                name="gender"
+                placeholder="Select Gender"
+                required
+              >
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td><label for="religion">Religion:</label></td>
+            <td>
+              <select
+                id="religion"
+                name="religion"
+                placeholder="Select Rekigion"
+                required
+              >
+                <option value="Hindu">Hindu</option>
+                <option value="Muslim">Muslim</option>
+                <option value="Christian">Christian</option>
+                <option value="Jain">Jain</option>
+                <option value="Sikh">Sikh</option>
+                <option value="Other">Other</option>
+              </select>
+            </td>
+          </tr>
+          <tr>
+            <td><label for="email">Email:</label></td>
+            <td>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="Enter Email"
+                required
+              />
+            </td>
+          </tr>
+          <tr>
+            <td><label for="phone">Phone Number:</label></td>
+            <td>
+              <input
+                type="tel"
+                id="phone"
+                name="phone"
+                placeholder="Enter Phone Number"
+                required
+              />
+            </td>
+          </tr>
+          <tr>
+            <td><label for="address">Address:</label></td>
+            <td>
+              <textarea
+                id="address"
+                name="address"
+                rows="4"
+                placeholder="Enter Address"
+                required
+              ></textarea>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <input type="reset" class="Reset" value="Reset" />
+              <input type="submit" class="Submit" value="Submit" />
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+  </body>
+</html>

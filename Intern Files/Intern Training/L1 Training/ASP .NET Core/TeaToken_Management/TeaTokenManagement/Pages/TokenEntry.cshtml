@@ -1,0 +1,64 @@
+﻿@page
+@model TokenEntryModel
+@{
+    ViewData["Title"] = "Token Entry";
+}
+
+<h2 class="mb-4">☕ Tea Token Entry</h2>
+
+<form method="post" class="border p-4 rounded bg-light">
+    <div class="row mb-3">
+        <div class="col-md-4">
+            <label class="form-label">Date:</label>
+            <input type="date" asp-for="EntryDate" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Session:</label>
+            <select asp-for="Session" class="form-select">
+                <option>Morning</option>
+                <option>Evening</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped">
+            <thead class="table-dark">
+                <tr>
+                    <th>Employee Name</th>
+                    <th>Batch</th>
+                    <th>Drink</th>
+                    <th>Mark</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var emp in Model.Employees)
+                {
+                    <tr>
+                        <td>@emp.Name</td>
+                        <td>@emp.Batch?.BatchName</td>
+                        <td>
+                            <select name="DrinkType_@emp.EmployeeId" class="form-select">
+                                <option>Tea</option>
+                                <option>Coffee</option>
+                                <option>Milk</option>
+                            </select>
+                        </td>
+                        <td class="text-center">
+                            <input type="checkbox" name="SelectedIds" value="@emp.EmployeeId" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">✅ Submit Entries</button>
+</form>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success mt-4">
+        @TempData["Message"]
+    </div>
+}

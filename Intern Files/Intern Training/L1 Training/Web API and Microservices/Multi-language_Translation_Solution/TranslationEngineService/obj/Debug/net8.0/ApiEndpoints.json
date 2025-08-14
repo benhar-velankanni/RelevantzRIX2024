@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "TranslationEngineService.Controllers.TranslationEngineController",
+    "Method": "GetAll",
+    "RelativePath": "api/TranslationEngine",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranslationEngineService.Controllers.TranslationEngineController",
+    "Method": "Create",
+    "RelativePath": "api/TranslationEngine",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "translationItem",
+        "Type": "TranslationEngineService.Model.TranslationEngine",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranslationEngineService.Controllers.TranslationEngineController",
+    "Method": "Get",
+    "RelativePath": "api/TranslationEngine/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranslationEngineService.Controllers.TranslationEngineController",
+    "Method": "Update",
+    "RelativePath": "api/TranslationEngine/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "translationItem",
+        "Type": "TranslationEngineService.Model.TranslationEngine",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TranslationEngineService.Controllers.TranslationEngineController",
+    "Method": "Delete",
+    "RelativePath": "api/TranslationEngine/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

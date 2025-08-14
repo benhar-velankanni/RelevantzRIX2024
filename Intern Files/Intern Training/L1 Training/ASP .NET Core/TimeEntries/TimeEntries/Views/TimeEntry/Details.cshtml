@@ -1,0 +1,57 @@
+﻿@model TimeEntries.Entity.TimeEntry
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>TimeEntry</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.EmployeeId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.EmployeeId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateOfEntry)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateOfEntry)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumberOfHours)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumberOfHours)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TaskDescription)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TaskDescription)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.TimeEntryId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        const errorMessage = '@ViewBag.ErrorMessage';
+        const tempError = '@TempData["ErrorMessage"]';
+
+        if (errorMessage) {
+            console.log("Server Error:", errorMessage);
+        }
+
+        if (tempError) {
+            console.log("Server Error:", tempError);
+        }
+    </script>
+}

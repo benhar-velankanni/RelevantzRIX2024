@@ -1,0 +1,79 @@
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemBAL.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemBAL.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemDALL.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemMD.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\MySql.Data.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\Google.Protobuf.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\ZstdSharp.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Memory.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Buffers.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.IO.Pipelines.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Numerics.Vectors.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemDALL.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemDALL.dll.config
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemMD.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\MySql.Data.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\Google.Protobuf.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\Google.Protobuf.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Memory.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Buffers.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.IO.Pipelines.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Hash.xxHash.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Numerics.Vectors.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.csproj.AssemblyReference.cache
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.csproj.CoreCompileInputs.cache
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\Employee.4CEB514E.Up2Date
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemBAL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemBAL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemDALL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemMD.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\MySql.Data.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\Google.Protobuf.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\ZstdSharp.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Memory.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Buffers.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.IO.Pipelines.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Numerics.Vectors.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemDALL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemDALL.dll.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemMD.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\MySql.Data.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\Google.Protobuf.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\Google.Protobuf.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Memory.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Buffers.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Compression.LZ4.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.IO.Pipelines.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\K4os.Hash.xxHash.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\System.Numerics.Vectors.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.csproj.AssemblyReference.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.csproj.CoreCompileInputs.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\Employee.4CEB514E.Up2Date
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\obj\Debug\EmployeeManagementSystemBAL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EmployeeManagementSystemBAL.dll.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EntityFramework.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeManagementSystemBAL\bin\Debug\EntityFramework.xml

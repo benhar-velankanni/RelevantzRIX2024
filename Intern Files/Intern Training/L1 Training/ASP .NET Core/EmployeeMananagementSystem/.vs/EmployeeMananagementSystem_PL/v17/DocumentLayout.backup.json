@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\employeemananagementsystempl\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|solutionrelative:employeemananagementsystempl\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\employeemananagementsystempl\\employeeformpl.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|solutionrelative:employeemananagementsystempl\\employeeformpl.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF577490-28BC-4E3E-8100-76F661F44D76}|EmployeeManagementSystemBAL\\EmployeeManagementSystemBAL.csproj|D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\employeemanagementsystembal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF577490-28BC-4E3E-8100-76F661F44D76}|EmployeeManagementSystemBAL\\EmployeeManagementSystemBAL.csproj|solutionrelative:employeemanagementsystembal\\employeebal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F744F8-10CF-4C3B-8B90-CF89983486D0}|EmployeeManagementSystemDALL\\EmployeeManagementSystemDALL.csproj|D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\employeemanagementsystemdall\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F744F8-10CF-4C3B-8B90-CF89983486D0}|EmployeeManagementSystemDALL\\EmployeeManagementSystemDALL.csproj|solutionrelative:employeemanagementsystemdall\\employeedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\employeemananagementsystempl\\employeeformpl.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|solutionrelative:employeemananagementsystempl\\employeeformpl.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|d:\\asp\\asp_net_framework\\employeemananagementsystem_pl\\employeemananagementsystempl\\employeeformpl.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22011F2E-B262-40D6-B727-3B2FFCD82956}|EmployeeMananagementSystemPL\\EmployeeMananagementSystemPL.csproj|solutionrelative:employeemananagementsystempl\\employeeformpl.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177A42D0-5FB2-4781-BCB8-E86943A310F6}|EmployeeManagementSystemMD\\EmployeeManagementSystemMD.csproj|D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\employeemanagementsystemmd\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177A42D0-5FB2-4781-BCB8-E86943A310F6}|EmployeeManagementSystemMD\\EmployeeManagementSystemMD.csproj|solutionrelative:employeemanagementsystemmd\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeFormPL.aspx",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\EmployeeFormPL.aspx",
+              "RelativeDocumentMoniker": "EmployeeMananagementSystemPL\\EmployeeFormPL.aspx",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\EmployeeFormPL.aspx",
+              "RelativeToolTip": "EmployeeMananagementSystemPL\\EmployeeFormPL.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-15T10:05:02.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDal.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeManagementSystemDALL\\EmployeeDal.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystemDALL\\EmployeeDal.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeManagementSystemDALL\\EmployeeDal.cs",
+              "RelativeToolTip": "EmployeeManagementSystemDALL\\EmployeeDal.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:57:51.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeManagementSystemMD\\Employees.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystemMD\\Employees.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeManagementSystemMD\\Employees.cs",
+              "RelativeToolTip": "EmployeeManagementSystemMD\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:57:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeBAL.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeManagementSystemBAL\\EmployeeBAL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystemBAL\\EmployeeBAL.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeManagementSystemBAL\\EmployeeBAL.cs",
+              "RelativeToolTip": "EmployeeManagementSystemBAL\\EmployeeBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T08:56:10.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeFormPL.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.designer.cs",
+              "RelativeDocumentMoniker": "EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.designer.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.designer.cs",
+              "RelativeToolTip": "EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:10:52.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeMananagementSystemPL\\Web.config",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\Web.config",
+              "RelativeToolTip": "EmployeeMananagementSystemPL\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-15T10:14:35.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeFormPL.aspx.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.cs",
+              "RelativeDocumentMoniker": "EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\EmployeeMananagementSystem_PL\\EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.cs",
+              "RelativeToolTip": "EmployeeMananagementSystemPL\\EmployeeFormPL.aspx.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:07:20.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

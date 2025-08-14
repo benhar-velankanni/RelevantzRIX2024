@@ -1,0 +1,11 @@
+Algorithm:
+
+1. Start Program.
+2. Open the Facebook application or website.
+3. Log in to your account (if not already logged in).
+4. Go to the "Home" or "News Feed" page.
+5. Locate the status update box.
+6. Type the desired message in the status update box.
+7. Click the "Post" button.
+8. Verify that the message has been posted successfully.
+9. End Program.

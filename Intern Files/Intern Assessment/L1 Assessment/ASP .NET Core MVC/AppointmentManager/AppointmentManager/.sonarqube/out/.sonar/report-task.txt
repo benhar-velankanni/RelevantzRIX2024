@@ -1,0 +1,6 @@
+projectKey=AppointmentManager---Sonar---Project
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=AppointmentManager---Sonar---Project
+ceTaskId=5bdc560c-f7e9-465f-a6ff-3dde26fb9fae
+ceTaskUrl=http://localhost:9000/api/ce/task?id=5bdc560c-f7e9-465f-a6ff-3dde26fb9fae

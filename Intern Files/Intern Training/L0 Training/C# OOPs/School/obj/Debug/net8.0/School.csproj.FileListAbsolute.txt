@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\bin\Debug\net8.0\School.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\bin\Debug\net8.0\School.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\bin\Debug\net8.0\School.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\bin\Debug\net8.0\School.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\bin\Debug\net8.0\School.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\School.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\School.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\School.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\School.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\refint\School.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\School.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\School.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\School\obj\Debug\net8.0\ref\School.dll

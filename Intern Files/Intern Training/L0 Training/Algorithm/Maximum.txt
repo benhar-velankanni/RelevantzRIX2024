@@ -1,0 +1,15 @@
+Algorithm:
+
+1. Start Program.
+2. Get the value of three numbers and store it in variables (a), (b) and (c).
+3. Compare (a) and (b):
+    IF (a > b), go to step 4.
+    ELSE go to step 5.
+4. Compare (a) and (c):
+    IF (a > c), then (a) is the largest, go to step 6.
+    ELSE go to step 5.
+5. Compare (b) and (c):
+    IF (b > c), then (b) is the largest, go to step 6.
+    ELSE (c) is the largest, go to step 6.
+6. Print the largest number.
+7. Stop Program.

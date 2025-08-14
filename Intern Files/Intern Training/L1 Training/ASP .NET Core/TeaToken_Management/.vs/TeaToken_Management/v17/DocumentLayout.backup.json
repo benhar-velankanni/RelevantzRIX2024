@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\reports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\reports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\deletetoken.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\deletetoken.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\edittoken.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\edittoken.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\edittoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\edittoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\tokenentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\tokenentry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\tokenentry.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\tokenentry.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\pages\\deletetoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\pages\\deletetoken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|d:\\asp\\asp_net_framework\\teatoken_management\\teatokenmanagement\\models\\teatokenlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D079F728-AEF9-4416-B306-F807D7B148D3}|TeaTokenManagement\\TeaTokenManagement.csproj|solutionrelative:teatokenmanagement\\models\\teatokenlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditToken.cshtml",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\EditToken.cshtml",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\EditToken.cshtml",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\EditToken.cshtml",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\EditToken.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T07:23:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reports.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\Reports.cshtml.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\Reports.cshtml.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\Reports.cshtml.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\Reports.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:32:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenEntry.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\TokenEntry.cshtml.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\TokenEntry.cshtml.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\TokenEntry.cshtml.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\TokenEntry.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:32:05.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\Reports.cshtml",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\Reports.cshtml",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\Reports.cshtml",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\Reports.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T06:31:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteToken.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\DeleteToken.cshtml.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\DeleteToken.cshtml.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\DeleteToken.cshtml.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\DeleteToken.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:25:39.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenEntry.cshtml",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\TokenEntry.cshtml",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\TokenEntry.cshtml",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\TokenEntry.cshtml",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\TokenEntry.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T06:31:17.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditToken.cshtml.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\EditToken.cshtml.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\EditToken.cshtml.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\EditToken.cshtml.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\EditToken.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T07:24:29.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T06:35:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteToken.cshtml",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\DeleteToken.cshtml",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Pages\\DeleteToken.cshtml",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Pages\\DeleteToken.cshtml",
+              "RelativeToolTip": "TeaTokenManagement\\Pages\\DeleteToken.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T07:24:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Program.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Program.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:24:13.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\appsettings.json",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\appsettings.json",
+              "RelativeToolTip": "TeaTokenManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-18T06:23:11.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:19:38.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeaTokenLog.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Models\\TeaTokenLog.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Models\\TeaTokenLog.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Models\\TeaTokenLog.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Models\\TeaTokenLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:17:51.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Models\\Employee.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:17:30.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "TeaTokenManagement\\Models\\Batch.cs",
+              "ToolTip": "D:\\Asp\\ASP_NET_Framework\\TeaToken_Management\\TeaTokenManagement\\Models\\Batch.cs",
+              "RelativeToolTip": "TeaTokenManagement\\Models\\Batch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:17:06.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

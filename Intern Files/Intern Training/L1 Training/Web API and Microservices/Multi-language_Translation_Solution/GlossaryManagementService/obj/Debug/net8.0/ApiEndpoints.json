@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "GlossaryManagementService.Controllers.GlossaryManagementController",
+    "Method": "GetAll",
+    "RelativePath": "api/GlossaryManagement",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GlossaryManagementService.Controllers.GlossaryManagementController",
+    "Method": "Create",
+    "RelativePath": "api/GlossaryManagement",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "glosssaryItem",
+        "Type": "GlossaryManagementService.Model.GlossaryManagement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GlossaryManagementService.Controllers.GlossaryManagementController",
+    "Method": "Get",
+    "RelativePath": "api/GlossaryManagement/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GlossaryManagementService.Controllers.GlossaryManagementController",
+    "Method": "Update",
+    "RelativePath": "api/GlossaryManagement/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "glosssaryItem",
+        "Type": "GlossaryManagementService.Model.GlossaryManagement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GlossaryManagementService.Controllers.GlossaryManagementController",
+    "Method": "Delete",
+    "RelativePath": "api/GlossaryManagement/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

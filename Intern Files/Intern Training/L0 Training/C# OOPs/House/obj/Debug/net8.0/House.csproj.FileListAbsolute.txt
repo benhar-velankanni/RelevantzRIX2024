@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\House.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\House.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\House.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\bin\Debug\net8.0\House.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\bin\Debug\net8.0\House.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\bin\Debug\net8.0\House.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\bin\Debug\net8.0\House.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\bin\Debug\net8.0\House.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\House.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\refint\House.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\House.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\House.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\House\obj\Debug\net8.0\ref\House.dll

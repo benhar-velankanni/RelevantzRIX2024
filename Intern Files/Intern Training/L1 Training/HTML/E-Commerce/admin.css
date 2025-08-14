@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5a67d85f;
+    margin: 0;
+    padding: 0;
+}
+.nav-bar {
+    background-color: #5a67d8;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+.nav-bar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-bar a:hover {
+    color: black;
+}
+
+.header {
+    text-align: center;
+    padding: 20px 0;
+}
+.container {
+    padding: 20px;
+}
+.product-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.product-table th, .product-table td {
+    border: 1px solid #2c3477;
+    padding: 10px;
+    text-align: center;
+}
+.product-table th {
+    background-color: #5a67d8;
+    color: #fff;
+}
+.product-table img {
+    width: 75px; /* Reduced size */
+    height: auto;
+    border-radius: 5px;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.form-group button {
+    padding: 10px 15px;
+    background-color: #5a67d8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form-group button:hover {
+    background-color: #434bb9;
+}
+
+.editbtn, .deletebtn {
+    padding: 5px 10px;
+    background-color: #5a67d8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.editbtn:hover, .deletebtn:hover {
+    background-color: #434bb9;
+    padding: 7px 10px;
+}

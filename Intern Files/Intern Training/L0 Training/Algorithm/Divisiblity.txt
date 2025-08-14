@@ -1,0 +1,8 @@
+Algorithm:
+
+1. Start Program.
+2. Initialize an array called (divisible_by_4).
+3. For Each number, from 1 to 100:
+    IF number % 4 == 0, then add it to the array.
+4. Print (divisible_by_4).
+5. Stop Program.

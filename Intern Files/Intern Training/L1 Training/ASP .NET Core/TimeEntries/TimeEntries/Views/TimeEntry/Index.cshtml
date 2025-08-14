@@ -1,0 +1,69 @@
+﻿@model IEnumerable<TimeEntries.Entity.TimeEntry>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfEntry)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfHours)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TaskDescription)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfEntry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumberOfHours)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TaskDescription)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TimeEntryId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.TimeEntryId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.TimeEntryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        const errorMessage = '@ViewBag.ErrorMessage';
+        const tempError = '@TempData["ErrorMessage"]';
+
+        if (errorMessage) {
+            console.log("Server Error:", errorMessage);
+        }
+
+        if (tempError) {
+            console.log("Server Error:", tempError);
+        }
+    </script>
+}
+

@@ -1,0 +1,205 @@
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeMananagementSystemPL.dll.config
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeMananagementSystemPL.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeMananagementSystemPL.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csc.exe
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csc.exe.config
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csc.rsp
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csi.exe
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csi.exe.config
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csi.rsp
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.AppContext.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Collections.Immutable.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Console.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Globalization.Calendars.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.Compression.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.FileSystem.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Net.Http.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Net.Sockets.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.ValueTuple.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.XPath.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\vbc.exe
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\vbc.exe.config
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\vbc.rsp
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\VBCSCompiler.exe
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\VBCSCompiler.exe.config
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\BouncyCastle.Cryptography.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemBAL.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemMD.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Google.Protobuf.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.Streams.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Hash.xxHash.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Buffers.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Configuration.ConfigurationManager.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.IO.Pipelines.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Memory.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Numerics.Vectors.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Threading.Tasks.Extensions.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\ZstdSharp.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemDALL.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemBAL.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemMD.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\BouncyCastle.Cryptography.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Google.Protobuf.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Google.Protobuf.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.Streams.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Hash.xxHash.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Buffers.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Configuration.ConfigurationManager.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.IO.Pipelines.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Memory.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Numerics.Vectors.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Threading.Tasks.Extensions.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemDALL.pdb
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemDALL.dll.config
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.csproj.AssemblyReference.cache
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.csproj.CoreCompileInputs.cache
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\Employee.7D2C2A1A.Up2Date
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.dll
+D:\Asp\ASP_NET_Framework\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeMananagementSystemPL.dll.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeMananagementSystemPL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeMananagementSystemPL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csc.exe
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csc.exe.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csc.rsp
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csi.exe
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csi.exe.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\csi.rsp
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.AppContext.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Collections.Immutable.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Console.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Globalization.Calendars.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.Compression.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.FileSystem.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Net.Http.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Net.Sockets.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.ValueTuple.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.XPath.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\vbc.exe
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\vbc.exe.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\vbc.rsp
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\VBCSCompiler.exe
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\roslyn\VBCSCompiler.exe.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\BouncyCastle.Cryptography.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemBAL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemMD.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Google.Protobuf.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.Streams.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Hash.xxHash.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Buffers.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Configuration.ConfigurationManager.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.IO.Pipelines.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Memory.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Numerics.Vectors.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Threading.Tasks.Extensions.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\ZstdSharp.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemDALL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemBAL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemMD.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\BouncyCastle.Cryptography.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Google.Protobuf.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Google.Protobuf.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Compression.LZ4.Streams.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\K4os.Hash.xxHash.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Buffers.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Configuration.ConfigurationManager.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.IO.Pipelines.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Memory.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Numerics.Vectors.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\System.Threading.Tasks.Extensions.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemDALL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemDALL.dll.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.csproj.AssemblyReference.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.csproj.CoreCompileInputs.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\Employee.7D2C2A1A.Up2Date
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\obj\Debug\EmployeeMananagementSystemPL.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EntityFramework.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EntityFramework.SqlServer.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.Entity.EF6.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.EntityFramework.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EmployeeManagementSystemBAL.dll.config
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EntityFramework.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\EntityFramework.SqlServer.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.Entity.EF6.xml
+D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\EmployeeMananagementSystem_PL\EmployeeMananagementSystemPL\bin\MySql.Data.EntityFramework.xml

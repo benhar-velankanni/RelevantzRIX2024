@@ -1,0 +1,14 @@
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\bin\Debug\net8.0\AccessModifiers.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\bin\Debug\net8.0\AccessModifiers.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\bin\Debug\net8.0\AccessModifiers.runtimeconfig.json
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\bin\Debug\net8.0\AccessModifiers.dll
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\bin\Debug\net8.0\AccessModifiers.pdb
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfoInputs.cache
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfo.cs
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\AccessModifiers.csproj.CoreCompileInputs.cache
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\AccessModifiers.dll
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\refint\AccessModifiers.dll
+c:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\AccessModifiers.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\AccessModifiers.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\AccessModifiers\obj\Debug\net8.0\ref\AccessModifiers.dll

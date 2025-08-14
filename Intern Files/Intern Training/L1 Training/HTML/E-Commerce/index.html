@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Z-Commerce</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <video autoplay muted loop class="shopvideo" src="./img/ShoppingVid.mp4"></video>
+        <div id="login-section">
+            <h2>Z-Commerce Login</h2>
+            <form id="login-form" onsubmit="handleLogin(event)">
+                <div class="form-group">
+                    <label for="login-email">Username:</label>
+                    <input type="text" id="login-username" name="login-username" required>
+                </div>
+                <div class="form-group">
+                    <label for="login-password">Password:</label>
+                    <input type="password" id="login-password" name="login-password" required>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Login</button>
+                </div>
+                <div class="toggle">
+                    <span>Don't have an account? <a href="#" onclick="toggleForm('register')">Register</a></span>
+                </div>
+            </form>
+        </div>
+
+
+        <div id="register-section" style="display: none;">
+            <h2>Z-commerce Register</h2>
+            <form id="register-form">
+                <div class="form-group">
+                    <label for="register-name">Full Name:</label>
+                    <input type="text" id="register-name" name="register-name" required>
+                </div>
+                <div class="form-group">
+                    <label for="register-email">Email:</label>
+                    <input type="email" id="register-email" name="register-email" required>
+                </div>
+                <div class="form-group">
+                    <label for="register-password">Password:</label>
+                    <input type="password" id="register-password" name="register-password" required>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Register</button>
+                </div>
+                <div class="toggle">
+                    <span>Already have an account? <a href="#" onclick="toggleForm('login')">Login</a></span>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function toggleForm(section) {
+            const loginSection = document.getElementById('login-section');
+            const registerSection = document.getElementById('register-section');
+            if (section === 'login') {
+                loginSection.style.display = 'block';
+                registerSection.style.display = 'none';
+            } else {
+                loginSection.style.display = 'none';
+                registerSection.style.display = 'block';
+            }
+        }
+
+        function handleLogin(event) {
+            event.preventDefault(); // Prevent form submission
+            const username = document.getElementById('login-username').value;
+            const password = document.getElementById('login-password').value;
+
+            if (username === 'user' && password === 'user') {
+                window.location.href = 'user.html';
+            } else if (username === 'admin' && password === 'admin') {
+                window.location.href = 'admin.html';
+            } else {
+                alert('Invalid username or password. Please try again.');
+            }
+        }
+    </script>
+</body>
+</html>

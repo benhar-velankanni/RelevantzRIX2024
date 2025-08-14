@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\MathUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B536F6-7A08-4C9F-89D9-D77BFFBC739B}|MathUtility.Test\\MathUtility.Test.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\mathutility\\mathutility.test\\calculatorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B536F6-7A08-4C9F-89D9-D77BFFBC739B}|MathUtility.Test\\MathUtility.Test.csproj|solutionrelative:mathutility.test\\calculatorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6C7165-A96C-477A-B9C3-F5E68111E511}|MathUtility\\MathUtility.csproj|d:\\intern files\\intern training\\l1 training\\unit testing\\mathutility\\mathutility\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6C7165-A96C-477A-B9C3-F5E68111E511}|MathUtility\\MathUtility.csproj|solutionrelative:mathutility\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorControllerTest.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\MathUtility\\MathUtility.Test\\CalculatorControllerTest.cs",
+              "RelativeDocumentMoniker": "MathUtility.Test\\CalculatorControllerTest.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\MathUtility\\MathUtility.Test\\CalculatorControllerTest.cs",
+              "RelativeToolTip": "MathUtility.Test\\CalculatorControllerTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:45:43.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\MathUtility\\MathUtility\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "MathUtility\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\Unit Testing\\MathUtility\\MathUtility\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "MathUtility\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:27:43.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

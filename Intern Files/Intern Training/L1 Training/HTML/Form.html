@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Training Form</title>
+
+    <link rel="stylesheet" href="./CSS/Form.css">
+  </head>
+  <body>
+    <form>
+      <h1>HTML Forms</h1>
+      <table>
+        <tr>
+          <td><label for="register_name">Name:</label></td>
+          <td><input type="text" name="name" id="name" placeholder="Enter Name"/></td>
+        </tr>
+        <tr>
+          <td><label for="register_dob">Date of Birth:</label></td>
+          <td><input type="date" id="birthday" name="birthday" /></td>
+        </tr>
+        <tr>
+          <td><label for="register_age">Age:</label></td>
+          <td><input type="number" name="age" id="age" placeholder="Enter Age"/></td>
+        </tr>
+        <tr>
+          <td><label for="register_gender">Gender:</label></td>
+          <td>
+            <input type="radio" name="gender" id="gender_male" value="Male" />
+            <label for="male">Male</label>
+            <input
+              type="radio"
+              name="gender"
+              id="gender_female"
+              value="Female"
+            />
+            <label for="female">Female</label>
+          </td>
+        </tr>
+        <tr>
+          <td><label for="register_mail">Email :</label></td>
+          <td><input type="email" name="email" id="email" placeholder="Enter Mail-ID"/></td>
+        </tr>
+        <tr>
+          <td><label for="register_password">Password :</label></td>
+          <td><input type="password" name="password" id="password" placeholder="Enter Password"/></td>
+        </tr>
+        <tr>
+          <td><label for="register_proof">ID Proof :</label></td>
+          <td><input type="file" name="id_proof" id="id_proof"/></td>
+        </tr>
+        <tr>
+          <td><label for="register_country">Select Country:</label></td>
+          <td>
+            <select name="country" id="country">
+              <option value="India">India</option>
+              <option value="China">China</option>
+              <option value="Australlia">Australlia</option>
+              <option value="Nepal">Nepal</option>
+              <option value="Bhutan">Bhutan</option>
+              <option value="Myanmaar">Myanmaar</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td><label for="register_sports">Sports:</label></td>
+          <td>
+            <input type="checkbox" value="Football" />Football
+            <input type="checkbox" value="Basketball" />Basketball
+            <input type="checkbox" value="Cricket" />Cricket
+            <input type="checkbox" value="Hockey" />Hockey
+            <input type="checkbox" value="Tennis" />Tennis
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <input type="reset" class="Reset" value="Reset" />
+            <input type="submit" class="Submit" value="Submit" />
+          </td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>

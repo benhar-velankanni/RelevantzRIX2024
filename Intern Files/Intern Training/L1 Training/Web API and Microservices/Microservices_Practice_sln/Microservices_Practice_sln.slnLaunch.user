@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "APIs Only",
+    "Projects": [
+      {
+        "Path": "Gateway\\Gateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "StudentAPI\\StudentAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "TeacherAPI\\TeacherAPI.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

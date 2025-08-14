@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\bin\Debug\net8.0\Airplane.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\bin\Debug\net8.0\Airplane.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\bin\Debug\net8.0\Airplane.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\bin\Debug\net8.0\Airplane.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\bin\Debug\net8.0\Airplane.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\Airplane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\Airplane.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\Airplane.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\Airplane.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\Airplane.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\refint\Airplane.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\Airplane.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\Airplane.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Airplane\obj\Debug\net8.0\ref\Airplane.dll

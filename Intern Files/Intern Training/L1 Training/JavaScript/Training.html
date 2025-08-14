@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Training</title>
+
+    <style>
+      body {
+        background-color: black;
+        font: 12px Arial, sans-serif;
+        display: flex;
+        display: grid;
+        gap: 10px;
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-weight: bold;
+        font: 12px Arial, sans-serif;
+      }
+
+      button {
+        background-color: white;
+        color: black;
+        padding: 40px;
+        border: none;
+        cursor: pointer;
+        border-radius: 10px;
+        border: 1px solid black;
+        font-weight: bold;
+        font: 12px Arial, sans-serif;
+      }
+
+      button:hover {
+        background-color: black;
+        color: white;
+        border: 1px solid white;
+      }
+
+      h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        color: white;
+        border: 1px solid white;
+        padding: 40px;
+        border-radius: 10px;
+        font-weight: bold;
+        font: 12px Arial, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <button onclick="a()">CONSOLE</button>
+    <button onclick="b()">ALERT</button>
+    <button onclick="c()">REPLY</button>
+    <h1 id="reply_demo"></h1>
+  </body>
+  <script>
+    // hi hello.
+
+    /* hi
+    but not hello */
+
+    var x = 5;
+    var y = 6;
+    var z = x + y;
+    console.log(z);
+    // alert(z);
+
+    var value1 = 50; // global variable
+    function a() {
+      var value2 = 100; // local variable
+      console.log(value1);
+      console.log(value2);
+    }
+
+    function b() {
+      alert("How are you my boy?");
+    }
+
+    function c() {
+        document.getElementById("reply_demo").innerHTML = "I AM FINE !";
+    }
+  </script>
+</html>

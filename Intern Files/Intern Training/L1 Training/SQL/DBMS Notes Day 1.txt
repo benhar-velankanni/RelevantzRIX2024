@@ -1,0 +1,136 @@
+D - Data
+DB - Database
+DBM - nDatabase Mgmt
+DBMS - DB Mgmt System
+(Mysql ,Postgresql, Oracle ,Db2,Db3,SQlLite,MsSQL , SqlOpenSrc )
+RDBMS - Relational Database MS
+ORDBMS - Object RDBMS
+
+Relation - A table 
+Tuple - A row
+Attribute - A column
+Cardinality - Number of tuples together
+Degree of Table  - No of attributes
+
+Product					Sales
+-------					------------
+ProdiID  Name Price			BillNo  ProdId Qty Total			
+P001	 Gum      5			 10001	 P001	3   15
+P002     Biscuit  10			 10002	 P002	1   10
+					 
+
+Customer
+--------
+CustID  FName  LName  MobileNo Email 		Aadhar
+C001     Dhoni  M      99999	d@34.com	999019090
+C002	 Mukesh M      88778	m@37.com	789789797
+
+
+Candidate Key -  Cadidates for teh primary key
+Primary Key   -  A key which uniquely identifes the rows a table
+Alternate Key - Candidate which are not the primary key
+Foriegn Key   - PK (Parent) of one table act as a key in another table (Child Table)
+Composite Key -  Combination of Keys we used to identify rows.
+
+
+Entity = Object
+	 Trainer , Learner , Manager , Projector , Laptop
+Attributes - 
+
+
+Student, Staff, Teacher , Course , Subjects , Schedules , Grades
+
+Regular Enity  - Exists independedly
+Weak Entity  -   Exists with dependency
+
+Relationships 
+---------------
+1 - 1 
+1 - M
+M - 1
+M - M
+
+Scenario:
+	ABC Shipping Company
+		"A suppier ships parts "
+Identify the entities , relationship and draw a diagram .
+
+Domain 
+
+Normalization
+1NF
+2NF
+3NF
+BCNF
+
+
+MySQL
+--------
+	SQL - Structured Query Language ( Used for DBM )
+
+	Standards 
+		1999 Prior ( Theta Style )
+		ANSI Standard
+
+	Type of SQL Queries
+
+		DDL	- Data Definition Language ( CREATE ,ALTER ,DROP ,TRUNCATE )
+		DML	- Data Manipulation Language ( INSERT ,UPDATE ,DELETE , MERGE )
+		TCL	- Transaction Control Lang ( COMMIT ,ROLLBACk , SAVE POINT )
+		DQL	- Data Query Lang ( SELECT )
+		DCL	- Data Control Language ( GRANT , REVOKE )
+
+
+DDL
+---
+	creating a database
+			CREATE DATABASE Sparta;
+	to get all database
+			SHOW DATABASES;
+	to use a particular database
+			USE Sparta;
+	to deleta a database
+			DROP DATABASE Sparta;
+
+Creating Tables
+---------
+		syntax;
+			CREATE TABLE Name
+			(
+				Column1 datatype (size) constraints ,
+				column2 datatype
+			)			
+
+		Datatypes - INT , CHAR , VARCHAR , DATE , TEXT , BLOB
+
+			char(10) vs varchar(10)
+
+		CREATE TABLE Employee
+		(
+			Empno INT,
+			FastName varchar(20),	
+			LastName varchar(20),
+			age int,
+			city varchar(20)
+		);
+
+To View the table Structure
+		DESCRIBE Table_Name;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

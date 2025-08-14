@@ -1,0 +1,9 @@
+Algorithm:
+
+1. Start Program.
+2. Read the string to be reversed.
+3. Initialize an empty string (reversed).
+4. For Each character in te original string, starting from the last:
+    Append the character to (reversed)
+5. Print (reversed)
+6. Stop Program.

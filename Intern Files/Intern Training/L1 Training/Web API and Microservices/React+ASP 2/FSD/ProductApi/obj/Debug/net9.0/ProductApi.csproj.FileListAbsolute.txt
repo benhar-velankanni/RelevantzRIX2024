@@ -1,0 +1,215 @@
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.csproj.AssemblyReference.cache
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.AssemblyInfoInputs.cache
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.AssemblyInfo.cs
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.csproj.CoreCompileInputs.cache
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\appsettings.Development.json
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\appsettings.json
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ProductApi.staticwebassets.endpoints.json
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ProductApi.exe
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ProductApi.deps.json
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ProductApi.runtimeconfig.json
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ProductApi.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ProductApi.pdb
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Humanizer.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\MySqlConnector.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\System.CodeDom.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\scopedcss\bundle\ProductApi.styles.css
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.csproj.Up2Date
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.dll
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\refint\ProductApi.dll
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.pdb
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ProductApi.genruntimeconfig.cache
+D:\ASP\FSD\ProductApi\obj\Debug\net9.0\ref\ProductApi.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\appsettings.Development.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\appsettings.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ProductApi.staticwebassets.endpoints.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ProductApi.exe
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ProductApi.deps.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ProductApi.runtimeconfig.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ProductApi.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ProductApi.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Humanizer.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\MySqlConnector.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\System.CodeDom.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.csproj.AssemblyReference.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.AssemblyInfoInputs.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.AssemblyInfo.cs
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.csproj.CoreCompileInputs.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\scopedcss\bundle\ProductApi.styles.css
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.build.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.development.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.csproj.Up2Date
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\refint\ProductApi.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.pdb
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ProductApi.genruntimeconfig.cache
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\ref\ProductApi.dll
+D:\Intern Files\Intern Training\L1 Training\ASP .NET\React+ASP 2\FSD\ProductApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

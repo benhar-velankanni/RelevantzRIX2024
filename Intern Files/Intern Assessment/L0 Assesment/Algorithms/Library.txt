@@ -1,0 +1,22 @@
+Library Book Checkout: Write an algorithm and draw a flowchart for checking out a book from a library system.  
+
+Algorithm:
+
+1. Start.
+2. Log in:
+    2.1 IF existing member, Log in to the library system.
+   2.2 ELSE: 2.2.1 Get user details
+        	 2.2.2 Create Account.
+3. Get Book_details.
+4. Search for book.
+5. Select Book.
+6. Check Availability:
+    6.1 IF Available, then go to step 7.
+    6.2 ELSE, go to step 4.
+7. Redirect to Checkout.
+8. Get Date_of_return.
+9. Review checkout request.
+10. Sumbit Request and Await Approval.
+11. IF Approved, then Confirm Approval and go to step 12.
+    ELSE go to step 7.
+12. Stop.

@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  cursor: default;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  transition: 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+  transform: scale(1.2);
+}
+
+input {
+  padding: 10px 15px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  transition: 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+input:hover {
+  background-color: black;
+  color: white;
+  transform: scale(1.2);
+}
+
+.varValue {
+  text-align: start;
+}
+
+.var {
+  text-align: start;
+  padding-right: 40px;
+}
+
+label {
+  font: Times, sans-serif;
+  font-weight: bold;
+}

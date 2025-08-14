@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\bin\Debug\net8.0\ConstructorInherit.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\bin\Debug\net8.0\ConstructorInherit.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\bin\Debug\net8.0\ConstructorInherit.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\bin\Debug\net8.0\ConstructorInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\bin\Debug\net8.0\ConstructorInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ConstructorInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ConstructorInherit.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ConstructorInherit.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ConstructorInherit.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ConstructorInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\refint\ConstructorInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ConstructorInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ConstructorInherit.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\ConstructorInherit\obj\Debug\net8.0\ref\ConstructorInherit.dll

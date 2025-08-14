@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\bin\Debug\net8.0\Movies.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\bin\Debug\net8.0\Movies.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\bin\Debug\net8.0\Movies.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\bin\Debug\net8.0\Movies.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\bin\Debug\net8.0\Movies.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\Movies.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\Movies.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\Movies.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\Movies.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\refint\Movies.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\Movies.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\Movies.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Movies\obj\Debug\net8.0\ref\Movies.dll

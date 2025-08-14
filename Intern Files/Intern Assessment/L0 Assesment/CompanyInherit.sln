@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyInherit", "CompanyInherit\CompanyInherit.csproj", "{AA2CC273-2C40-4E23-9631-BB3C99369E54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj", "{73F5991F-5063-4349-8369-EDFC12E96D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2CC273-2C40-4E23-9631-BB3C99369E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2CC273-2C40-4E23-9631-BB3C99369E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2CC273-2C40-4E23-9631-BB3C99369E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2CC273-2C40-4E23-9631-BB3C99369E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F5991F-5063-4349-8369-EDFC12E96D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F5991F-5063-4349-8369-EDFC12E96D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F5991F-5063-4349-8369-EDFC12E96D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F5991F-5063-4349-8369-EDFC12E96D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

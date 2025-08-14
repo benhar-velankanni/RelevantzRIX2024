@@ -1,0 +1,12 @@
+#root {
+  max-width: 100vh;
+  margin: 0 auto;
+}
+
+input {
+    width: 700px;
+}
+
+.container{
+    min-width: 1200px;
+}

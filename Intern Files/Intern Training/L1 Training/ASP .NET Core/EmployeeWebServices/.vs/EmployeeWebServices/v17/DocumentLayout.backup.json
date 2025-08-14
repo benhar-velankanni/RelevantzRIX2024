@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D748BB-5264-4B91-8576-73F6BC75F418}|EmployeeWebServices\\EmployeeWebServices.csproj|d:\\intern files\\intern training\\l1 training\\asp .net core\\employeewebservices\\employeewebservices\\employeeservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D748BB-5264-4B91-8576-73F6BC75F418}|EmployeeWebServices\\EmployeeWebServices.csproj|solutionrelative:employeewebservices\\employeeservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D748BB-5264-4B91-8576-73F6BC75F418}|EmployeeWebServices\\EmployeeWebServices.csproj|D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\employeewebservices\\app_code\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D748BB-5264-4B91-8576-73F6BC75F418}|EmployeeWebServices\\EmployeeWebServices.csproj|solutionrelative:employeewebservices\\app_code\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D748BB-5264-4B91-8576-73F6BC75F418}|EmployeeWebServices\\EmployeeWebServices.csproj|D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\employeewebservices\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08D748BB-5264-4B91-8576-73F6BC75F418}|EmployeeWebServices\\EmployeeWebServices.csproj|solutionrelative:employeewebservices\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\EmployeeWebServices\\App_Code\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWebServices\\App_Code\\Employee.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\EmployeeWebServices\\App_Code\\Employee.cs",
+              "RelativeToolTip": "EmployeeWebServices\\App_Code\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:55:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\EmployeeWebServices\\Web.config",
+              "RelativeDocumentMoniker": "EmployeeWebServices\\Web.config",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\EmployeeWebServices\\Web.config",
+              "RelativeToolTip": "EmployeeWebServices\\Web.config",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-16T06:51:46.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.asmx.cs",
+              "DocumentMoniker": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\EmployeeWebServices\\EmployeeService.asmx.cs",
+              "RelativeDocumentMoniker": "EmployeeWebServices\\EmployeeService.asmx.cs",
+              "ToolTip": "D:\\Intern Files\\Intern Training\\L1 Training\\ASP .NET Core\\EmployeeWebServices\\EmployeeWebServices\\EmployeeService.asmx.cs",
+              "RelativeToolTip": "EmployeeWebServices\\EmployeeService.asmx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T06:32:09.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

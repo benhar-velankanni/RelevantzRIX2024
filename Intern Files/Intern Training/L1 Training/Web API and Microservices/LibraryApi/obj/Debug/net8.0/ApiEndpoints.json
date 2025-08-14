@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "LibraryApi.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LibraryApi.Model.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryApi.Controllers.SecureController",
+    "Method": "GetSecret",
+    "RelativePath": "api/Secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

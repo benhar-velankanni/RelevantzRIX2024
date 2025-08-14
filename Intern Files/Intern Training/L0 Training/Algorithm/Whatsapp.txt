@@ -1,0 +1,11 @@
+Algorithm:
+
+1. Start Program.
+2. Open WhatsApp application.
+3. Go to the "Chats" tab.
+4. Search for your friend's name or number.
+5. Select your friend's chat.
+6. Type the message in the message input box.
+7. Click the "Send" button.
+8. Verify the message is sent successfully.
+9. End Program.

@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\bin\Debug\net8.0\CompanyInherit.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\bin\Debug\net8.0\CompanyInherit.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\bin\Debug\net8.0\CompanyInherit.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\bin\Debug\net8.0\CompanyInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\bin\Debug\net8.0\CompanyInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\CompanyInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\CompanyInherit.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\CompanyInherit.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\CompanyInherit.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\CompanyInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\refint\CompanyInherit.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\CompanyInherit.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\CompanyInherit.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Assesment\CompanyInherit\obj\Debug\net8.0\ref\CompanyInherit.dll

@@ -1,0 +1,14 @@
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\bin\Debug\net8.0\Animals_2.exe
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\bin\Debug\net8.0\Animals_2.deps.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\bin\Debug\net8.0\Animals_2.runtimeconfig.json
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\bin\Debug\net8.0\Animals_2.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\bin\Debug\net8.0\Animals_2.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\Animals_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\Animals_2.AssemblyInfoInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\Animals_2.AssemblyInfo.cs
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\Animals_2.csproj.CoreCompileInputs.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\Animals_2.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\refint\Animals_2.dll
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\Animals_2.pdb
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\Animals_2.genruntimeconfig.cache
+C:\Users\nisanth.saravanan\Desktop\L0 Training\C# OOPs\Interface\Animals_2\obj\Debug\net8.0\ref\Animals_2.dll
