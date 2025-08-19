@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\data\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\data\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern training\\l1 training\\docker\\productmanager\\productmanager\\productmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE4E6543-47E4-414E-A9CB-B7AAAE6FA70F}|ProductManager\\ProductManager.csproj|solutionrelative:productmanager\\productmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProductManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:08:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:07:34.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProductManager\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProductManager\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:07:28.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductManager\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductManager\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:07:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManager\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductManager\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:06:32.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProductManager\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ProductManager\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:05:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManager\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductManager\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T10:05:17.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "db.json",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Data\\db.json",
+              "RelativeDocumentMoniker": "ProductManager\\Data\\db.json",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Data\\db.json",
+              "RelativeToolTip": "ProductManager\\Data\\db.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T10:02:11.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManager\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:01:17.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Program.cs",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Program.cs",
+              "RelativeToolTip": "ProductManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:00:57.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductManager\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:00:22.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductManager",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\ProductManager.csproj",
+              "RelativeDocumentMoniker": "ProductManager\\ProductManager.csproj",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\ProductManager.csproj",
+              "RelativeToolTip": "ProductManager\\ProductManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-14T09:59:18.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManager\\Models\\Product.cs",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManager\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:59:46.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Dockerfile",
+              "RelativeDocumentMoniker": "ProductManager\\Dockerfile",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Training\\L1 Training\\Docker\\ProductManager\\ProductManager\\Dockerfile",
+              "RelativeToolTip": "ProductManager\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T09:59:07.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
