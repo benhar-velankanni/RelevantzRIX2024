@@ -1,0 +1,127 @@
+name: dockercompose5885768455364126938
+services:
+  aspnet-app:
+    build:
+      context: D:\Repos\RelevantzRIX2024\Intern Files\Intern Assessment\L1 Assessment\12576_Nisanth_Saravanan_Docker\ExpenseTrackerApplication\ExpenseTrackerWebApi
+      dockerfile: Dockerfile
+      args:
+        BUILD_CONFIGURATION: Debug
+        LAUNCHING_FROM_VS: "true"
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: ExpenseTrackerWebApi
+    container_name: aspnet-container
+    depends_on:
+      mysql-db:
+        condition: service_started
+        required: true
+    entrypoint:
+      - dotnet
+      - --roll-forward
+      - Major
+      - /VSTools/DistrolessHelper/DistrolessHelper.dll
+      - --wait
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:5128
+      ConnectionStrings__DefaultConnection: Server=mysql-db;Database=ExpenseDb;User=root;Password=123456;Port=3306
+    labels:
+      com.microsoft.visual-studio.project-name: ExpenseTrackerWebApi
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  "/app/ExpenseTrackerWebApi.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      testnetwork: null
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5001"
+        protocol: tcp
+    restart: on-failure
+    tty: true
+    volumes:
+      - type: bind
+        source: C:\Users\nisanth.saravanan\vsdbg\vs2017u5
+        target: /remote_debugger
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\nisanth.saravanan\AppData\Roaming\ASP.NET\Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\nisanth.saravanan\AppData\Roaming\ASP.NET\Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\nisanth.saravanan\AppData\Roaming\Microsoft\UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\nisanth.saravanan\AppData\Roaming\Microsoft\UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net8.0
+        target: /VSTools
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\HotReload
+        target: /HotReloadAgent
+        read_only: true
+        bind:
+          create_host_path: true
+  frontend:
+    build:
+      context: D:\Repos\RelevantzRIX2024\Intern Files\Intern Assessment\L1 Assessment\12576_Nisanth_Saravanan_Docker\ExpenseTrackerApplication\expense-management-frontend
+      dockerfile: Dockerfile
+    container_name: react_frontend
+    depends_on:
+      aspnet-app:
+        condition: service_started
+        required: true
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "3000"
+        protocol: tcp
+  mysql-db:
+    container_name: mysql-container
+    environment:
+      MYSQL_DATABASE: productdb
+      MYSQL_ROOT_PASSWORD: "123456"
+    image: mysql:8.0
+    networks:
+      testnetwork: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "3307"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: mysqlvolume
+        target: /var/lib/mysql
+        volume: {}
+networks:
+  default:
+    name: dockercompose5885768455364126938_default
+  testnetwork:
+    name: dockercompose5885768455364126938_testnetwork
+volumes:
+  mysqlvolume:
+    name: dockercompose5885768455364126938_mysqlvolume

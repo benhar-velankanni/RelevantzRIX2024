@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\repos\\relevantzrix2024\\intern files\\intern assessment\\l1 assessment\\12576_nisanth_saravanan_docker\\expensetrackerapplication\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC5AA48-DAB0-4023-B130-5022AAFC1001}|ExpenseTrackerWebApi\\ExpenseTrackerWebApi.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern assessment\\l1 assessment\\12576_nisanth_saravanan_docker\\expensetrackerapplication\\expensetrackerwebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAC5AA48-DAB0-4023-B130-5022AAFC1001}|ExpenseTrackerWebApi\\ExpenseTrackerWebApi.csproj|solutionrelative:expensetrackerwebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC5AA48-DAB0-4023-B130-5022AAFC1001}|ExpenseTrackerWebApi\\ExpenseTrackerWebApi.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern assessment\\l1 assessment\\12576_nisanth_saravanan_docker\\expensetrackerapplication\\expensetrackerwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAC5AA48-DAB0-4023-B130-5022AAFC1001}|ExpenseTrackerWebApi\\ExpenseTrackerWebApi.csproj|solutionrelative:expensetrackerwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC5AA48-DAB0-4023-B130-5022AAFC1001}|ExpenseTrackerWebApi\\ExpenseTrackerWebApi.csproj|d:\\repos\\relevantzrix2024\\intern files\\intern assessment\\l1 assessment\\12576_nisanth_saravanan_docker\\expensetrackerapplication\\expensetrackerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAC5AA48-DAB0-4023-B130-5022AAFC1001}|ExpenseTrackerWebApi\\ExpenseTrackerWebApi.csproj|solutionrelative:expensetrackerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +39,55 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\ExpenseTrackerWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExpenseTrackerWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\ExpenseTrackerWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExpenseTrackerWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T07:19:27.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\ExpenseTrackerWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTrackerWebApi\\appsettings.json",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\ExpenseTrackerWebApi\\appsettings.json",
+              "RelativeToolTip": "ExpenseTrackerWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T07:09:36.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\ExpenseTrackerWebApi\\Dockerfile",
+              "RelativeDocumentMoniker": "ExpenseTrackerWebApi\\Dockerfile",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\ExpenseTrackerWebApi\\Dockerfile",
+              "RelativeToolTip": "ExpenseTrackerWebApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T06:56:17.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Repos\\RelevantzRIX2024\\Intern Files\\Intern Assessment\\L1 Assessment\\12576_Nisanth_Saravanan_Docker\\ExpenseTrackerApplication\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-26T06:55:51.951Z",
+              "EditorCaption": ""
             }
           ]
         }
