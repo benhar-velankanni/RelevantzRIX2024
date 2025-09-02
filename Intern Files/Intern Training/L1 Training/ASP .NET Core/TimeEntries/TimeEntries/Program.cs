@@ -7,9 +7,10 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+// Use SQL Server instead of MySQL
 builder.Services.AddDbContext<AppDbContext>(options =>
-options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
-new MySqlServerVersion(new Version(8, 0, 29))));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("AzureSqlConnection")));
+
 builder.Services.AddScoped<ITimeEntryRepository, TimeEntryRepository>();
 
 var app = builder.Build();

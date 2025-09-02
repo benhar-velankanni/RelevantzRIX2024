@@ -17,10 +17,10 @@ namespace TimeEntries.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.13")
-                .HasAnnotation("Relational:MaxIdentifierLength", 64);
+                .HasAnnotation("ProductVersion", "9.0.8")
+                .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
-            MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
+            SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
             modelBuilder.Entity("TimeEntries.Entity.TimeEntry", b =>
                 {
@@ -28,7 +28,7 @@ namespace TimeEntries.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("TimeEntryId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TimeEntryId"));
 
                     b.Property<DateOnly>("DateOfEntry")
                         .HasColumnType("date");
@@ -37,11 +37,10 @@ namespace TimeEntries.Migrations
                         .HasColumnType("int");
 
                     b.Property<double>("NumberOfHours")
-                        .HasColumnType("double");
+                        .HasColumnType("float");
 
                     b.Property<string>("TaskDescription")
-                        .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasKey("TimeEntryId");
 

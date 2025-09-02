@@ -17,61 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TimeEntries
 build_property.RootNamespace = TimeEntries
-build_property.ProjectDir = D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\TimeEntries\TimeEntries\
+build_property.ProjectDir = D:\Repos\RelevantzRIX2024\Intern Files\Intern Training\L1 Training\ASP .NET Core\TimeEntries\TimeEntries\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Intern Files\Intern Training\L1 Training\ASP .NET Core\TimeEntries\TimeEntries
+build_property.MSBuildProjectDirectory = D:\Repos\RelevantzRIX2024\Intern Files\Intern Training\L1 Training\ASP .NET Core\TimeEntries\TimeEntries
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Home/Index.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Home/Privacy.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Shared/Error.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Create.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZUVudHJ5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Delete.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZUVudHJ5XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Details.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZUVudHJ5XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Edit.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZUVudHJ5XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Index.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/TimeEntry/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGltZUVudHJ5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/_ViewImports.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/_ViewStart.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Shared/_Layout.cshtml]
+[D:/Repos/RelevantzRIX2024/Intern Files/Intern Training/L1 Training/ASP .NET Core/TimeEntries/TimeEntries/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hz5aphq489
