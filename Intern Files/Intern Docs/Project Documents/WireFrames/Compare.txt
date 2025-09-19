@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Payslip Comparison</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="container my-4">
+    <h2>Payslip Comparison</h2>
+    <form>
+      <div class="row mb-3">
+        <label for="payslip1" class="col-sm-3 col-form-label">First Payslip</label>
+        <div class="col-sm-9">
+          <select id="payslip1" class="form-select" required>
+            <option value="">Select First Payslip</option>
+            <option>Jan 2025</option>
+            <option>Dec 2024</option>
+            <option>Nov 2024</option>
+          </select>
+        </div>
+      </div>
+      
+      <div class="row mb-3">
+        <label for="payslip2" class="col-sm-3 col-form-label">Second Payslip</label>
+        <div class="col-sm-9">
+          <select id="payslip2" class="form-select" required>
+            <option value="">Select Second Payslip</option>
+            <option>Dec 2024</option>
+            <option>Nov 2024</option>
+            <option>Oct 2024</option>
+          </select>
+        </div>
+      </div>
+      
+      <button type="submit" class="btn btn-primary mb-4">Compare</button>
+    </form>
+
+    <section>
+      <h4>Comparison Summary</h4>
+      <div class="alert alert-info">
+        <p>Gross Pay increased by ₹2,600 (3.8%)</p>
+        <p>Net Pay increased by ₹2,600 (3.8%)</p>
+        <p>Deductions remained unchanged</p>
+      </div>
+    </section>
+
+    <section>
+      <h4>Visual Comparison (Charts Placeholder)</h4>
+      <div class="border rounded p-4 text-center text-muted mb-4" style="height: 200px;">
+        [Bar and Line Charts Here]
+      </div>
+    </section>
+
+    <section>
+      <h4>Detailed Comparison</h4>
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Component</th>
+            <th>Jan 2025</th>
+            <th>Dec 2024</th>
+            <th>Difference</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Basic Salary</td>
+            <td>₹50,000</td>
+            <td>₹47,500</td>
+            <td>+₹2,500</td>
+          </tr>
+          <tr>
+            <td>HRA</td>
+            <td>₹20,000</td>
+            <td>₹19,000</td>
+            <td>+₹1,000</td>
+          </tr>
+          <tr>
+            <td>Net Pay</td>
+            <td>₹71,100</td>
+            <td>₹68,500</td>
+            <td>+₹2,600</td>
+          </tr>
+        </tbody>
+      </table>
+      <button class="btn btn-outline-primary">Export PDF</button>
+      <button class="btn btn-outline-secondary ms-2">Back</button>
+    </section>
+  </div>
+</body>
+</html>

@@ -1,0 +1,447 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.1" pages="4">
+  <diagram id="G4S8fO5l4OdWL87_axSV" name="Page-4">
+    <mxGraphModel dx="1371" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HR" value="HR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="110" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-10" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5B0%2C0%2C0%2C0%2C5%5D%2C%5B0%2C1%2C0%2C0%2C-5%5D%2C%5B1%2C0%2C0%2C0%2C5%5D%2C%5B1%2C1%2C0%2C0%2C-5%5D%5D%3Bperimeter%3DorthogonalPerimeter%3BoutlineConnect%3D0%3BtargetShapes%3DumlLifeline%3BportConstraint%3Deastwest%3BnewEdgeStyle%3D%7B%26quot%3Bcurved%26quot%3B%3A0%2C%26quot%3Brounded%26quot%3B%3A0%7D%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22110%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=11;" vertex="1" parent="HR">
+          <mxGeometry x="50" y="360" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HR">
+          <mxGeometry x="50" y="60" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="msg9" value="9: HR submits payslip generation request with employees, working days, leaves" style="html=1;endArrow=block;fontSize=12;" edge="1" parent="HR" source="-35skFIwbcZR9KXo0lW7-10">
+          <mxGeometry x="-0.0118" y="10" relative="1" as="geometry">
+            <mxPoint x="60.00149253731348" y="390" as="sourcePoint" />
+            <mxPoint x="424.29999999999995" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVLN26eenFC8okwwOkhX-1" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="HR">
+          <mxGeometry x="40" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HRManager" value="HR Manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="50" width="110" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HRManager">
+          <mxGeometry x="50" y="150" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5B0%2C0%2C0%2C0%2C5%5D%2C%5B0%2C1%2C0%2C0%2C-5%5D%2C%5B1%2C0%2C0%2C0%2C5%5D%2C%5B1%2C1%2C0%2C0%2C-5%5D%5D%3Bperimeter%3DorthogonalPerimeter%3BoutlineConnect%3D0%3BtargetShapes%3DumlLifeline%3BportConstraint%3Deastwest%3BnewEdgeStyle%3D%7B%26quot%3Bcurved%26quot%3B%3A0%2C%26quot%3Brounded%26quot%3B%3A0%7D%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22110%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HRManager">
+          <mxGeometry x="50" y="440" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xVLN26eenFC8okwwOkhX-2" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="HRManager">
+          <mxGeometry x="40" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="System" value="Payroll System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="160" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-5" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5B0%2C0%2C0%2C0%2C5%5D%2C%5B0%2C1%2C0%2C0%2C-5%5D%2C%5B1%2C0%2C0%2C0%2C5%5D%2C%5B1%2C1%2C0%2C0%2C-5%5D%5D%3Bperimeter%3DorthogonalPerimeter%3BoutlineConnect%3D0%3BtargetShapes%3DumlLifeline%3BportConstraint%3Deastwest%3BnewEdgeStyle%3D%7B%26quot%3Bcurved%26quot%3B%3A0%2C%26quot%3Brounded%26quot%3B%3A0%7D%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22110%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=10;" vertex="1" parent="System">
+          <mxGeometry x="75" y="150" width="10" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="msg15" value="15: Employee requests access to approved payslip" style="html=1;endArrow=block;fontSize=12;" edge="1" parent="System">
+          <mxGeometry x="-0.0296" y="-10" relative="1" as="geometry">
+            <mxPoint x="250" y="599.8000000000001" as="sourcePoint" />
+            <mxPoint x="90" y="600" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVLN26eenFC8okwwOkhX-3" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="System">
+          <mxGeometry x="65" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Employee" value="Employee" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="50" width="110" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-7" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5B0%2C0%2C0%2C0%2C5%5D%2C%5B0%2C1%2C0%2C0%2C-5%5D%2C%5B1%2C0%2C0%2C0%2C5%5D%2C%5B1%2C1%2C0%2C0%2C-5%5D%5D%3Bperimeter%3DorthogonalPerimeter%3BoutlineConnect%3D0%3BtargetShapes%3DumlLifeline%3BportConstraint%3Deastwest%3BnewEdgeStyle%3D%7B%26quot%3Bcurved%26quot%3B%3A0%2C%26quot%3Brounded%26quot%3B%3A0%7D%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22110%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Employee">
+          <mxGeometry x="50" y="250" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22html%3D1%3Bpoints%3D%5B%5B0%2C0%2C0%2C0%2C5%5D%2C%5B0%2C1%2C0%2C0%2C-5%5D%2C%5B1%2C0%2C0%2C0%2C5%5D%2C%5B1%2C1%2C0%2C0%2C-5%5D%5D%3Bperimeter%3DorthogonalPerimeter%3BoutlineConnect%3D0%3BtargetShapes%3DumlLifeline%3BportConstraint%3Deastwest%3BnewEdgeStyle%3D%7B%26quot%3Bcurved%26quot%3B%3A0%2C%26quot%3Brounded%26quot%3B%3A0%7D%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22110%22%20width%3D%2210%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Employee">
+          <mxGeometry x="50" y="560" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="msg16" value="16: System delivers payslip data and PDFs" style="html=1;endArrow=block;fontSize=12;dashed=1;" edge="1" parent="Employee">
+          <mxGeometry x="0.0296" y="10" relative="1" as="geometry">
+            <mxPoint x="-124.83333333333343" y="630.0000000000001" as="sourcePoint" />
+            <mxPoint x="50" y="630.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="msg16">
+          <mxGeometry x="0.9466" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-35skFIwbcZR9KXo0lW7-12" value="6: System updates CTC status and notifies relevant parties" style="html=1;endArrow=block;fontSize=12;dashed=1;entryX=0.364;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Employee">
+          <mxGeometry x="0.0334" y="10" relative="1" as="geometry">
+            <mxPoint x="-109.93215686274522" y="260.2499999999999" as="sourcePoint" />
+            <mxPoint x="50" y="260.2499999999999" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVLN26eenFC8okwwOkhX-4" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="Employee">
+          <mxGeometry x="40" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="msg1" value="1: HR submits CTC creation form with details (salary components, start date, period)" style="html=1;endArrow=block;fontSize=12;" parent="1" edge="1">
+          <mxGeometry x="-0.0393" y="10" relative="1" as="geometry">
+            <mxPoint x="140" y="130" as="sourcePoint" />
+            <mxPoint x="499.5" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg2" value="2: System validates inputs and saves CTC in status &#39;Pending&#39;" style="html=1;endArrow=block;fontSize=12;dashed=1;" parent="1" target="-35skFIwbcZR9KXo0lW7-1" edge="1">
+          <mxGeometry x="0.043" y="-11" relative="1" as="geometry">
+            <mxPoint x="499.5" y="160.0000000000001" as="sourcePoint" />
+            <mxPoint x="304.6666666666665" y="160.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg3" value="3: HR Manager retrieves pending CTCs for review" style="html=1;endArrow=block;fontSize=12;" parent="1" source="-35skFIwbcZR9KXo0lW7-4" target="-35skFIwbcZR9KXo0lW7-5" edge="1">
+          <mxGeometry x="0.0813" y="20" relative="1" as="geometry">
+            <mxPoint x="480" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="210" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg4" value="4: System provides CTC details to HR Manager" style="html=1;endArrow=block;fontSize=12;dashed=1;" parent="1" source="-35skFIwbcZR9KXo0lW7-5" edge="1">
+          <mxGeometry x="-0.0266" y="-10" relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="309.9966666666665" y="240.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg5" value="5: HR Manager approves or rejects CTC" style="html=1;endArrow=block;fontSize=12;" parent="1" source="-35skFIwbcZR9KXo0lW7-4" edge="1">
+          <mxGeometry x="0.0266" y="10" relative="1" as="geometry">
+            <mxPoint x="299.9966666666665" y="270.0000000000001" as="sourcePoint" />
+            <mxPoint x="494.83" y="270.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg7" value="7: Employee views approved CTC details" style="html=1;endArrow=block;fontSize=12;" parent="1" source="-35skFIwbcZR9KXo0lW7-7" target="-35skFIwbcZR9KXo0lW7-5" edge="1">
+          <mxGeometry x="-0.0296" y="-10" relative="1" as="geometry">
+            <mxPoint x="674.8299999999999" y="350.0000000000002" as="sourcePoint" />
+            <mxPoint x="540" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg8" value="8: System returns CTC data to Employee" style="html=1;endArrow=block;fontSize=12;dashed=1;" parent="1" source="-35skFIwbcZR9KXo0lW7-5" edge="1">
+          <mxGeometry x="0.0296" y="10" relative="1" as="geometry">
+            <mxPoint x="600" y="450" as="sourcePoint" />
+            <mxPoint x="674.8299999999999" y="380.0000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg10" value="10: System calculates LOP automatically and creates payslips in &#39;Pending&#39; status" style="html=1;endArrow=block;fontSize=12;dashed=1;" edge="1" parent="1" target="-35skFIwbcZR9KXo0lW7-10">
+          <mxGeometry x="-0.0266" y="-10" relative="1" as="geometry">
+            <mxPoint x="494.83" y="480.0000000000001" as="sourcePoint" />
+            <mxPoint x="299.9966666666665" y="480.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg11" value="11: HR Manager retrieves pending payslips" style="html=1;endArrow=block;fontSize=12;" edge="1" parent="1">
+          <mxGeometry x="0.0813" y="10" relative="1" as="geometry">
+            <mxPoint x="310" y="520" as="sourcePoint" />
+            <mxPoint x="490" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="520" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg12" value="12: System provides payslip details to HR Manager" style="html=1;endArrow=block;fontSize=12;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.0214" y="-10" relative="1" as="geometry">
+            <mxPoint x="500" y="560" as="sourcePoint" />
+            <mxPoint x="309.9966666666665" y="559.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355.33" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg13" value="13: HR Manager approves or rejects payslips" style="html=1;endArrow=block;fontSize=12;" edge="1" parent="1">
+          <mxGeometry x="0.0266" y="10" relative="1" as="geometry">
+            <mxPoint x="309.9966666666665" y="600.0000000000001" as="sourcePoint" />
+            <mxPoint x="490" y="600" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="msg14" value="14: System updates payslip status and lets employees access them" style="html=1;endArrow=block;fontSize=12;dashed=1;" edge="1" parent="1" target="-35skFIwbcZR9KXo0lW7-8">
+          <mxGeometry x="0.1478" y="10" relative="1" as="geometry">
+            <mxPoint x="499.6666666666665" y="629.9999999999999" as="sourcePoint" />
+            <mxPoint x="674.5" y="629.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="630" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TAWqdaUwOHuNZG6vIplm" name="Page-3">
+    <mxGraphModel dx="1306" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="User" value="User&#xa;&#xa;- Id: int&#xa;- Email: string&#xa;- PasswordHash: string&#xa;- FirstName: string&#xa;- LastName: string&#xa;- Phone: string&#xa;- Department: string&#xa;- Designation: string&#xa;- DateOfJoining: DateTime&#xa;- Role: UserRole&#xa;- IsActive: bool&#xa;- IsProfileComplete: bool&#xa;- CreatedAt: DateTime&#xa;&#xa;+ FullName: string" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="CTC" value="CTC&#xa;&#xa;- Id: int&#xa;- UserId: int&#xa;- MonthlyBasicSalary: decimal&#xa;- MonthlyHRA: decimal&#xa;- MonthlyAllowances: decimal&#xa;- MonthlyDeductions: decimal&#xa;- MonthlyGrossSalary: decimal&#xa;- MonthlyNetSalary: decimal&#xa;- EffectiveFrom: DateTime&#xa;- PeriodInMonths: int&#xa;- Status: CTCStatus&#xa;- CreatedBy: int&#xa;- ApprovedBy: int" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-90" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="Payslip" value="Payslip&#xa;&#xa;- Id: int&#xa;- UserId: int&#xa;- CTCId: int&#xa;- PayPeriodStart: DateTime&#xa;- PayPeriodEnd: DateTime&#xa;- WorkingDays: int&#xa;- LeavesTaken: int&#xa;- BasicSalary: decimal&#xa;- Allowances: decimal&#xa;- Overtime: decimal&#xa;- Bonus: decimal&#xa;- Deductions: decimal&#xa;- LOP: decimal&#xa;- GrossPay: decimal&#xa;- NetPay: decimal&#xa;- Status: PayslipStatus" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="50" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UserService" value="UserService&#xa;&#xa;+ GetAllUsersAsync()&#xa;+ CreateUserAsync()&#xa;+ UpdateUserAsync()&#xa;+ DeleteUserAsync()&#xa;+ VerifyPasswordAsync()&#xa;+ ChangePasswordAsync()" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="440" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CTCService" value="CTCService&#xa;&#xa;+ GetAllCTCsAsync()&#xa;+ CreateCTCAsync()&#xa;+ ApproveCTCAsync()&#xa;+ GetActiveCTCAsync()&#xa;+ GetUserCTCsAsync()" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PayrollService" value="PayrollService&#xa;&#xa;+ GeneratePayslipsBatchAsync()&#xa;+ ApprovePayslipAsync()&#xa;+ GetUserPayslipsAsync()&#xa;+ ComparePayslipsAsync()" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rel1" edge="1" parent="1" source="User" target="CTC">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="200" as="sourcePoint" />
+            <mxPoint x="300" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel1_label" value="1:*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="rel1">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel2" edge="1" parent="1" source="User" target="Payslip">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel2_label" value="1:*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="rel2">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel3" edge="1" parent="1" source="CTC" target="Payslip">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel3_label" value="1:*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="rel3">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GNy7WMFy5_vX-Lsf5ip-5" value="uses" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UserService" target="User">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <mxPoint x="410" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GNy7WMFy5_vX-Lsf5ip-6" value="uses" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTCService" target="CTC">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="280" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GNy7WMFy5_vX-Lsf5ip-7" value="uses" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PayrollService" target="Payslip">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="480" y="630" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LAKkdb1SaMN8EKR5clIM" name="Page-2">
+    <mxGraphModel dx="1371" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="system" value="Payroll Dashboard System" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#dee2e6;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="200" y="50" width="700" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="uc1" value="Login with Email Confirmation" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="50" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc2" value="Create User Account" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc3" value="Manage Users" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc4" value="Create CTC" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="50" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc5" value="Approve CTC" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="200" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc6" value="Generate Payslips" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="50" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc7" value="Approve Payslips" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc8" value="Compare Payslips" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="50" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc9" value="Export PDF Documents" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc10" value="View Dashboard" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uc11" value="Complete Profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="system" vertex="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="admin" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrmanager" value="HR Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="940" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hr" value="HR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="50" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="employee" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="50" y="600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" style="strokeWidth=2;" parent="1" source="admin" target="uc2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" style="strokeWidth=2;" parent="1" source="admin" target="uc3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" style="strokeWidth=2;" parent="1" source="hrmanager" target="uc5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" style="strokeWidth=2;" parent="1" source="hrmanager" target="uc7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge5" style="strokeWidth=2;" parent="1" source="hr" target="uc4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge6" style="strokeWidth=2;" parent="1" source="hr" target="uc6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge7" style="strokeWidth=2;" parent="1" source="employee" target="uc8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge8" style="strokeWidth=2;" parent="1" source="employee" target="uc11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-1" id="7D_7V-6_0nqafFBUzmNh">
+    <mxGraphModel dx="1443" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Users" value="Users" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="200" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Users_PK" value="🔑 Id (PK): INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;" parent="Users" vertex="1">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Users_fields" value="Email: VARCHAR(255) UNIQUE&#xa;PasswordHash: VARCHAR(500)&#xa;FirstName: VARCHAR(100)&#xa;LastName: VARCHAR(100)&#xa;Phone: VARCHAR(15)&#xa;Department: VARCHAR(100)&#xa;Designation: VARCHAR(100)&#xa;DateOfJoining: DATETIME&#xa;Role: ENUM&#xa;IsActive: BOOLEAN&#xa;IsProfileComplete: BOOLEAN&#xa;CreatedAt: DATETIME&#xa;UpdatedAt: DATETIME&#xa;🔗 CreatedBy: INT (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Users" vertex="1">
+          <mxGeometry y="52" width="200" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="CTCs" value="CTCs" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="660" y="20" width="220" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CTCs_PK" value="🔑 Id (PK): INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;" parent="CTCs" vertex="1">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="CTCs_fields" value="🔗 UserId: INT (FK)&#xa;MonthlyBasicSalary: DECIMAL(18,2)&#xa;MonthlyHRA: DECIMAL(18,2)&#xa;MonthlyConveyanceAllowance: DECIMAL(18,2)&#xa;MonthlyMedicalAllowance: DECIMAL(18,2)&#xa;MonthlySpecialAllowance: DECIMAL(18,2)&#xa;MonthlyPF: DECIMAL(18,2)&#xa;MonthlyESI: DECIMAL(18,2)&#xa;MonthlyTDS: DECIMAL(18,2)&#xa;MonthlyOtherDeductions: DECIMAL(18,2)&#xa;MonthlyGrossSalary: DECIMAL(18,2)&#xa;MonthlyNetSalary: DECIMAL(18,2)&#xa;EffectiveFrom: DATETIME&#xa;PeriodInMonths: INT&#xa;TotalGrossSalary: DECIMAL(18,2)&#xa;TotalNetSalary: DECIMAL(18,2)&#xa;Status: ENUM&#xa;Comments: TEXT&#xa;🔗 CreatedBy: INT (FK)&#xa;🔗 ApprovedBy: INT (FK)&#xa;CreatedAt: DATETIME&#xa;ApprovedAt: DATETIME" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="CTCs" vertex="1">
+          <mxGeometry y="52" width="220" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="Payslips" value="Payslips" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="940" y="280" width="220" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Payslips_PK" value="🔑 Id (PK): INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;" parent="Payslips" vertex="1">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Payslips_fields" value="🔗 UserId: INT (FK)&#xa;🔗 CTCId: INT (FK)&#xa;PayPeriodStart: DATETIME&#xa;PayPeriodEnd: DATETIME&#xa;PeriodInMonths: INT&#xa;WorkingDays: INT&#xa;LeavesTaken: INT&#xa;ActualDays: INT&#xa;BasicSalary: DECIMAL(18,2)&#xa;HRA: DECIMAL(18,2)&#xa;ConveyanceAllowance: DECIMAL(18,2)&#xa;MedicalAllowance: DECIMAL(18,2)&#xa;SpecialAllowance: DECIMAL(18,2)&#xa;Overtime: DECIMAL(18,2)&#xa;Bonus: DECIMAL(18,2)&#xa;PF: DECIMAL(18,2)&#xa;ESI: DECIMAL(18,2)&#xa;TDS: DECIMAL(18,2)&#xa;LOP: DECIMAL(18,2)&#xa;OtherDeductions: DECIMAL(18,2)&#xa;GrossPay: DECIMAL(18,2)&#xa;TotalDeductions: DECIMAL(18,2)&#xa;NetPay: DECIMAL(18,2)&#xa;Status: ENUM&#xa;Comments: TEXT&#xa;🔗 GeneratedBy: INT (FK)&#xa;🔗 ApprovedBy: INT (FK)&#xa;GeneratedAt: DATETIME&#xa;ApprovedAt: DATETIME" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Payslips" vertex="1">
+          <mxGeometry y="52" width="220" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="Notifications" value="Notifications" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Notifications_PK" value="🔑 Id (PK): INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;" parent="Notifications" vertex="1">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Notifications_fields" value="🔗 UserId: INT (FK)&#xa;Title: VARCHAR(200)&#xa;Message: VARCHAR(1000)&#xa;Type: ENUM&#xa;EntityType: VARCHAR(100)&#xa;EntityId: INT&#xa;IsRead: BOOLEAN&#xa;CreatedAt: DATETIME&#xa;ReadAt: DATETIME" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Notifications" vertex="1">
+          <mxGeometry y="52" width="200" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="AuditLogs" value="AuditLogs" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="400" y="480" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AuditLogs_PK" value="🔑 Id (PK): INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;" parent="AuditLogs" vertex="1">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AuditLogs_fields" value="Action: VARCHAR(100)&#xa;EntityType: VARCHAR(100)&#xa;EntityId: INT&#xa;🔗 UserId: INT (FK)&#xa;UserEmail: VARCHAR(255)&#xa;OldValues: TEXT&#xa;NewValues: TEXT&#xa;IpAddress: VARCHAR(45)&#xa;Timestamp: DATETIME" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="AuditLogs" vertex="1">
+          <mxGeometry y="52" width="200" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="LoginAttempts" value="LoginAttempts" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="680" y="480" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LoginAttempts_PK" value="🔑 Id (PK): INT" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;" parent="LoginAttempts" vertex="1">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LoginAttempts_fields" value="🔗 UserId: INT (FK)&#xa;Email: VARCHAR(255)&#xa;ConfirmationToken: VARCHAR(500)&#xa;IsConfirmed: BOOLEAN&#xa;CreatedAt: DATETIME&#xa;ExpiresAt: DATETIME&#xa;IpAddress: VARCHAR(45)&#xa;UserAgent: VARCHAR(500)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="LoginAttempts" vertex="1">
+          <mxGeometry y="52" width="200" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="rel1" parent="1" source="Users" target="CTCs" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel1_label" value="1:*&#xa;Creates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fillColor=#ffffff;strokeColor=#000000;" parent="rel1" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel2" parent="1" source="Users" target="Payslips" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel2_label" value="1:*&#xa;Has" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fillColor=#ffffff;strokeColor=#000000;" parent="rel2" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel3" parent="1" source="CTCs" target="Payslips" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel3_label" value="1:*&#xa;Generates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fillColor=#ffffff;strokeColor=#000000;" parent="rel3" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel4" parent="1" source="Users" target="Notifications" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel4_label" value="1:*&#xa;Receives" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fillColor=#ffffff;strokeColor=#000000;" parent="rel4" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel5" parent="1" source="Users" target="AuditLogs" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel5_label" value="1:*&#xa;Logs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fillColor=#ffffff;strokeColor=#000000;" parent="rel5" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rel6" parent="1" source="Users" target="LoginAttempts" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rel6_label" value="1:*&#xa;Attempts" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fillColor=#ffffff;strokeColor=#000000;" parent="rel6" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend" value="Legend:&#xa;🔑 = Primary Key&#xa;🔗 = Foreign Key&#xa;* = Many&#xa;1 = One" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="40" width="150" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

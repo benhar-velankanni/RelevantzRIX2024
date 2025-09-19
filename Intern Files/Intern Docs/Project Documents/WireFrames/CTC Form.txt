@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Create CTC</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="container my-4">
+    <h2>Create Cost to Company (CTC)</h2>
+    <form>
+      <div class="mb-3">
+        <label for="employeeSelect" class="form-label">Employee</label>
+        <select id="employeeSelect" class="form-select" required>
+          <option value="">Select Employee</option>
+          <option>John Doe</option>
+          <option>Jane Smith</option>
+          <option>Mike Brown</option>
+        </select>
+      </div>
+
+      <div class="row mb-3">
+        <div class="col-md-6">
+          <label for="startDate" class="form-label">Start Date</label>
+          <input type="date" id="startDate" class="form-control" required />
+        </div>
+        <div class="col-md-6">
+          <label for="period" class="form-label">Period (Months)</label>
+          <input type="number" id="period" class="form-control" min="1" max="60" value="12" required />
+        </div>
+      </div>
+      
+      <h5>Monthly Earnings</h5>
+      <div class="row g-3 mb-3">
+        <div class="col-md-4">
+          <label for="basicSalary" class="form-label">Basic Salary</label>
+          <input type="number" id="basicSalary" class="form-control" min="0" required />
+        </div>
+        <div class="col-md-4">
+          <label for="hra" class="form-label">HRA</label>
+          <input type="number" id="hra" class="form-control" min="0" value="0" />
+        </div>
+        <div class="col-md-4">
+          <label for="conveyance" class="form-label">Conveyance Allowance</label>
+          <input type="number" id="conveyance" class="form-control" min="0" value="0" />
+        </div>
+      </div>
+
+      <div class="row g-3 mb-3">
+        <div class="col-md-4">
+          <label for="medical" class="form-label">Medical Allowance</label>
+          <input type="number" id="medical" class="form-control" min="0" value="0" />
+        </div>
+        <div class="col-md-4">
+          <label for="specialAllowance" class="form-label">Special Allowance</label>
+          <input type="number" id="specialAllowance" class="form-control" min="0" value="0" />
+        </div>
+        <div class="col-md-4">
+          <label for="pf" class="form-label">Provident Fund (PF)</label>
+          <input type="number" id="pf" class="form-control" min="0" value="0" />
+        </div>
+      </div>
+
+      <div class="row g-3 mb-4">
+        <div class="col-md-4">
+          <label for="esi" class="form-label">ESI</label>
+          <input type="number" id="esi" class="form-control" min="0" value="0" />
+        </div>
+        <div class="col-md-4">
+          <label for="tds" class="form-label">TDS</label>
+          <input type="number" id="tds" class="form-control" min="0" value="0" />
+        </div>
+        <div class="col-md-4">
+          <label for="otherDeductions" class="form-label">Other Deductions</label>
+          <input type="number" id="otherDeductions" class="form-control" min="0" value="0" />
+        </div>
+      </div>
+
+      <div class="mb-4 p-3 bg-light border rounded">
+        <p><strong>Monthly Gross Salary:</strong> ₹0</p>
+        <p><strong>Monthly Net Salary:</strong> ₹0</p>
+        <p class="text-muted">* Calculated automatically based on inputs</p>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Create CTC</button>
+      <button type="reset" class="btn btn-secondary ms-2">Cancel</button>
+    </form>
+  </div>
+</body>
+</html>
